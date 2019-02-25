@@ -1,0 +1,61 @@
+index_oeru;index_dialoog
+campagne_oeruschild_derde_etappe
+<div style='border-style: solid;border-color:red;padding-left:20px;padding-top:10px'>
+De derde étappe is afgerond op 28 februari 2018
+</div>
+
+<h1>De derde campagne-étappe</h1>
+<p>Vol stoom vooruit, maar voor wie wil een stukje waardevolle verdieping. Een klik op de blauwe regels brengt dit in beeld.
+<p>Alle achtergronden en tussenstanden over de derde étappe zijn verzameld in <a href='https://e-gulden.org/index.php/etappe3verloop'>etappe3 verloop</a>
+<hr>
+<div name='faq' onclick='faq(this)'><a style='cursor:pointer' itemprop=url>
+<h4>Een balans na twee étappes</h4>
+</a></div>
+<div name='answer' style='display:none'><p>Ook de tweede étappe heeft onze verwachtingen overtroffen dankzij loyale ambassadeurs en geïnteresseerde nieuwkomers.
+<p><ol><li>De 450 deelnemers van de eerste étappe, die we hebben gebombardeerd tot ambassadeurs, zijn in staat geweest om bijna 400 permanent aktieve nieuwe EFL-portemonneehouders op de been te brengen. Dat is net geen verdubbeling maar ook niet gering. Het is vooral voor iedereen een leereffect omdat iedereen heeft ervaren <u>dat het moeilijk is om anderen van crypotogeld te overtuigen</u>.
+<li>Om een echt netwerkeffect te bereiken (bijvoorbeeld 350-700-1400...), zonder de instap onverantwoord gemakkelijk te maken, <u>zal iedereen meer uitgedaagd moeten worden</u>. Een toekomstige wereld, gebaseerd op cryptogeld, betekent dat iedereen bankier moet worden van zijn eigen geld. Dat gaat niet vanzelf.
+</ol>
+<p>
+Parallel bouwen we met vrijwilligers uit de community aan een meer moderne en laagdrempeliger website die het huidige e-gulden.org als boegbeeld gaat vervangen. Het is de bedoeling dat de nieuwe website open source wordt zodat iedereen kan participeren. Het wordt zo ook geen website van de stichting, maar van de community.
+<p>
+Er is een nieuwe walletversie waarin met name de toegang tot het configuratiebestand (coin.conf) is vereenvoudigd. De noodzaak om je direct met onze servers te verbinden (addnode) is komen te vervallen. En "last but not least" is deze versie ook beschikbaar voor apple-osx gebruikers en voor de energiezuinige Raspberry Pi. Over deze laatste "mini-kluis" is het laatste woord nog niet gezegd.
+<hr>
+<div name=like></div></div>
+Voordat iemand vanaf dit punt nog één stap verder gaat, willen we zeker weten dat iedereen zijn wallet heeft beveiligd.
+<div name='faq' onclick='faq(this)'><a style='cursor:pointer' itemprop=url>
+<h4>Een kort intermezzo:  Backup</h4>
+</a></div>
+<div name='answer' style='display:none'><p><p><ol><li>Versleutel je wallet. Er is een menufunctie beschikbaar: "instellingen-versleutel portemonnee". Doe dit niet lichtzinnig en weet zeker dat je een wachtwoord gebruikt dat je over tien jaar nog terug kunt vinden. Verzin het dus niet door het ter plekke door het onzichtbare wachtwoord-veld in te voeren. Type het zichtbaar ergens in of schrijf het op en zorg dat je het eerst goed opslaat vóórdat je het in de wallet invoert.
+<li>Maak een backup van je portemonnee met het menu "Bestand-Backup Portemonnee". De software biedt aan om een bestand wallet.dat ergens op te slaan. Noem dat bestand niet wallet.dat, maar bijvoorbeeld EFL-december-2017.dat. Zorg er daarna voor dat een kopie van dat bestand buiten je computer wordt opgeslagen (bijvoorbeeld een goede USB-stick). Ga nog steeds niet verder tot dat dit veilig is gebeurd.
+</ol>
+Deze twee stappen zijn de belangrijkste die genomen moeten worden voordat je jezelf "Bankier van je eigen geld" mag noemen.
+<hr>
+<div name=like></div></div>
+We hebben geprobeerd om de derde étappe vooral makkelijker te maken. Ook voor ons is dat een leerproces, maar omgekeerd verwachten we ook een minimale vaardigheid. We zijn benieuwd naar jullie commentaar.
+<div name='faq' onclick='faq(this)'><a style='cursor:pointer' itemprop=url>
+<h4>Wat is er veranderd ten opzichte van de tweede étappe?</h4>
+</a></div>
+<div name='answer' style='display:none'><p>Heel kort voor bestaande deelnemers:  Zorg dat je de <a href='https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest'>nieuwste wallet</a> draait en uacomment hebt ingevuld. uacomment hoeft niet te worden veranderd.
+<b>Het saldo blijft in beeld als uursaldo, maar met de strikte vermelding dat uren niet gelijk staan aan EFL. Het beschikbare budget wordt verdeeld in verhouding tot de behaalde uursaldos en tot een maximum van 1000EFL</b>.
+<p>In detail:<br>
+<ol><li>De nieuwste software is verplicht: <a href='https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest'>versie 1.4.3</a>
+In deze versie kan coin.conf (voor het invullen van uacomment=...) met een druk op de knop worden bereikt, zonder dat er een cursus windows nodig is. Ook het toevoegen van addnode=... om onze campagneservers te bereiken is overbodig geworden.
+<li>Niet dat dit is veranderd, maar voor de duidelijkheid: Het budget voor ambassadeurs en nieuwkomers is voor iedere groep appart 100.000EFL
+<li>De looptijd van de derde étappe is twee maanden. Dus Januari en Februari; Uitbetaling volgt het weekend erna.
+<li>Er komt een prijzenpot voor de 10 beste ambassadeurs op basis van aantal nieuwkomers-uren; Eerste prijs 4000EFL 2e:3000 3e:2000 en 4-10 een prijs van 1000EFL. Iedere ambassadeur krijgt bovendien zijn eigen ranglijstpositie in beeld.
+<li>Nieuwkomers die niet door een ambassadeur op de campagne zijn gewezen worden automatisch toegewezen te worden aan een willekeurige ambassadeur.
+<li>25% van het ambassadeursbudget is bestemd voor iedere ambassadeur en wordt evenredig verdeeld afhankelijk van het aantal uur dat de wallet aktief is in de maanden januari en februari 2018
+<li>75% van het ambassadeursbudget is bestemd voor ambassadeurs die nieuwkomers aanbrengen en wordt evenredig verdeeld afhankelijk van het aantal uren dat de wallets van deze nieuwkomers aktief zijn.
+<li>De ambassadeur behoudt het overzicht van zijn nieuwkomers uit de tweede étappe. De betreffende uren worden nog voor 25% meegeteld.
+<li>Zoals voorheen is er voor ambassadeur en nieuwkomer een plafond van 1000 EFL en zijn dezelfde deelnamevoorwaarden van toepassing als tijdens de vorige étappes.
+<li>Vragen van nieuwkomers dienen te worden voorgelegd aan hun ambassadeur. Vragen van ambassadeurs kunnen worden voorgelegd aan de stichting via support@e-gulden.org. Hieraan is een nieuw ticket-systeem gekoppeld.
+<li>We willen deze étappe ook wat sprekender maken. Daarom brengen we een overzicht van de tien laaste nieuwkomers en de tien hoogst scorende ambassadeurs.
+</ol>
+<br><br>
+<hr>
+<div name=like></div></div>
+<br><br>
+module_oeruschild3
+
+
+

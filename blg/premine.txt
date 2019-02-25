@@ -1,0 +1,16 @@
+index_verantwoording
+premine
+<p>Bij het opstarten van de e-gulden blockchain verkeerden de initiatiefnemers in een bijzondere situatie: zij waren de enigen die toegang hadden tot de blockchain en hadden dus het rijk alleen. 
+In zo’n situatie is het mogelijk om regels vast te stellen voor het verdere verloop van het elektronisch geld, zoals de beloning voor het minen van een blok en de streeftijd om een blok af te ronden. 
+
+<p>Omdat een van de doelstellingen van de e-Gulden is om zoveel mogelijk Nederlanders e-Gulden te laten gebruiken, was het oorspronkelijke idee dat weggeven van een klein bedrag aan zoveel mogeijk mensen daarvoor het juiste middel is. Daarom de regel opgesteld dat de beloning voor het minen van het eerste blok, de helft moest zijn van alle e-Guldens die ooit in omloop zouden komen. Het betreft hier 10,5 miljoen e-Guldens en dit noem je de pre-mine.  
+
+<p>De stichting is zo conservatief mogelijk met het uitdelen en heeft op basis van voortschreidend inzicht [https://e-gulden.org/index.php/premine-doelstellingen,uitdeelcriteria geformuleerd].
+
+#Het volgen van de premine
+Door een fors deel te “pre-minen” hebben de initiatiefnemers de verantwoording op zich genomen voor het distribueren van de helft van de EFL, een verantwoording die de stichting op zijn beurt van hen heeft overgenomen voor de overgebleven e-Guldens op het moment van overdracht. Op deze pagina brengen wij het verloop van de distributie in beeld. De transfer van e-Guldens is in de blockchain te volgen, maar niet wie de eigenaar is van de e-Guldens. Het is een typische eigenschap van cryptocurrencies, dat bij het versturen van cryptogeld een grotere hoeveelheid uit je wallet (portemonnee) verdwijnt om vervolgens weer gedeeltelijk in je portemonnee terug te komen, als wisselgeld. Dit dan wel op een ander, nieuw, adres. Om dit goed in beeld te brengen en zo de distributie van de pre-mine aan jullie te kunnen verantwoorden hebben wij het grootste deel van de pre-mine in grote blokken “bevroren”. Deze blokken worden pas “ontdooid” wanneer deze voor de verdere distributie van e-Gulden moeten worden gebruikt. Hoe we dat precies hebben gedaan is uitgebreid op [http://forum.egulden.org/index.php?topic=643.msg1426#msg1426,het forum] uitgelegd.</p>
+#Een overzicht
+In het onderstaande overzicht wordt naast de overdrachtsituatie een actueel beeld gegeven van de stand van zaken wat de pre-mine betreft. Er zal altijd sprake zijn van één zogenaamd ‘hot wallet’ adres. Als er e-Guldens uit die hot wallet worden uitgegeven doen we dat ten behoeve van een campagne. Een overzicht van campagnes/bestemmingen en het budget dat daaraan is of wordt besteed wordt gepresenteerd op de [https://egulden.org/index.php/campagnes,campagne-pagina]. De inhoud van het hot-wallet adres zal geleidelijk minder worden en het adres zelf zal veranderen, zijnde het wisselgeldadres. Door regelmatig deze pagina te checken kun je zien dat het totaal aan campagnes besteed budget in de loop der tijd zal toenemen totdat, uiteindelijk, de hele pre-mine aan de Nederlanders is uitgedeeld.</p>
+#-
+<h2>De actuele situatie van de premine</h2>
+module_premine

@@ -1,0 +1,31 @@
+index_kort;index_doe_ook_mee;index_info;index_jour;module_home;module_poll;moduledewereldisgroot;module_home
+De e-Gulden
+<intro>module_home
+</intro>
+
+<br><p>De elektronische gulden ofwel de e-Gulden, afgekort EFL, is een betaal-, reken- en spaarmiddel bestemd voor de nederlandse markt. 
+<br><p>De waarde van de e-Gulden wordt bepaald op vrij toegankelijke beurzen. 
+<br><p>De e-Gulden wordt begeleid door de stichting Electronic Gulden Foundation, maar is volledig publiek domein. Zowel de [https://github.com/Electronic-Gulden-Foundation/egulden,software programmacode] als de [https://chainz.cryptoid.info/efl/,data] zijn voor iedereen vrij toegankelijk.
+<br><p>De financiële overdracht van e-Guldens gebeurt van persoon naar persoon via internet en functioneert daarom als <b>contant geld</b>.
+#Meer over elektronisch geld...
+e-Gulden is niet de enige vorm van elektronisch geld. Er zijn honderden andere muntsoorten met Bitcoin als meest bekende. In tegenstelling tot Bitcoin is de e-Gulden exclusief op Nederland gericht. Een regionale opdeling van elektronisch geld is praktisch omdat een mondiale boekhouding voor dagelijks betalingsverkeer een monstrueuze omvang heeft van 1500GB per uur, uitgaande van 20 betalingen per persoon per dag. 
+<br><p>Omdat verschillende elektronische valuta eenvoudig in elkaar kunnen worden omgezet zullen zo vanzelf spaarvaluta naast betaalvaluta ontstaan. Het aantal transacties met spaarvaluta is per definitie beperkt. 
+Transacties met regionale valuta zijn eveneens per definitie beperkt omdat zij zich concentreren binnen een regio. 
+<br><p>Munt-initiatieven met een regionale willekeur zijn daarom de beste aanvulling op spaarmunten als Bitcoin (Goud) en Litecoin (Zilver) die wij ons kunnen voorstellen. 
+Als we iets van de moedermunt Bitcoin hebben geleerd dan zou het groeiproces wat korter kunnen zijn in nederlandstalige contreien.
+<br><p>Kortom, het toekomstige wereldwijde betalingsverkeer is te omvangrijk en kwetsbaar als dit met een enkele blockchain zou worden ondervangen. Een blockchain voor iedere community biedt een extra laag van decentralisatie die tevens economische heterogeniteit weerspiegelt. Terwijl momenteel de verschillende blockchains op het niveau van beurzen aan elkaar worden gekoppeld, wordt er hard gewerkt aan mogelijkheden om ook die koppelingen decentraal uit te voeren, bijvoorbeeld via het [https://lightning.network/,lightning netwerk].
+<br><p>dewereldisgroot
+#Verklaring van onderstaande getallen
+_e-Guldens in omloop
+Het totaal aantal e-Guldens dat ooit zal ontstaan bedraagt 21.000.000. 
+De helft daarvan is ontstaan bij de geboorte van de e-Gulden (19 maart 2014) als Premine. De rest komt ter beschikking tijdens een proces dat mining (delven) genoemd wordt. De precieze opbouw wordt gepresenteerd in [https://e-gulden.org/index.php/Toekomst,Toekomst van de e-Gulden]. Het aantal e-Guldens dat nog gaat ontstaan is dus 21 Miljoen minus e-Guldens in omloop minus de premine reserve.
+_Premine reserve
+Omstreeks de helft van de premine is direct na de oprichting van de e-Gulden besteed aan opbouw- ,media- en uitdeelcampagnes. Het restant is overgedragen aan de stichting Electronic Gulden Foundation. Dit restant wordt uitsluitend besteed in de vorm van uitdeelcampagnes, waar een nauwgezette [https://e-gulden.org/index.php/campagnes,boekhouding] van wordt bijgehouden.
+_Nieuwste blok
+e-Gulden transacties worden gemiddeld om de twee minuten in de vorm van een blok met nieuwe transacties aan de openbare e-Gulden database (blockchain) geknoopt door miners (delvers). Zij worden daarvoor beloond met e-Guldens die op dat moment nieuw ontstaan. Die [https://e-gulden.org/index.php/Toekomst,beloning] halveert om de 210.000 blokken.
+_Koers
+De koers van de e-Gulden ontstaat op de [https://e-gulden.org/index.php/het_circuit,beschikbare beurzen] door vraag en aanbod. De koers wordt berekend als het gemiddelde van de hoogste biedprijs en de laagste vraagprijs
+_Rekenkracht
+Om het aaneenrijgen van e-Gulden blokken een onomkeerbaar proces te laten zijn wordt een grote hoeveelheid rekenkracht gevergd. De benodigde rekenkracht wordt zo afgestemd dat het gemiddeld twee minuten kost met de beschikbare rekenkracht om een nieuw transactieblok toe te voegen. Een transactie wordt als veilig beschouwd als er zes blokken volgen op het blok waarin de transactie is opgenomen, maar iedereen is vrij om eigen wachttijd te hanteren voordat een betaling wordt geaccepteerd. (Een bitcointransactie wordt door de meeste betaalsystemen al als veilig beschouwd als deze op het netwerk verschijnt). De beschikbare rekenkracht wordt uitgedrukt in MegaHash per seconde. Een Hash is de onderliggende berekening en Mega betekent één miljoen.
+#-
+module_poll

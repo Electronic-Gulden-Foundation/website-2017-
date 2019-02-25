@@ -1,0 +1,25 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px'>
+<p style='font-size:12px'>
+Tijdens de eerste campagne-étappe lag het initiatief bij de Stichting Electronic Gulden foundation om nieuwe deelnemers uit te nodigen. 
+Deze étappe wordt gedreven door ambassadeurs en zij zijn verantwoordelijk om nieuwe deelnemers te vinden. 
+Nieuwe deelnemers dienen daarom het emailadres van de ambassadeur op te geven die hen op het spoor van de e-Gulden heeft gebracht.
+<p style='font-size:12px'>Mocht u niet door een ambassadeur op het spoor van deze campagne zijn gekomen 
+stuur dan een mailtje naar foundation@e-gulden.org met als onderwerp "ambassadeur gezocht". 
+Wij plaatsen dan een oproep en brengen u in contact met een ambassadeur. 
+<p style='font-size:12px'>
+U kunt ook onmiddellijk zelf optreden als ambassadeur en u verdient dan alleen als andere nieuwkomers u als ambassadeur aanwijzen. Vul
+in dat geval foundation@e-gulden.org in als ambassadeur mailadres.
+<table>
+<tr><td align=right style='font-weight:bold'>Uw e-Gulden rekeningnummer: </td><td>[idn_efl]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uw nieuwsbrief mailadres: </td><td>[idn_mail]</td></tr>
+<tr><td align=right style='font-weight:bold'>Het ambassadeur mailadres: </td><td><input style='width:300px' id=id_mail type=text></td></tr>
+<tr><td align=right id=idn_opslaan><input type=button onclick='doorgaan()' value='Opslaan'></td><td></td></tr>
+<tr><td></td><td id=idn_commentaar></td></tr>
+</table>
+</div>
+
+<script>
+function doorgaan() {
+}
+</script>

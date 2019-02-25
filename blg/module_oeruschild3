@@ -1,0 +1,60 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px'>
+<ul>
+<li>Vul hieronder uw EFL-rekeningnummer in (34 karakters, beginnend met een L).
+<div name='faq' onclick='faq(this)'><a style='cursor:pointer' itemprop=url>
+<h4>Heeft u nog geen EFL-rekeningnummer?</h4>
+</a></div>
+<div name='answer' style='display:none'>
+Heeft u nog niet de nieuwste versie van de wallet download deze dan eerst: <a href='https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest'>Laatste versie</a>
+<ol>
+<li>Klik in uw wallet op ontvangen; 
+<li>Vul als label in "campagne"; 
+<li>Klik op betalingsverzoek; 
+<li>Klik op de nieuwe betaalregel; 
+<li>Druk op de toon-knop en kopieer het adres. </span>
+</ol>
+<img src="/images/campagne_verzoek.jpg">
+<hr>
+</div>
+
+<li>Vul in het onderstaande formulier uw Handtekening in. 
+<div name='faq' onclick='faq(this)'><a style='cursor:pointer' itemprop=url>
+<h4>Hoe vindt u uw handtekening...</h4>
+</a></div>
+<div name='answer' style='display:none'>
+<ol>
+<li>Klik in uw wallet op menu "Bestand:Onderteken bericht"
+<li>Plak uw EFL-rekeningnummer in het bovenste veld
+<li>Plak of type in het berichtveld de tekst <b>oeruschild</b> (kleine letters)
+<li>Druk op "onderteken bericht"
+<li>en voilá ...
+<li>Kopieer de handtekening met de speciale knop
+<img src="/images/campagne_handtekening.jpg">
+<hr>
+</div>
+
+<li>Zorg dat uw wallet uw EFL-rekeningnummer uitzendt. 
+<div name='faq' onclick='faq(this)'><a style='cursor:pointer' itemprop=url>
+<h4>Hoe stelt u dat in...</h4>
+</a></div>
+<div name='answer' style='display:none'>
+Heeft u nog niet de nieuwste versie van de wallet download deze dan eerst: <a href='https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest'>Laatste versie</a>
+<ol>
+<li>Klik in uw wallet op menu "Hulp:Debugscherm" en ga naar tabblad informatie
+<li>Klik op de Knop "Open" onder Configuratiebestand (2)
+<br>Mocht het bestand (coin.conf) zicht niet openen maak het dan handmatig aan in de datamap (zie 3)
+<li>Type hier de volgende regel in:
+<br>uacomment=... 
+<br>Op de plaats van de puntjes zet u uw efl-rekeningnummer, beginnend met de letter L
+<li>Sla het configuratiebestand op en herstart uw wallet
+<li>Controleer of uw rekeningnummer zich vertoond op het informatietabblad op positie (1)
+<img src="/images/coin_conf.jpg">
+<hr>
+</div>
+
+</ol>
+<hr>
+</div>
+<script>
+</script>

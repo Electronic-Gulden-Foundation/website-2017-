@@ -1,0 +1,19 @@
+index_portemonnee
+Raspberry Pi
+<p>e-Gulden vormt samen met de Raspberry Pi een ideale combinatie: Een energiezuinig permanent verlengstuk van het e-Gulden netwerk. Een ideale combinatie om mee te doen met de ambassadeurscampagne. Of wat dacht u ervan om deze kadeau te doen of te verkopen aan een nieuwkomer. (aanschafprijs van [https://e-gulden.org/download/index.php?raspberryaanbieding-kiwi,dit setje] kost omstreeks 70€)
+
+<p>{https://e-gulden.org/images/pi.jpg}
+
+Installatie-instructies:
+<ol>
+<li>Een volledige image voor de Raspberry Pi is te vinden op onze server:  [https://e-gulden.org/download/index.php?raspberry-pi-image, 3GB download]
+<li>Pak het bestand uit na het downloaden. Lees de Readme.file.
+<li>Download [https://e-gulden.org/download/index.php?win32diskimager,Win32DiskImager] van de Sourceforge Project pagina en installeer deze.
+<li>Start het Win32DiskImager programma.
+<li>Stop een SD-kaart van 16 Gb of groter in de kaartlezer. Let op de drive-letter van de SD-kaart, bijvoorbeeld G:
+<li>Selecteer het uitgepakte image en ook de gevonden drive-letter van de SD-kaart.
+<li>Kies 'Write' en wacht tot het schrijfproces gereed is.
+<li>Stop het programma en kies voor het uitwerpen/eject van de SDkaart.
+<li>Plaats de SD-kaart in de Raspberry Pi en start hem op.
+<li>Volg de instructies in de readme.file en op [https://e-gulden.org/index.php/campagne_oeruschild,de website] voor de laatste instellingen.
+</ol>

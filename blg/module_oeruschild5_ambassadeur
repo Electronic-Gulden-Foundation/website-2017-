@@ -1,0 +1,43 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px;padding-top:10px'>
+<h2>Ambassadeur formulier</h2>
+<p style='color:red;font-size:12px;line-height: 18px;'>
+Het is uitdrukkelijk de bedoeling dat één persoon slechts met één corewallet deelneemt aan deze campagne.
+<p style='font-size:12px;line-height: 18px;'>
+Door uw deelname aan deze campagne helpt u de Stichting Electronic Gulden Foundation bij het verspreiden van kennis over de e-Gulden. 
+Zo mogelijk geeft u wegwijs aan potentiële deelnemers en geeft u hen uw mailadres als ambassadeur.
+Zelf hoeft u niets meer te vullen. 
+<p style='font-size:12px;line-height: 18px;'>
+Als nieuwe deelnemers uw mailadres opgeven krijgt u hun totaal uursaldo in beeld. Met dit saldo dingt u mee met de ambassadeurs top-25 wedstrijd.
+Uw eigen saldo is het aantal uur dat uw wallet in deze étappe is waargenomen. 
+Op basis van dit saldo wordt het budget voor deze étappe van maximaal 200.000EFL over alle deelnemers verdeeld.
+<p style='font-size:12px;line-height: 18px;'>
+De koppelingen van de vorige étappe brengen we nog in beeld om u als ambassadeur te helpen bij de begeleiding. 
+Een tip die u kunt geven is om via het menu "Instellingen" de optie aan te vinken op de corewallet op te starten tijdens inloggen.
+Niet iedereen wil zijn PC aan laten staan voor de corewallet, maar als de PC toch aanstaat is de corewallet een verwaarloosbare aanwezigheid.
+<img src="https://e-gulden.org/images/opstarten.jpg">
+<table>
+<tr><td align=right style='font-weight:bold'>Uw e-Gulden rekeningnummer: </td><td id=ida_efl>[ida_efl]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uw nieuwsbrief mailadres: </td><td>[ida_mail]</td></tr>
+<tr><td align=right style='font-weight:bold'>Aantal nieuwkomers: </td><td>[ida_nieuw]</td></tr>
+<tr><td align=right style='font-weight:bold;[kleur]'>Uw uursaldo: </td><td>[ida_saldo]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uursaldo nieuwe koppelingen: </td><td>[ida_saldonieuw]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uursaldo koppelingen vorige étappe: </td><td>[ida_saldooud]</td></tr>
+</table>
+<hr>
+<div id=id_saldodetails>
+<table class="table table-striped">
+<tr><td>Koppelingen deze étappe</td><td>Uursaldo</td></tr>
+[ida_saldospec]
+</table>
+</div>
+<div id=id_saldodetailsold>
+<table class="table table-striped">
+<tr><td>Koppelingen vorige étappe</td><td>Uursaldo</td></tr>
+[ida_saldospecold]
+</table>
+</div>
+<br><br>
+</div>
+<script>
+</script>

@@ -1,0 +1,18 @@
+index_verantwoording
+Verantwoording
+<p>Zoals uiteengezet in [index.php/wie_zijn_wij,"Wie zijn wij"] is de stichting Electronic Gulden Foundation tot stand gekomen als een vertegenwoordinging van de gemeenschap van e-Gulden gebruikers. De stichting is op 4 juli 2014 opgericht en heeft zich vanaf dat moment bekommerd om het materiaal dat door de oorspronkelijke oprichters werd overgedragen, bestaande uit softwarebronmateriaal, website, forumdatabase en resterende premine. Bijgaand presenteren we het verloop en de boekhouding van dit openbaar bezit.
+_De premine
+De premine is gereserveerd kapitaal bestemd voor gecontroleerde verspreiding over het publiek. De precieze stand van de premine wordt gerapporteerd  via het menu [https://e-gulden.org/index.php/premine,"premine"]
+_Campagnes
+Campagnes zijn een van de middelen om Nederlanders met de e-Gulden kennis te laten maken. 
+[https://e-gulden.org/index.php/campagnes,Het campagneoverzicht] is niet alleen een agenda, maar toont ook een verantwoording van de uitgaves uit de premine voor deze campagnes.
+_Kengetallen
+Zoals elders meermalen vermeld is de e-Gulden software voor een groot deel gelijk aan die van Bitcoin. De punten waar deze op afwijkt zijn vooral de ingestelde parameters die in de software zijn ingebouwd en die niet van buitenaf te beinvloeden zijn zonder dat de meerderheid het daarmee eens is. 
+In het [https://e-gulden.org/index.php/kengetallen_e-gulden,Overzicht Kengetallen] worden deze parameters opgesomd.
+_Toekomst
+De toekomst van de e-Gulden is onbepaald, maar door de software-instellingen is de toename van de hoeveelheid e-Gulden ingecalculeerd. Op de pagina [https://e-gulden.org/index.php/Toekomst,Toekomst] wordt de agenda voor de komende tien jaar in beeld gebracht.
+_blockchain in beeld
+De opbouw van de blockchain is onderhevig aan kansberekening. Als voorbeeld zal de software de moeilijkheidsgraad van het minen afstemmen op de hoeveelheid beschikbare rekenkracht zodat gemiddeld een blok per twee minuten wordt gevonden. Die rekenkracht kan wispelturig zijn omdat met name miningpools willekeurig hun rekenkracht kunnen inzetten op de e-Gulden. Als een dominante miningpool "ziet" dat het lucratief is om e-Gulden te minen zullen de eerstvolgende blokken te snel worden gevonden. Het omgekeerde effect treedt op als zo'n miningpool zich terug trekt. In [https://e-gulden.org/index.php/e-gulden_conditie,de grafieken] is goed te zien hoe dit effect gedurende een dag variaties kan opleveren, maar op de lange desondanks een gemiddelde van 720 blokken per dag wordt gevonden.
+
+
+

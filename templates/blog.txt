@@ -1,0 +1,21 @@
+<script>
+function findPos(obj) {
+    var curtop = 0;
+    if (obj.offsetParent) {
+        do {
+            curtop += obj.offsetTop;
+        } while (obj = obj.offsetParent);
+    return [curtop];
+    }
+}
+function goto(e) {
+	var y=findPos(e)
+	setTimeout('window.scrollTo(0,'+y+')',100)
+}
+</script>
+
+<div id=id_like style='display:none'><br>
+<span class='st_facebook_hcount' displayText='Facebook'></span>
+<span class='st_twitter_hcount' displayText='Tweet'></span>
+<span class='st_googleplus_hcount' displayText='Google +'></span>
+</div>

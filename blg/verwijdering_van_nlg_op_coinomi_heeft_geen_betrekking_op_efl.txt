@@ -1,0 +1,16 @@
+index_kort
+Verwijdering van NLG op coinomi heeft geen betrekking op EFL
+<h1>Verwijdering van NLG door Coinomi heeft geen betrekking op EFL</h1>
+
+Het doel van dit bericht is drieledig:
+<ul><li>Het dient ter geruststelling dat de aansluiting van EFL op Coinomi niet ter discussie staat.
+<li>Het dient om te benadrukken dat Gulden(coin) (NLG) een ander project is dan e-Gulden (EFL) en om aan te geven dat de naamswijziging van Guldencoin naar Gulden een ongewenste vorm verwarring zaaien is geweest.
+<li>Het dient om de attitude van het NLG-team aan de kaak te stellen
+</ul>
+
+<p>Het negatieve [https://twitter.com/CoinomiSupport/status/1044786326564941824,bericht van verwijdering van NLG] heeft dus nadrukkelijk niets te maken met e-Gulden.
+
+<p>Een fout in de NLG software zorgt ervoor dat NLG niet langer geintegreerd kan worden met [https://electrum.org/#home,Electrum].
+Electrum is een systeem waarmee de blockchain van Altcoins op apparte servers kan worden opgeslagen en geraadpleegd. Zo wordt het mogelijk om betalingen uit te voeren en te ontvangen op systemen met beperkte capaciteit, zoals smartphones.
+
+<p>Toen het Coinomi-team ondersteuning zocht met het NLG-Team werd er niet alleen geen hulp verleend, maar werd zelfs vijandig gereageerd. Toen Coinomi daarop overging tot verwijderen van NLG hebben zij vanwege de Gulden-naamsverwarring een [https://coinomi.freshdesk.com/support/solutions/articles/29000025470-gulden-delisting,apparte verklaring] uitgebracht dat dit geen getrekking heeft op e-Gulden (EFL)

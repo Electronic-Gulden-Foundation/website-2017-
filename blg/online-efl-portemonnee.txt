@@ -1,0 +1,24 @@
+index_verantwoording
+online-efl-portemonnee
+<b>Deze campagne is afgelopen</b>
+
+<p><br>Wij stellen aan iedere nieuwsbrieflezer 75 EFL ter beschikking om uit te delen. 
+Dankzij de nieuwe online EFL portemonnee is de toegang tot e-Gulden eenvoudig voor iedereen in jullie omgeving. 
+Het uitdelen gaat als volgt : 
+<p><b>Stap 1</b>: Als je dat nog niet gedaan hebt ga dan naar [https://efl.nl,efl.nl] en geef je portemonnee een naam</span>. 
+Als het goed is heb je nu tenminste 0.00001000 EFL
+<p><b>Stap 2</b>: Zoek maximaal vijf mensen (test-partners) in je omgeving met wie je de volgende drie stappen uitvoert:
+<p><b>Stap 3</b>: Laat iedere test-partner <b>stap 1</b> uitvoeren en maak precies 0.00000001 EFL over naar de nieuwe portemonnee-naam. 
+(het saldo wordt dan 0.00001001 EFL)
+<p><b>Stap 4</b>: Laat iedere test-partner een 
+rekeningnummer aanmaken (de derde instelling, een druk op de knop "rekeningnummer aanmaken")
+<p><b>Stap 5</b>: Vraag iedere test-partner om zijn puk-code goed op te slaan en dat te bevestigen met de bevestigknop
+(onder in de puk-code instelling). 
+Je kunt zelf controleren dat dat gebeurd is door met je webbrowser te gaan naar efl.nl/portemonnee-naam 
+(voor portemonnee-naam vul je de naam in van de portemonnee van de testpartner). 
+Je krijgt dan het e-Gulden rekeningnummer te zien van die portemonnee en eventueel dat de puk-code niet veilig is opgeslagen.
+<p><b>Stap 6</b>: Beloon maximaal vijf testpartners door het invullen van het onderstaande formulier.
+<p>Iedere testpartner kan hetzelfde doen, maar dan moet hij zich wel eerst inschrijven voor onze nieuwsbrief: 
+[http://e-gulden.org/index.php/aanmelden_nieuwsbrief,aanmelden_nieuwsbrief]
+
+<p><br><b>Deze campagne is afgelopen</b>

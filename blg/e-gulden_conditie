@@ -1,0 +1,21 @@
+index_verantwoording
+e-Gulden conditie
+<p>De conditie van de e-Gulden gedurende zijn bestaan kan worden bepaald aan de hand van gegevens in de blockchain. De grote hoeveelheid data wordt hieronder samengevat in een zestal grafieken.</p>
+
+    <div id="chart1_div" style="height: 500px;"><img src="/images/progress.gif"></div>
+
+    <div id="chart2_div" style="height: 500px;"></div>
+
+    <div id="chart3_div" style="height: 500px;"></div>
+
+    <div id="chart4_div" style="height: 500px;"></div>
+
+    <div id="chart5_div" style="height: 500px;"></div>
+
+    <div id="chart6_div" style="height: 500px;"></div>
+    
+    <div id="stat_div"></div>
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script>module_blockstat</script>
+

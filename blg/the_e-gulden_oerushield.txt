@@ -1,0 +1,68 @@
+index_oeru;index_dialoog
+The e-gulden oerushield
+<h1>e-Gulden Motivation</h1>
+[https://e-gulden.org/index.php/het_oeruschild,Dutch version]<br>
+Technically e-Gulden is equivalent to Bitcoin, but it is enhanced to effectively defend a minority network in a global battle field. These combined enhancements are called "oerushield". Economically e-Gulden is intended to offload Bitcoin and to serve a local community that shares "Dutch" as a common language. Because the vast majority of all transactions are between local individuals/peers it makes no sense to let these transactions interfere with (bloat) the global Bitcoin network. If local networks can be just as secure as global networks it makes sense to propagate community networks, to serve as a local economic and technological consensus and with local porotocol adaptations.
+The oerushield is a unique line of defence to protect the network of the e-Gulden cryptocurrency. Its implications are shocking... 
+<br><br>
+<ul><li>Safety of the use of e-Gulden is equivalent to that of Bitcoin: at least one out of six blocks (average 12 minutes) is validated by certified miners. 
+That means that six confirmations have a very high safety level.
+<li>The energy required to reach this safety is neglectable. 1/10.000.000 compared to Bitcoin.
+<li>Compared to the initial protocol, network stability is improved. The variance of the confirmation time is reduced. That means that average deviations from the block time average of two minutes are smaller.
+<li>Oerushield rewards miner loyalty, because at least one block out of six needs to be mined by loyal miners. Loyal miners/pools dedicate work to the e-Gulden network.
+<li>e-Gulden remains a "proof of work" system to reward miners fairly, but for its safety it depends, less then ever, on mining capacity, while inflation barely exists.
+</ul>
+<br>
+#What is the oeruschild?
+<p>On average each two minutes e-Gulden transactions are wrapped in blocks that are attached to the e-Gulden blockchain tip.
+Miners group themselves in pools to achieve this and pools become dominant this way. When a dominant pool operator wants to exploit or harm the network he could do so with most cryptocurrenies. Oerushield introduces optional miner-identification and whitelisting. The oeruschild prevends that pools that are not white-listed can mine more than five blocks in a row. 
+
+<p>At least one out of six blocks must be mined by a white-listed pool. That means that a string of six consecutive blocks can be regarded as safe. It also means that the total mining capacity is restricted to six times the power of all white-listed pools combined.
+
+#Reduction of energy consumption?
+The classical 51% attack is made impossible by the oerushield. The only reason why Bitcoin needs to be defended by 42 GWH (1 sept 2017), enough to support <b>1.5 milion american households</b>, is to prevent such an attack. Only the suggestion that this is not necessary for a countrycoin is shocking. (see  [http://digiconomist.net/bitcoin-energy-consumption,Bitcoin energy consumption])
+
+#Why did we not choose "Proof of Stake" (POS) as alernative to "Proof of Work" (POW)?
+Several Altcoins use POS as an alternative way to attach blocks to their blockchain. Miners must certify they own a certain amount of coins. That amount would guarantee good behaviour within the network which reduces the need for miner capacity. Proof of Stake, however, has a lot of disadvantages. Details will not be appreciated by less experienced users, but we sum the most important disadvantages here:
+<ul>
+<li>To mine in a Proof of Stake network you need to provide proof that you own coins. The key, required to proof ownership, must be available during the process of mining. This poses a severe security risk.</li>
+<li>The cost to attack a Proof of Stake network is "zero", because an attacker can use his effort in the old network for his attack, while building a parallel chain.</li>
+<li>Proof of work is straight forward and objectively measurable. With Proof of Stake other procedures needed to be elaborated to indicate the best block. These procedures are vulnerable for abuse (such as "stake grinding")</li>
+<li>With proof of stake every miner needs to present proof of ownership. At any specific moment nobody knows how much is "at stake". In this way a 51% attack does not require 51% ownership of all coins but only of coins "at stake"</li>
+<li>With Proof of Stake historic ownership can be part of "the stake". Historic ownership is not actual ownership and can be accumulated to mount an attack.</li>
+<li>The richer you are the more you can mine, which could lead to dominance.</li>
+<li>With Proof of stake the duration that value remains on a single address adds to their stake. That means weight can be accumulated and used during an attack.</li>
+<li>Wallets that don't have access to the entire blockchain cannot determine the validity of a new block.</li>
+<li>A psychologic consequence of Proof of Stake: Possession might contribute to loyalty. From the perspective of "normal" users this introduces a sense of injustice. </li></ul>
+
+#A new concept: Miner identification
+<p>Oerushield introduces the concept of <b>optional</b> miner identification. Before, it was not possible to identify miners. Miners (Pools operators) do mark the blocks they mine, but this is just a marker that can be copied by anyone. Just like you can change an email sender address to any address you like. Most Bitcoin pools mark their blocks (see [https://blockchain.info/pools,hashrate distribution]), to market their existence. Because the bitcoin protocol allows marker to be copied these cannot be used for identification.
+<p>With Bitcoin and its clones the miner reward transaction does not need to be signed because the coinbase transaction is part of the protocol. With oerubase, miners can optionally add a signature which contributes to identification.
+
+#Oeruschild is een soft-fork. Wat does that mean?
+It means that the rules of the protocol are enhanced, but blocks mined with the new protocol remain valid for old nodes.
+On the other hand, blocks mined with the old protocol might be rejected by new nodes. Before oerushield could be activated is was necessary to convince as many nodes as possible. When most important merchants (such as the exchanges) have upgraded, mining with old software is uneffective because coins mined in a fork will be rejected by the upgraded network.
+#Oeruschild only serves to prevent double spending of e-Gulden?
+No. A group of malicious miners could previously change the network protocol itself. Changing the network protocol is normally a "democratic" procedure that we know from the segwit implementation with Bitcoin. With a soft fork Wallet-owners "vote" by chosing a wallet version. With a hard fork Miner majority decides on protocol direction. With Oerushield it becomes impossible for a hostile majority to damage the e-Gulden network by means of a hard fork.
+
+#Can bitcoin use the oerushield?
+It could. Oeruschild is open source. The main difference with e-Gulden is the jurisdiction. Bitcoin would need to implement white-listing on a global level which is much more difficult than on a national level. By limiting the jurisdiction to the Netherlands white-listing is much easier to implement. 
+
+#Does oeruschild conflict with the decentralised nature of cryptocurrency.
+Yes and no. No because all miners on the globe have access to the e-Gulden netwerk just like wallet owners. Identification and white-listing of miners is voluntary and possible through public listing. By establishing three initial white-listed pools every miner can contribute to white-listed mining. 
+<p>For the time being white-listing is performed by the Electronic Gulden Foundation. We are elaborating ideas to implement this process objectively into the protocol itself by measuring and rating mining behaviour.
+<p>The process and publication of the e-Gulden whitelisting is presented on a seperate [https://e-gulden.org/index.php/oeruschild_certificatie,whitelist-page].
+
+#What other advantages does oerushield provide
+<p>In retrospection, many poolowners discovered an exploit of Proof of Work. By putting their full weight on the network (and achieving a lot more than 50% dominance) they could produce a large number of blocks in a short time. This is senseless to the network. It also increments network difficulty fast because the network wants to maintain its two-minute blocktime average. The bring the network into a difficult state and then retreat to leave a single difficult block to be solved by "loyal" miners. These "loyal" need a relative long time to find the block solution, sometimes hours. This delay reduces the dificulty of the network after the difficult block is found and immediately draws the "smart" pools to mine a set of relatively "easy" blocks.
+
+<p>This is not a sad story. This history triggered the search for a solution and culminated in the oerushield. By preventing that non-loyal (non white-listed) pool-operators mine more than five blocks in a row, large pools can no longer exploit loyal miner capacity and the network becomes more stable. 
+
+#What is our mission?
+<p>After having activated the oerushield on monday september 18th 2017, the mission of the Electronic Gulden Foundation has become as follows:
+<p>Explain to existing and aspirant coin communities that coin specific mining algoritms are no defence against double spending since coins will be attacked once they become economically interesting. Proof of Stake no future proof solution eighter. Although you could argue that POS is only [https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/,weakly subjective], it still has many weaknesses and attacks can occur anonimously, whereas mining loyalty and identification are very effective deterrents of misbehaviour.
+<p>
+Promote decentralisation by safely extending bitcoin technology to local communties through local Bitcoin forks and glueing these together through decentralised exchanges, the lightning network and cross-chain atomic swap technology.
+<p>
+Convince the Dutch community, and those that deal with them, that e-Gulden is more than just a viable economic path to the future.
+#-

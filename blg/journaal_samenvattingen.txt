@@ -1,0 +1,759 @@
+index_dialoog
+Journaal samenvattingen
+#Nummer 24: <GROEN>1-07-2018 </GROEN> <ZWART>EFL motivatie</ZWART>
+Er zijn al veel argumenten aangevoerd als motief voor EFL: Verlengstuk voor Bitcoin,
+Toegankelijk maken van cryptogeld voor de Nederlandse markt, afhandelen van specifiek lokaal betalingsverkeer. Nieuwsbrief 24 is de aanzet om specifiek de Nederlandstalige gemeenschap te benoemen als een typische bestemming voor een eigen blockchain. Een munt op nationaal niveau biedt veel meer perspectief voor een succesvolle blockchain dan de communities die zich momenteel manifesteren op coinmarketcap.com en die allemaal nummer één willen worden.
+<p>[http://egulden.org/download/index.php?efljournaal24,PDF-versie]
+#Nummer 23: <GROEN>22-11-2017 </GROEN> <ZWART>Tijd voor iets nieuws: de e-Guldenambassadeur</ZWART>
+<p>Journaal 23 staat in het teken van de actuele en toekomstige e-Gulden premine besteding. Deze besteding is en blijft gericht op het laten kennismaken van zoveel mogelijk Nederlanders met cryptogeld en met e-Gulden in het bijzonder. Journaal 23 beschrijft de tussenresultaten van de oeruschild-campagne, tips om mee te doen en de vervolgplannen. 
+
+<p>Met de campagne roepen we iedere e-Guldenbezitter op om zich minstens een beetje in te spannen om ruchtbaarheid aan e-Gulden te geven. Voor iedere e-Guldenbezitter staat is dat eigenbelang. Niet omdat cryptogeld of e-Gulden anders niet door gaat breken, maar wel om het eigen netwerk daar zoveel mogelijk baat bij te laten hebben. 
+<p>[http://egulden.org/download/index.php?efljournaal23,PDF-versie]
+<p>Inhoudsopgave
+<ul>
+<li>[https://e-gulden.org/index.php/nieuwsbrief_22,Terugblik eerste campagne étappe]
+<li>[https://e-gulden.org/index.php/nieuwsbrief_22,De De ambassadeurscampagne]
+<li>[https://e-gulden.org/index.php/nieuwsbrief_22,Uitdagingen voor de ambasadeur]
+<li>[https://e-gulden.org/index.php/nieuwsbrief_22,De eindejaarscampagne]
+</ul>
+
+
+#Nummer 22: <GROEN>07-10-2017 </GROEN> <ZWART>e-Gulden is duurzaam geworden<ZWART>
+Journaal 22 is een korte versie zodat de samenvatting niet heel zinvol is. Waar het om gaat is dat
+het Oeruschild een eindpunt is van een rumoerige tijd. Beschreven wordt dat het rumoer niet alleen betrekking had op het e-Gulden netwerk
+zelf. Omdat het Oeruschild diverse positieve bijwerkingen heeft maakt dat ons mogelijk om de aandacht te verleggen van het minen naar het wallet-gebruik. Dat is de belangrijkste verschuiving die gaat plaats vinden en die momenteel wordt ingeluidt met de oeruschild-campagne.
+<p>[http://egulden.org/download/index.php?efljournaal22,PDF-versie]
+<p>Inhoudsopgave
+<ul>
+<li>[https://e-gulden.org/index.php/nieuwsbrief_22,Oeruschild als eindpunt van een rumoerige tijd]
+<li>[https://e-gulden.org/index.php/nieuwsbrief_22,De “bijwerking” van Oeruschild]
+<li>[https://e-gulden.org/index.php/nieuwsbrief_22,e-Gulden is duurzaam geworden]
+</ul>
+
+#Nummer 21: <GROEN>01-12-2016 </GROEN> <ZWART>Bitcoin +/- e-Gulden<ZWART>
+Met journaal nummer 21 presenteert de stichting Electronic Gulden
+Foundation haar nieuwe inzichten. We beseffen dat we, wat nieuws
+betreft, een tijdje verstek hebben laten gaan, maar uiteindelijk zal een
+gedistribueerd systeem als de e-Gulden het ook niet moeten hebben van
+een centraal orgaan. “Reuring” is datgene dat er gebeurt op de markt, op
+straat en wellicht geïnitieerd vanachter de computer door individuele
+enthousiastelingen in los verband. Dat laat onverlet dat iedereen welkom
+is om met de stichting te participeren. Hoe meer zielen hoe meer vreugd
+zelfs.
+<p>We beginnen een met een kort artikel over een vraag die ons regelmatig
+wordt voorgelegd en wel “Wat is het verschil tussen e-Gulden en Gulden”?
+Die verschillen zijn eenvoudig te benoemen, maar slecht zichtbaar voor het
+publiek.
+<p>Vervolgens brengen we in twee uitvoerige artikelen twee toekomst
+filosofieën bij elkaar met betrekking tot cryptogeld. De toekomst-filosofie
+rond Bitcoin bij monde van Andreas Antonopoulos en de toekomst-filosofie
+rond e-Gulden zoals wij die zien. Zelf zien wij daartussen geen conflict, maar
+wel een verschillende uitkomst. Andreas zal het niet erg vinden als we zelf
+aanvangen met het artikel “De Bitcoin infrastruktuur versus e-Gulden”.
+Daarin kondigen we ook een nieuwe e-Gulden beta-versie aan. Andreas
+laten we vervolgens zelf aan het woord middels een youtube-video, een
+speech die hij deze maand gaf op het Imperial College in Londen. Die video
+hebben we voorzien van een Nederlandse vertaling voor een nauwkeurig
+houvast en nuttig leesmateriaal tijdens de feestdagen.
+<p>Dan is het nu tijd voor een korte briefing over [https://efiliaal.nl/,het eFiliaaL project], maar niet
+meer dan in dit voorwoord. Dankzij de inzet van blockchain-technologie is
+de technische implementatie voortvarend verlopen. Zelfs zo voortvarend
+dat eFiliaaL een nieuwe blockchain softwaregeneratie genoemd mag
+worden. De combinatie van EFL en Bitcoin in [http://eflap.nl/,een enkele wallet] is niet het
+meest bijzonder, maar wel de bundeling van een economisch motief om
+die munten te gebruiken: een wereldprimeur. Met name de rolverdeling
+zal nog veel aandacht vergen en we staan ook hier aan de vooravond van
+een groeiproces. Niets staat jullie echter in de weg om ermee van start te
+gaan. Een voorbeeld om te starten: [https://nederland.efiliaal.nl/index.php/edu_hoe_werkt_efiliaal3,eFiliaaL – hoe werkt het].
+Wij wensen iedereen veel leesplezier en natuurlijk een succesrijk 2017!
+
+<p>[http://egulden.org/flip/images/efljournaal21/efljournaal21.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal21.html#3,Het verschil tussen e-Gulden en Gulden]
+<li>[http://egulden.org/flip/efljournaal21.html#5,De Bitcoin infrastruktuur versus e-Gulden]
+<li>[http://egulden.org/flip/efljournaal21.html#9,Valutaoorlogen en de neutraliteit van Bitcoin]
+</ul>
+#Nummer 20: <GROEN>24-06-2016</GROEN> <ZWART>De splitsing is gekomen</ZWART>
+Met journaal nummer 20 zijn we waar we wilden zijn op dit tijdstip. Om
+onze lezers te laten zien waar we zoal druk mee zijn en om onze acties te
+motiveren. Zoals we ook hebben aangekondigd is dit het punt waarop
+eFiliaaL en EFL uit elkaar gaan als gescheiden organisaties met gedeeltelijk
+overlappende doelstellingen. EFL heeft zo mee kunnen liften met nieuw
+elan maar vanaf nu zal ze meer naar de achtergrond treden. Eigenlijk is dat
+ook de positie waar geld thuis hoort. Een zwijgende, maar onverbiddelijke
+kracht. eFiliaaL heeft zo een introductie gekregen en kunnen
+experimenteren binnen een selecte gemeenschap en zal juist een
+maatschappelijke voorgrondpositie nastreven.
+<p>In dit laatste gemeenschappelijke journaal laten we in de vorm van twee
+artikelen zien hoe de toekomst er uit ziet. Eén vanuit het perspectief van
+eFiliaaL en één vanuit het perspectief van de stichting. Veel meer hoeft er
+daarom niet te worden gezegd in dit voorwoord, behalve dat we alle lezers
+hartelijk bedanken voor de belangstelling tot dit punt.
+<p>Als laatste sluiten we af met een “teaser”. We laten niet zien hoe eFiliaaL
+werkt maar we halen een aantal voorbeelden aan om te laten zien dat
+eFiliaaL gaat werken.
+<p>De auteurs van dit journaal zelf, zijn vanaf nu minstens te bereiken op het
+respectievelijke mailadres [mailto://redactie@egulden.org,redactie@egulden.org] en [mailto://redactie@efiliaal.nl,redactie@efiliaal.nl].
+Met naam en toenaam waren en zijn dat [https://nl.linkedin.com/in/gerritoerlemans,Gerrit Oerlemans] en [https://nl.linkedin.com/in/jansibie,Jan Sibie]. 
+<p>[http://egulden.org/flip/images/efljournaal20/efljournaal20.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal20.html#3,Scheiden doet leiden; Het perspectief van eFiliaaL]
+<li>[http://egulden.org/flip/efljournaal20.html#5,Scheiden doet leiden; Het perspectief van de stichting]
+<li>[http://egulden.org/flip/efljournaal20.html#7,Geld verdienen met cryptogeld, nieuwe stijl]
+</ul>
+#Nummer 19: <GROEN>09-06-2016</GROEN> <ZWART>Nette PR. Het kan!</ZWART>
+Het moet even van ons hart. Het vorige journaal is slecht gelezen.
+Natuurlijk beschikt de stichting over het bekende e-Marketing
+instrumentarium om het aantal door-kliks en dergelijke te meten, zodat we
+weten welke uitingsvormen beter werken dan andere. Het is echter
+opvallend wat het effect van het woord “kunst” in het mail-onderwerp tot
+gevolg heeft. Het was ons vooraf al duidelijk dat geld en kunst niet goed
+samengaan. We hadden echter gedacht dat dat vooral vanuit het
+perspectief van “de kunst” zou zijn. Nu verbaast het ons toch dat
+geïnteresseerden in elektronisch geld significant het voorgaande “kunstjournaal”
+hebben genegeerd. Alsof het een wederzijdse aversie is.
+<p>En toch, gewaardeerde lezer, is onze mening, als stichting ter begeleiding
+van de e-Gulden, dat geld geen doel op zich is. Het dient ter ondersteuning
+van boeren, burgers en buitenlui om zich in een eerlijke relatie tot elkaar
+te kunnen gedragen. Wij zijn er om te demonstreren dat de erfenis van
+Satoshi tot in alle uithoeken van Nederland van toepassing is. Natuurlijk is
+de bewaking van de technische infrastructuur onze dagelijkse zorg, maar
+die infrastructuur wordt niet beter verzekerd dan door een breed
+draagvlak.
+<p>Om nog maar eens een stukje willekeur aan te halen illustreren we met het
+eerste artikel hoe een doorsnee beeldvorming een veelbelovende
+technologie kan miskennen. In werkelijkheid heeft het natuurlijk net zo
+lang geduurd voordat de technische voorlopers de kunst verstonden om de
+doorsnee beeldvorming aan te spreken. Voelt u zich aangesproken.
+<p>Armen uit de mouwen dus. Met nette PR zoals we in “Doe het zelf PR voor
+EFL Deel 2” illustreren.
+<p>Tenslotte zetten we een punt achter de artikelreeks “Opa, kijk, ik vond op
+zolder”. Maar niet zomaar een punt. Lees vooral verder.
+<p>Ondertussen hebben zich een kleine 100 mensen aangemeld voor het
+eFiliaaL-Journaal. Als u onze dynamiek wilt blijven volgen schrijf u dan
+vooral in via een mailtje naar redactie@egulden.org of redactie@efiliaal.nl
+met als titel EFILIAAL-JOURNAAL
+<p>Veel leesplezier gewenst! 
+<p>[http://egulden.org/flip/images/efljournaal19/efljournaal19.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal19.html#3,Het riskante internet]
+<li>[http://egulden.org/flip/efljournaal19.html#7,Doe het zelf PR voor EFL, deel 2]
+<li>[http://egulden.org/flip/efljournaal19.html#9,Opa, kijk, ik vond op zolder]
+</ul>
+#Nummer 18: <GROEN>26-05-2016</GROEN> <ZWART>Met gulden en eFiliaaL in de beeldende kunst</ZWART>
+De titel <b>e-Gulden en eFiliaaL in de beeldende kunst</b> is een voorzet naar
+de e-Gulden community om te denken in termen van toepassingen voor de
+e-Gulden in plaats van technische termen. Nu, wat staat er verder van
+elkaar dan geld en kunst? Juist, de techniek van geld. Een terechte splitsing
+in onze denkrichting dus : EFiliaaL versus EFL. De goed gelegen voorzet
+kwam van een van onze lezers die we dankbaar in dit journaal willen
+inkoppen met het eerste artikel <b>eFiliaaL in de beeldende kunst</b>.
+<p>Terwijl we zelf gestaag aan de techniek zelf werken is er ook weer een
+nieuw tipje van de eFiliaaL-sluier dat we oplichten : eFiliaaL is opgedeeld in
+deel-economieën. Ieder deel krijgt een heldere structuur met als doel om
+de betreffende deeleconomie aan te zwengelen. Er zijn diverse redenen
+waarom dat gaat werken door middel van cryptogeld. Eén van die redenen
+brengen we in beeld in het artikel <b>Gesloten economische circuits</b>
+<p>Maar niets komt voor niets. Als we willen dat onze projecten een succes
+worden zullen we er voor uit moeten komen. We gaan ervan uit dat dat
+geldt voor alle eGulden-bezitters, als zijnde een groep die er sympathie
+voor op heeft kunnen brengen. Succes gaat ook gepaard met een stukje
+loyaliteit en dat kan niet zonder PR. Alleen “hoe” is de vraag. Daar gaan we
+u mee helpen in onze reeks <b>Doe het zelf PR voor EFL Deel 1</b>
+<p>Tenslotte, zoals u zult lezen in <b>Opa, kijk, in vond op zolder…</b>, zijn we nog
+niet klaar met onze reeks over automatiserings-psychologie. De
+karikaturen die we laten passeren zijn helemaal niet bedoeld om te
+beledigen. In tegendeel. Regelmatig herkennen we ons zelf er in. Het is
+bedoeld om ervan te leren en natuurlijk om efficiënt te leren omgaan met
+onze schaarse middelen.
+<p>[http://egulden.org/flip/images/efljournaal18/efljournaal18.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal18.html#3,eFiliaaL in de beeldende kunst]
+<li>[http://egulden.org/flip/efljournaal18.html#5,Gesloten economische circuits]
+<li>[http://egulden.org/flip/efljournaal18.html#9,Doe het zelf PR voor EFL, deel 1]
+<li>[http://egulden.org/flip/efljournaal18.html#9,Opa, kij, ik vond op zolder III]
+</ul>
+#Nummer 17: <GROEN>12-05-2016</GROEN> <ZWART>Staat EFL tijdelijk in een lagere versnelling?</ZWART>
+Nummer 17… We mogen natuurlijk niet discrimineren, maar als nummer is
+nummer 17 niet bepaald een bijzonder getal. Een nummer tussen 16 en 18.
+En toch is dat veelzeggend als je het betrekt op de toestand van de EFL, een
+toestand van verslappende aandacht en ergens tussenin. Maar het werk
+moet wel door blijven gaan, willen we het doel dat we gesteld hebben
+bereiken. Voor ons als schrijvers en voor u als lezer en hopelijk als
+deelgenoot of participant.
+<p>Daarom is het praktisch als er nieuws is en dat is er! Nieuws is niet persée
+het feit dat er iets afgerond is want per slot van rekening zijn dingen nooit
+af en bewegen we van mijlpaal naar mijlpaal. Het feit dat we een diep punt
+hebben bereikt in de koers van de EFL zou je zo’n mijlpaal kunnen noemen,
+zodat we er een relativerend artikel aan hebben gewijd. Uiteindelijk is het
+natuurlijk een punt in een golvende markt.
+<p>Veel positiever nieuws is de oplevering van een nieuwe wallet-integratie
+onder de paraplu van Coinomi. Voor Android-gebruikers (en in de nabije
+toekomst ook voor IPhone gebruikers) is het nu mogelijk om e-Gulden
+samen met bitcoin en ander cryptogeld in één portemonnee te
+verzamelen. Daarmee is onze oude android-wallet overcompleet
+geworden en adviseren we minstens om eens met Coinomi te
+experimenteren.
+<p>Vervolgens tillen we in dit journaal de EFiliaaL-sluier weer een stukje verder
+op. Het hele verhaal gaan we vertellen in het geplande EFiliaaL-journaal
+(inschrijven door een mailtje te sturen naar de redactie met als titel
+EFILIAAL-Journaal) , maar natuurlijk heeft de EFL-gemeenschap er belang
+bij om te weten welke rol de EFL binnen EFiliaaL gaat spelen. Dat is de
+teneur van het artikel “EFiliaaL en EFL”.
+<p>Daarmee hopen we met nummer 17 toch weer een hoeveelheid inspiratie
+en leesplezier te bieden.
+<p>[http://egulden.org/flip/images/efljournaal17/efljournaal17.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal17.html#3,Prijsontwikkelingen]
+<li>[http://egulden.org/flip/efljournaal17.html#7,Coinomi smartphone onderseuning]
+<li>[http://egulden.org/flip/efljournaal17.html#9,eFiliaaL en EFL]
+<li>[http://egulden.org/flip/efljournaal17.html#11,PR-plan voor e-Gulden]
+<li>[http://egulden.org/flip/efljournaal17.html#13,Opa kijk ik vond op zolder II]
+</ul>
+#Nummer 16: <GROEN>28-04-2016</GROEN> <ZWART>EFL, je kunt er niet vroeg genoeg mee beginnen</ZWART>
+Als je naar de ontwikkelingen kijkt op het gebied van cryptogeld dan zou
+het idee kunnen ontstaan dat cryptogeld langzaam aan het uitblussen is.
+De zegetocht die met name stamt uit de laatste maanden van 2013 is ruim
+voorbij. Er is wel hier en daar een opleving, maar terwijl het nu weer wat
+beter gaat met Bitcoin lijkt het zwaar weer in Alt-coin-land. De Bitcoin
+“dominantie-index”, het aandeel in de totale marktcapitalisatie, staat
+momenteel weer op 82 % (een stijging van 7% sinds maart), terwijl deze op
+het punt van hoogtij ruim boven de 90% stond.
+<p>In dit journaal willen we op de eerste plaats benadrukken dat crypto-geld
+nog volledig in de kinderschoenen staat en dat alles wat we nu zien in het
+niets gaat vallen bij de situatie van over pakweg vijftien jaar. Babysokjes is
+misschien een passender term. De twee jaar dat e-Gulden nu bestaat is een
+dermate vroeg stadium dat iedere lezer van dit journaal zich met recht
+“early adoptor” mag noemen. Een twijfelachtige eer misschien, maar ook
+een titel die mogelijkheden en verantwoordelijkheden met zich
+meebrengt.
+<p>Voor ieder persoonlijk ligt de termijn van tactische en strategische
+beslismomenten ergens anders. Dat hangt ook een beetje af van de
+hoeveelheid energie die je in de beginfase verstookt hebt. Een van onze
+gastschrijvers, Yoshi Livo, heeft bijvoorbeeld voor zichzelf besloten een half
+jaartje een pas op de plaats te maken. Anderen komen echter nu pas in
+beweging. Voor hen hebben we in het vorige Journaal het promotieplan
+geïntroduceerd, waar we dit keer op voort bouwen. Eerst laten we echter
+één van onze redactieleden aan het woord om te laten zien dat de
+afgelopen periode een klein puntje is in een periode van 150 jaar
+effectenwereld, laat staan in de tijd die nog gaat komen. Ook Andreas
+Antonopoulos, een van de grootste Bitcoin-visionairs, laten we hierover zijn
+zegje doen.
+<p>Er is dus maar één weg om te gaan en dat is vooruit. Voor degenen die ons
+willen volgen hebben we daarom een 46-tal hints bij elkaar gebracht
+waarmee iedereen wel wat kan vinden om bij te dragen aan deze
+ontwikkeling.
+<p>[http://egulden.org/flip/images/efljournaal16/efljournaal16.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal16.html#3,Een jaartje crypto - een persoonlijk perspectief]
+<li>[http://egulden.org/flip/efljournaal16.html#7,PR-plan e-Fulden deel 2]
+<li>[http://egulden.org/flip/efljournaal16.html#11,46 dingen om te doen met het EFL-Journaal]
+<li>[http://egulden.org/flip/efljournaal16.html#17,Waarom EFL - Hoe meer deelnemers des te beter]
+<li>[http://egulden.org/flip/efljournaal16.html#17,Opa kijk ik vond op zolder]
+</ul>
+#Nummer 15: <GROEN>14-04-2016</GROEN> <ZWART>Splitsing op komst</ZWART>
+Geen voorwoord? We vallen dit keer eens met de deur in huis…
+We hebben het wel eens vaker genoemd : In Bitcoinland wordt er vooral
+veel nagepraat en in dezelfde richting gedacht. Vooral vanuit de techniek
+en de materie, zoals we dat vaker benoemden, zoals in Journaal nummer
+13 met “hoe staat het toch met EFiliaaL” en “de 100 redenen om rustig af
+te wachten”. Onder meer in Journaal nummer 14 gaven we aan wat onze
+dwarsheid is ten opzichte van andere munt-initiatieven.
+<p>In dit introductieartikel laten we zien dat de traditionele aanpak er een is
+waarbij geredeneerd wordt vanuit succes als een vanzelfsprekendheid. In
+afwachting van dat succes is dat natuurlijk een plezierig uitgangspunt,
+waarbij maar wat gemakkelijk het daarbij horende marketing budget in een
+veel te vroeg stadium wordt verbruikt. Een bijkomstigheid van een nonprofit-stichting
+is dat er geen budget is maar hetzelfde geldt voor de
+inspiratie en de energie die in het project wordt gestoken: Alle
+uitlaatkleppen gaan open in de beginfase en er zijn maar weinigen die
+beseffen dat succes zo niet werkt.
+<p>Waarom trappen zovele initiatiefnemers in die val? Één van de redenen is
+dat succes veel zichtbaarder is dan een flop. Een voorbeeldje : Een aardige
+bron voor het aantal startups in Bitcoinland is AngelList [1]. 836 Startups
+worden hier opgesomd maar wie weet hoe het hen vergaat? Coindesk weet
+11 startups te noemen die failliet gingen in 2015 [2]. Het is maar wat
+makkelijk om te kijken naar de condities die heersen aan de top en te
+vergeten hoe moeizaam de weg naar boven is. En dat te bedenken terwijl
+er nog geen enkel blockchain-initiatief in de buurt is van een werkelijke top.
+<p>Om succes te bereiken is het cruciaal om te leren van je fouten. Eén van de
+zaken die de Stichting Electronic Gulden Foundation in het begin voorop
+heeft gezet is voorlichting en educatie. Het idee daarbij was dat
+nederlandstaligheid de drempels zou verlagen, een afwijkende aanpak. Dat
+is natuurlijk zo, maar het blijkt niet de hoofdsleutel voor doorbraak.
+Langzamerhand hebben we een halve boekenplank gevuld met
+documentatie, waar we later zeker nog uit kunnen putten. We hebben
+zoveel argumenten voor de adoptie van speciaal de e-Gulden bij elkaar
+gebracht dat het pijnlijk is om dit succesverhaal af te zetten tegen de
+werkelijkheid als je niet beter zou weten. Natuurlijk betekent dat niet dat
+we stoppen met educatie. In tegendeel, het blijft een van onze pijlers. We
+verleggen het aandachtspunt wel van supertechnisch naar algemeen 
+leesbaar, ons richtend op de grote massa in plaats van op het kleine groepje
+ingewijden en natuurlijk doorspekt met het nodige voortschrijdend inzicht
+wat wij uiteraard ook verkregen hebben.
+<p>Een volgende stap die we namen is om de complexiteit van het gebruik van
+de e-Gulden aan te pakken. Zelf vinden we dat we daar erg goed in zijn
+geslaagd. De zes grootste bottlenecks in het gebruik hebben we weggeprogrammeerd
+om te komen tot https://efl.nl, een unieke webapplicatie
+waarmee iedereen direct een portemonnee met inhoud tot zijn
+beschikking heeft. Een kind kan de was doen. Het merendeel van de
+bestaande aanhang zullen we daar wel mee bereikt hebben maar het blijkt
+vooralsnog niet dé sleutel voor de doorbraak te zijn.
+<p>Die producten liggen er, naast de wetenschap waarom ze nog niet hebben
+geleid tot doorbraak. Die wetenschap is, we hebben het vaker genoemd,
+dat er naast alle ideologische redenen een motief moet zijn om de e-Gulden
+gewoon te gebruiken. Er moet een economisch motief zijn om de e-Gulden
+te omarmen : je moet er rijker mee kunnen worden.
+<p>[http://avc.com/2015/10/fun-friday-mapping-the-bitcoin-market/,Een mooi overzicht] van het introverte bitcoin-landschap, de pogingen om
+te komen tot succes en hoe het is opgedeeld is bijeengebracht door William
+Mugajar. 
+{http://avc.com/wp-content/uploads/2015/10/williams-blockchain-market-map-600x458.png,fintech-blocktech}
+<p>[http://egulden.org/flip/images/efljournaal15/efljournaal15.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal15.html#3,Block-tech een variant op fin-tech]
+<li>[http://egulden.org/flip/efljournaal15.html#5,PR-plan e-Gulden deel 1]
+<li>[http://egulden.org/flip/efljournaal15.html#9,Page Arizona]
+<li>[http://egulden.org/flip/efljournaal15.html#11]Waarom EFL - De geschiedenis herhaald zich alleen dit keer anders]
+</ul>
+#Nummer 14: <GROEN>31-03-2016</GROEN> <ZWART>Ode aan nummer 14, Een nieuw EFL-geluid</ZWART>
+Journaal Nummer 14, waar kennen we dat nummer van... Een beetje
+kippenvel bezorgt het toch wel omdat onze voetbal-grootmeester stelde
+“Toeval is logisch”. We hebben het Journaal daarom dit keer doorspekt met
+nummer 14 als een “Ode aan Johan Cruijff”. Toeval of niet, nummer 14 en
+nummer 14 hebben gewoon betrekking op elkaar.
+<p>Afwijken van de standaard manier van werken is een voorbeeld van
+eigenwijsheid, maar als je er achteraf succes mee blijkt te hebben wordt
+het visie genoemd. De overlap die Cruijff en Einstein hebben op dat vlak
+laten we in het eerste artikel zien.
+<p>Een typisch voorbeeld van standaard procedure en ons verzet daartegen
+illustreren we in “Ode aan nummer 14”. Daarna gaan we terug naar de
+inhoud door een van de bronnen te laten zien waar eFiliaaL zijn inspiratie
+uit put : Affiliate-marketing. Zoals we in Journaal 2 al aankondigden gaat
+eFiliaaL een breekijzer zijn in de afbraak van groot, ten gunste van klein.
+Affiliate marketing past uitstekend in die trend.
+<p>Het financiële voordeel dat daar voor individuen direct mee is te behalen is
+veel overtuigender dan zaken als betaalgemak of de belofte van
+rendement. Maar zelfs die boodschap zal niet aankomen zonder goede PR.
+Daarom in dit Journaal de introductie van een reeds artikelen ter
+bespreking van ons public relations plan.
+<p>[http://egulden.org/flip/images/efljournaal14/efljournaal14.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal14.html#3,Je ken beter ten ondergaan met je eigen visie dan met die van iemand anders]
+<li>[http://egulden.org/flip/efljournaal14.html#5,Ode aan nummer 14]
+<li>[http://egulden.org/flip/efljournaal14.html#7,eFiliaaL en het affstat rapport]
+<li>[http://egulden.org/flip/efljournaal14.html#9,Je gaat het pas zien als je het door hep]
+<li>[http://egulden.org/flip/efljournaal14.html#11,Public relations]
+</ul>
+#Nummer 13: <GROEN>17-03-2016</GROEN> <ZWART>In het teken van de tijd</ZWART>
+Nummer 13, we spreken het maar voorzichtig uit, staat een beetje in het
+teken van tijd. Voor wat betreft het tijdstip verschijnt nummer 13 midden
+in de week van het geld en natuurlijk is dat relevant nieuws. Enig cynisme
+in het betreffende artikel is ons vergeven als men bedenkt dat de week
+georganiseerd wordt door de rijksoverheid en (banken)partners, met
+motto’s als “Hoe leer ik mijn kind sparen”.
+<p>Tijd heeft natuurlijk ook betrekking op de planning van zaken zoals we die
+hebben aangekondigd. U leest erover in het artikel hiernaast “hoe staat het
+toch met EFiliaaL”, om vervolgens prompt te duiken in de week van het
+geld.
+<p>Iets technischer wordt het in de periodiek “Waarom EFL”. De reden om in
+te gaan op fungibiliteit is dat de cryptogeld-wereld erg in zichzelf gekeerd
+is doorzich druk te maken om zaken die ver van het gemiddelde bed staan.
+Wat we met het artikel willen aangeven is dat het eigenlijk wel snor zit met
+EFL.
+<p>Nadenkend over het motto tijd ontkwamen we er niet aan om eens een
+aantal smoesjes te presenteren die we zo al tegenkomen op het moment
+dat je een serieus onderwerp onder de aandacht van het publiek probeert
+te brengen. Natuurlijk heeft iedereen het vooral te druk, maar dat het zo
+erg was… Laten we maar snel beginnen.
+<p>[http://egulden.org/flip/images/efljournaal13/efljournaal13.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal13.html#3,Hoe staat het toch met eFiliaaL?]
+<li>[http://egulden.org/flip/efljournaal13.html#5,De week van het geld]
+<li>[http://egulden.org/flip/efljournaal13.html#7,EFL is zeer fungibel]
+<li>[http://egulden.org/flip/efljournaal13.html#9,De beleggende holbewoner]
+<li>[http://egulden.org/flip/efljournaal13.html#11,100 redenen om rustig af te wachten]
+</ul>
+#Nummer 12: <GROEN>03-03-2016</GROEN> <ZWART>EFL is eng, of is de lotto toch enger?</ZWART>
+Dit Journaal is een vervolg op het vorige, in die zin dat het in gaat op de
+meest gehoorde bezwaren tegen EFL. Het vorige Journaal ging in op de, op
+lucht gebaseerde, suggestie dat EFL een piramidespel zou zijn. Niets bleek
+minder waar door simpelweg een reeks feiten samen te voegen.
+Een andere veel gehoorde suggestie is dat investeren in EFL een zeer
+riskante aangelegenheid is. Termen als “ik begrijp het niet”, “zeer riskant”,
+“afblijven!” vliegen ons om de oren, vanuit het publiek en van de zijde van
+de reguliere media. Dat vraagt om een antwoord. Bij deze.
+Maar zelfs als zou er een beetje risico over blijven dan is er ook nog zoiets
+als een hoger doel. We laten zien hoe dat bereikt kan worden met een
+minimale hoeveelheid gecalculeerde lef. Dat dit hogere doel geen hogere
+wiskunde vergt laat Yoshi Livo in dit journaal zien 
+<p>[http://egulden.org/flip/images/efljournaal12/efljournaal12.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal12.html#3,Wie moet er bang zijn voor eFiliaaL?]
+<li>[http://egulden.org/flip/efljournaal12.html#5,Angst een soms lastige oerdrift]
+<li>[http://egulden.org/flip/efljournaal12.html#7,Angst leidt tot niet-rationeel handelen]
+<li>[http://egulden.org/flip/efljournaal12.html#9,Waarom EFL - Een economisch vaccin]
+<li>[http://egulden.org/flip/efljournaal12.html#17,Hoe betaal je iemand met EFL - die er nog nooit van heeft gehoord - binnen een minuut?]
+</ul>
+#Nummer 11: <GROEN>18-02-2016</GROEN> <ZWART>Cryptogeld is gewoon een piramidespel! Ja toch?</ZWART>
+Als vanouds een nieuw EFL-Journaal, alleen hebben we dit keer zwaar
+ingezet op het motto van piramidespelen. Het is nodig want het argwaan
+in de markt is groot en de bejegening van cryptogeld als piramidespel wordt
+vaak gebruikt. Of dat terecht is laten we graag aan u als lezer over, maar
+niet zonder eerst een aantal feiten en anekdotes bij elkaar te brengen.
+<p>Wat is er zinvoller dan te beginnen met een definitie. In de reeks, “waarom
+EFL”, wordt de definitie van het piramidespel uitgewerkt en komen we tot
+een wereld op zijn kop : cryptogeld is juist het tegenovergestelde van een
+piramidespel, terwijl het eurosysteem op dit punt uiterst verdacht is. De
+feiten komen haarscherp in beeld.
+<p>En hoe zuiver is het spel op Beursplein en Damrak? “Piramidespelen op
+beursplein 5” laat zien dat bij de handel die iedereen normaal vindt de
+nodige kanttekeningen te plaatsen zijn.
+<p>In het artikel “de smadelijke afgang van een piramidebouwer” nemen we u
+tenslotte mee in de werkelijke wereld van het piramidespel. Laat u
+meeslepen…
+<p>Omdat we de indruk hebben dat onze efl.nl-instructies door het piramidegeweld
+wat buiten de boot zouden vallen, hebben we ze hiernaast in beeld
+gebracht. We gaan ervan uit dat iedereen ze ondertussen kent, maar juist
+daarom zijn het bedoeld als leidraad voor ieder om er anderen mee bekend
+te maken.
+<p>[http://egulden.org/flip/images/efljournaal11/efljournaal11.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal11.html#3,Hoe betaal je iemand met EFL - die er nog nooit van heeft gehoord - binnen een minuut?]
+<li>[http://egulden.org/flip/efljournaal11.html#5,Waarom EFL - Het tegenovergestelde van een piramidespel]
+<li>[http://egulden.org/flip/efljournaal11.html#7,Piramidespelen op beursplein 5?]
+<li>[http://egulden.org/flip/efljournaal11.html#9,De smadelijke afgang van een piramidebouwer]
+<li>[http://egulden.org/flip/efljournaal11.html#15,De bitcoin grafieken]
+</ul>
+#Nummer 10: <GROEN>04-02-2016</GROEN> <ZWART>Weg met contant geld!</ZWART>
+Weg met contant geld!? Het lijkt een trend. Met name in Scandinavische
+landen worden concrete stappen genomen om contant geld concreet in de
+ban te doen. Maar ook in andere landen wordt het contant betalen met
+Euro’s steeds lastiger. Ook omdat EFL een vorm van contant geld is gaat
+deze trend ons direct aan. In het tweede deel van het Woodstock-ECB
+artikel geven we een hint dat de Bitcoin karikatuur één van de symptomen
+is waarmee deze trend gestalte krijgt. In onze serie “Waarom EFL” gaan we
+er veel dieper op in. Sterker nog, we laten zien waarom de motieven achter
+deze anti-contant-geld-trend uiterst bedenkelijk zijn.
+<p>Nevenstaand brengen we positief en wat minder positief marktnieuws in
+beeld. In het daarop volgende artikel laten we zien waarom we ons niet de
+minste zorgen maken. Eerder hebben we aangekondigd dat wij ons middels
+EFiliaaL inzetten voor een nieuwe EFL-economie door het bijeenbrengen
+door drie gedreven spelers : Winkeliers, Regiomanagers en Verkooppartners.
+In een reeks over de verkooppartner laten we zien welke rol de
+verkooppartner gaat vervullen.
+<p>In de artikelreeks over de blockchain blijven we even bij de EFL zelf door te
+laten zien dat deze zich juist niet binnen de blockchain bevindt. EFL’s zijn
+juist zeer privé en je kunt er buiten de blockchain mee doen wat je wilt.
+<p>Het hart van het journaal wordt gevormd door de EFL- en Bitcoin
+statistieken. Een verzameling feiten als houvast in de tijd. 
+<p>[http://egulden.org/flip/images/efljournaal10/efljournaal10.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal10.html#3,In het nieuws]
+<li>[http://egulden.org/flip/efljournaal10.html#5,Geld verdienen als verkooppartner - deel 1]
+<li>[http://egulden.org/flip/efljournaal10.html#7,Hoe woodstock en ECB samen de Bitcoinhemel bedreigen - deel 2]
+<li>[http://egulden.org/flip/efljournaal10.html#11,Waarom EFL - Een eerlijke vorm van betalen]
+<li>[http://egulden.org/flip/efljournaal10.html#13,De blockchain - deel 4 - voorbij de blockchain]
+<li>[http://egulden.org/flip/efljournaal10.html#15,De Bitcoin grafieken]
+</ul>
+#Nummer 09: <GROEN>21-01-2016</GROEN> <ZWART>Wie bedreigt de Bitcoinhemel?</ZWART>
+Zo, dat scheelt veel werk door de publicatie frequentie van het Journaal te
+halveren, ware het niet dat de beschikbare tijd onmiddellijk in andere
+belangrijke zaken gaat zitten, zoals EFiliaaL! Dat betekent niet dat de
+publicatie urgentie minder groot is hetgeen afgelezen kan worden uit alle
+hartenkreten die we in deze oplage weer uiten.
+<p>Natuurlijk is het niet allemaal urgent en bloedserieus. Aan een project als
+EFiliaal kun je een hoop plezier beleven. In het artikel over de
+verkooppartner lees je bijvoorbeeld luchtig nadenkwerk, opgetekend in
+alledaagse termen, dat aan het project ten grondslag ligt.
+<p>Een hartenkreet is wel verweven met het eerste deel van het artikel “Hoe
+Woodstock en ECB samen de Bitcoinhemel bedreigen”. Het gaat over de
+moeilijkheid om een genuanceerde middenpositie in te nemen terwijl je
+een belangrijke boodschap hebt.
+<p>Dat moet dan ook gelden voor de vraag “waarom EFL?” Het kost ons
+desondanks weinig moeite om die motivatie in het negende Journaal vanuit
+een nieuwe invalshoek in beeld te brengen.
+<p>Daarnaast zijn er terechte en oprechte vragen die ons bereiken en het
+antwoord daarop kan voor iedereen interessant zijn en wellicht tot
+eyeopeners leiden. Wat dachten jullie van de kwetsbaarheid van EFL?
+<p>Terwijl de EFL- en Bitcoinstatistieken niet mogen ontbreken hebben we ook
+de artikelreeks over de blockchain weer opgepakt. Het verhaal is wat
+technisch, maar het geeft een antwoord op de vraag “Wat is EFL nou
+precies voor iets”.
+<p>We kunnen tenslotte niet nalaten om efl.nl weer in het zonnetje te zetten
+omdat het echt een heel laagdrempelige toegang biedt tot EFL. Hoe
+pretentieus het ook klinkt, het is heel goed mogelijk om binnen een minuut
+iemand met EFL te betalen terwijl die persoon nog nooit van EFL heeft
+gehoord. Ben je ooit weleens zo’n laagdrempelig systeem tegengekomen
+in het digitale tijdperk?
+<p>[http://egulden.org/flip/images/efljournaal9/efljournaal9.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal9.html#3,De wereld van de affiliate ofwel de verkooppartner]
+<li>[http://egulden.org/flip/efljournaal9.html#7,Hoe woodstock en ECB samen de Bitcoinhemel bedreigen - deel 1]
+<li>[http://egulden.org/flip/efljournaal9.html#7,Waarom EFL - Ruil- en spaarmiddel in één]
+<li>[http://egulden.org/flip/efljournaal9.html#11,Vraag en antwoord]
+<li>[http://egulden.org/flip/efljournaal9.html#13,De bitcoin grafieken]
+<li>[http://egulden.org/flip/efljournaal9.html#15,De blockchain - deel 3]
+</ul>
+#Nummer 08: <GROEN>07-01-2016</GROEN> <ZWART>Het kapitalisme is niet meer</ZWART>
+Terwijl de schuldklok voort tikt zo werkt de Stichting Electronic Gulden
+Foundation verder aan de motivatie om te experimenteren met
+Elektronisch geld in Nederland. Iedere lezer die dit leest hebben we
+daarmee bereikt en dat is wat waard.
+<p>Zoals we echter keer op keer aangeven, hebben we hulp nodig om het
+brede terrein van uitvoering te bemannen en daar krijgen we erg weinig
+respons op. Dat is logisch want iedereen heeft het druk. Toch is het wat ons
+betreft ook zorgelijk omdat er wereld verbeterende ambities aan ons werk
+ten grondslag liggen en er blijkbaar weinig mensen zijn die zich geroepen
+voelen om daaraan bij te dragen. Ook dat is logisch, want de zorg voor
+financieel welzijn is voor velen al een dagtaak.
+<p>Deze conclusie hebben we al vaker moeten trekken en dat is de reden dat
+wij kiezen voor een win-win oplossing met EFiliaaL. Daarmee zorgen we dat
+de motivatie voor het gebruik van EFL niet alleen ligt bij de technische
+uitdaging en de opties voor wereldverbetering maar op de eerste plaatst
+bij ons eigen financiële welzijn : Het gaat brood op de plank brengen.
+<p>Onze strategie was dat wij met het Journaal meer assistentie zouden
+krijgen en daardoor meer tijd vrij konden maken voor EFiliaaL. Daarom is
+het nu tactisch om de frequentie van het journaal iets te verminderen naar
+een tweewekelijkse om de realisatie van EFiliaaL zelf te versnellen. Wij
+hopen op jullie begrip.
+<p>Dit laat onverlet dat we in dit journaal de EFiliaaL-affiliate, of liever de
+verkooppartner, introduceren. Zijn precieze rol presenteren we in het
+volgende journaal. Daarop volgt een heel korte, maar krachtige EFLmotivatie
+: De echte oorzaak van deze crisis en de oplossing ervan. Het is
+zo simpel. Na de statistieken volg een zeer kritische noot ten aanzien van
+bitcoinverheerlijking : we zijn er nog lang niet en nogmaals iedereen die
+graag bitcoin in zijn toekomst wil zien ingebouwd wordt opgeroepen om de
+mouwen te komen opstropen.
+<p>Omdat we redelijk vaak vragen krijgen over het herstellen van de
+portemonnee na een computercrash hebben we hier een Q&A van
+gemaakt en we besluiten het Journaal natuurlijk met de Bitcoingrafieken.
+<p>[http://egulden.org/flip/images/efljournaal8/efljournaal8.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal8.html#3,2016 - Het jaar van eFiliaaL]
+<li>[http://egulden.org/flip/efljournaal8.html#5,Waarom EFL - Omdat het aan het geld ligt]
+<li>[http://egulden.org/flip/efljournaal8.html#9,Bitcoin - Het nieuwe goud]
+<li>[http://egulden.org/flip/efljournaal8.html#11,Vraag en antwoord]
+<li>[http://egulden.org/flip/efljournaal8.html#13,De Bitcoingrafieken]
+<li>[http://egulden.org/flip/efljournaal8.html#15,Het gebruik van EFL.NL]
+</ul>
+#Nummer 07: <GROEN>31-12-2015</GROEN> <ZWART>Nieuwjaarsnummer</ZWART>
+In de chronologie van wekelijkse Journaals valt dit Journaal pardoes op de
+laatste dag van het jaar. Een korte vakantie voor de redactieleden maakt
+deze versie summier. Maar zoals de EFL zelf een constante factor aan het
+worden is, zo mag het journaal niet ontbreken als teken dat ons werk en
+jullie betrokkenheid gewoon door gaat.
+<p>Vanuit deze positie wenst het bestuur van de Electronic Gulden Foundation
+iedereen daarom veel sterkte voor het jaar 2016, een jaar dat ons inziens
+ongemeen spannend gaat worden.
+<p>We willen ook iedereen hartelijk danken die afgelopen jaar heeft
+bijgedragen om 2016 tot jaar met EFL perspectief te maken. Bestuur klinkt
+echter zo uit de hoogte en daarnaast is er een kring van directe vrijwilligers
+met intense betrokkenheid. Als er namens de EFL gemeenschap gesproken
+mag worden dan is dank voor die extra betrokkenheid verschuldigd aan
+met name Gerrit Oerlemans, Dennis Ruhe, Jan Sibie, Niels Harmsen, Jan
+Trapman, Henk Compier, Ingeborg Willems en Peter Aggenbach. 
+<p>[http://egulden.org/flip/images/efljournaal7/efljournaal7.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal7.html#3,De kerstbonus geprolongeerd]
+<li>[http://egulden.org/flip/efljournaal7.html#7,Het gebruik van EFL.NL]
+<li>[http://egulden.org/flip/efljournaal7.html#7,De schuldklok]
+</ul>
+#Nummer 06: <GROEN>24-12-2015</GROEN> <ZWART>Terugblik en vooruitblik</ZWART>
+Zo vlak voor kerst, het zij ons vergeven, zijn terugblikken en vooruitblikken
+onontkoombare gedachtes. Op ieder moment is het handig om te weten
+waar je staat, maar de kerst is een periode om naast rust, te bedenken waar
+het allemaal om gaat. Of geld in die gedachtes past is de vraag. Door het
+jaar heen is het schijnbaar van levensbelang, maar zitten we op de goede
+weg? Om die vraag aan te scherpen laten we achter in dit Journaal
+(flipbookversie) Farage aan het woord. Niet als te kiezen richting, maar als
+vraag.
+<p>Misschien is er de komende dagen ook nog wat ruimte om af te dalen tot
+de fundamenten van de EFL. Daar stuit je binnen de blockchain op het
+fenomeen transactie. We laten dat onderwerp deze week de revue
+passeren als een “voor elk wat wils”.
+<p>Dat we het publiek, dat nog nooit van ons heeft gehoord, niet met rust
+zullen laten moge blijken uit onze initiatieven op het gebied van educatie.
+Een impressie van de boekdelen die zullen verschijnen wordt geboden in
+het overzicht onder de titel “EFL 2.0 educatie”.
+<p>Een kolom die lijkt te ontbreken is die van de EFL-motivatie. Niets is echter
+minder waar. De gast-kolom van Peter B Meyer bood ons de gelegenheid
+om een kort intermezzo en een stuk actualiteit van de hand van Charlie Lee
+“Eating the Bitcoin Pie” in te brengen, waarmee de rol van EFL , tenminste
+voor de goede lezer, duidelijk wordt uiteen gezet.
+<p>We beginnen echter met de kerstbonus. Eigenlijk nodigen we iedereen uit
+om, na het bekijken van de pagina hiernaast, dit journaal even terzijde te
+leggen om daarna binnen een minuut of wat met een stukje extra inspiratie
+verder te lezen.
+<p>Mochten ook bij ons de eindejaars beslommeringen de overhand krijgen
+dan heeft u dit jaar tenminste nog de beste wensen tegoed. Een gevuld
+journaal als dit wordt dan weer volgend jaar
+<p>[http://egulden.org/flip/images/efljournaal6/efljournaal6.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal6.html#3,De kerstbonus]
+<li>[http://egulden.org/flip/efljournaal6.html#5,e-Gulden - een terugblik]
+<li>[http://egulden.org/flip/efljournaal6.html#5,EFL - een vooruitblik]
+<li>[http://egulden.org/flip/efljournaal6.html#7,De EFL blokketen - deel 2 - de transactie]
+<li>[http://egulden.org/flip/efljournaal6.html#11,EFL 2.0 educatie]
+<li>[http://egulden.org/flip/efljournaal6.html#13,Gastkolom - Peter B Meyer over Bitcoin - deel 2]
+<li>[http://egulden.org/flip/efljournaal6.html#13,Het gebruik van EFL.NL]
+</ul>
+#Nummer 05: <GROEN>17-12-2015</GROEN> <ZWART>Het geheim van de blokketen</ZWART>
+We zijn weer in wat rustiger vaarwater terecht gekomen. Laten we
+zeggen dat het onderwerp van 51 procent aanvallen is gepasseerd,
+zodat we ons kunnen verdiepen in de werking van elektronisch geld.
+Alles met als doel om het gefundeerd te kunnen gaan gebruiken.
+Daartoe presenteren wij een serie artikelen over de blockchain, vandaag
+dus deel 1.
+<p>Maar als je EFL gaat gebruiken buiten het domein van het normale
+ontvangen en betalen, zul je diensten moeten ontwikkelen en dan heb je
+een project aan je broek. Zoals bekend zijn wij zo’n project aan het
+uitvoeren en in dit Journaal lichten wij toe hoe je dat met een paar man
+in beperkte tijd kunt realiseren : organisatorisch prototypen.
+<p>De motivatie waarom dat zo nodig op basis van EFL moet gebeuren
+staat als een hartenkreet midden in het Journaal : Het is een oplossing
+voor het probleem van valse beloftes waar het bestaande financiële
+systeem op is gebaseerd. Hoe erg het gesteld is komt meer dan duidelijk
+in beeld in ons verhaal over luchtbellen.
+<p>In onze gastkolom verschijnt een nieuwe ster aan het EFL-firmament.
+Peter B Meyer valt in voor Yoshi met een artikelreeks over Bitcoin. Dat
+datzelfde Bitcoin zich momenteel meer dan bijzonder gedraagt
+demonstreren we met statistieken rond het prijsverloop.
+<p>Veel leesplezier gewenst en vergeet in de kerstperiode niet wat tijd te
+reserveren voor onze kerst-editie!
+<p>[http://egulden.org/flip/images/efljournaal5/efljournaal5.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal5.html#5,EFL 2.0 - Meer over organisatorisch prototyping]
+<li>[http://egulden.org/flip/efljournaal5.html#7,De EFL blokketen - deel 1]
+<li>[http://egulden.org/flip/efljournaal5.html#7,Kolom - Waarom EFL - Omdat luchtbellen exploderen]
+<li>[http://egulden.org/flip/efljournaal5.html#11,Beursanalyse - Overbought en oversold grafieken]
+<li>[http://egulden.org/flip/efljournaal5.html#13,De Bitcoin grafieken]
+<li>[http://egulden.org/flip/efljournaal5.html#15,Gastkolom - Peter B Meyer over Bitcoin - deel 1]
+</ul>
+#Nummer 04: <GROEN>10-12-2015</GROEN> <ZWART>Bitcoin conferentie in Hong Kong</ZWART>
+In ons vorige journaal zijn we ingegaan op een van de grootste
+bedreigingen voor jonge crypto-munten. Natuurlijk staat dat gelijk aan het
+verzoeken van de goden, maar het is onze verantwoordelijkheid om zo
+open te zijn als maar mogelijk is. Daarom gaan we in dit journaal een stapje
+verder onder de noemer 51% attack: wat kunnen we er aan doen. Een
+eerste stap in de ontrafeling van de geheimen van de blokketen…
+<p>Onze grote broer Bitcoin heeft zo zijn eigen uitdagingen en die hebben ze
+afgelopen weekend besproken tijdens een topconferentie in Hong-Kong.
+Dat is een beetje ver weg om bij te wonen, maar de rode draad kunnen we
+prima uit de doeken doen in een artikel over Bitcoin in Hong-Kong.
+<p>Daarnaast gaat het leven gewoon zijn gang zo lijkt het. Dat geld in ieder
+geval voor het EFiliaaL project. In een korte schets lichten we dat toe.
+<p>Als wekelijkse EFL-motivatie kon het niet toepasselijker dan om in te haken
+op een recente voorzet van de Bank der Banken : De BIS . We hebben een
+korte samenvatting gemaakt van hun rapport over elektronisch geld zonder
+deze al te veel te kleuren. Dat hoefde ook niet want de BIS is bijzonder
+positief over EFL, zonder dat zelf te beseffen.
+<p>Het Journaal bevat natuurlijk nog veel meer. Een letterlijke uitschieter is de
+Bitcoingrafiek die zich niet met vergevorderde statistiek laat grijpen… Des
+te meer bijzonder is de stijging van EFL ten opzichte van Bitcoin.
+<p>[http://egulden.org/flip/images/efljournaal4/efljournaal4.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal4.html#5,Voortgang EFL 2.0 - eFiliaaL - eFinancieel]
+<li>[http://egulden.org/flip/efljournaal4.html#7,Debat op de Bitcoin Hong-Kong topconferentie]
+<li>[http://egulden.org/flip/efljournaal4.html#7,Een 51% aanval, wat doe je er aan?]
+<li>[http://egulden.org/flip/efljournaal4.html#9,Kolom - Waarom EFL - Omdat BIS er toekomst in ziet]
+<li>[http://egulden.org/flip/efljournaal4.html#13,Bitcoin Journaal - De bitcoin grafieken]
+<li>[http://egulden.org/flip/efljournaal4.html#17,Gastkolom - Yoshi Livo]
+</ul>
+#Nummer 03: <GROEN>03-12-2015</GROEN> <ZWART>51% attack</ZWART>
+Afgelopen week zijn de gemoederen weer een beetje tot bedaren
+gekomen. Rusland heeft zijn gram gehaald in Syrië en de aanslagen in
+Parijs zijn in de geschiedenisboeken geschreven, opgevolgd door een
+klimaattop die werd gestart met gepaste eerbied. Toch borrelt het. De
+stichting Elektronische Gulden Foundation voelt niet voor niets de drang
+om een weekjournaal te produceren en heeft een grote hoeveelheid
+bijzonder materiaal in de aanslag.
+<p>De cover van deze week gaat over een aanval op die recentelijk heeft
+plaatsgevonden op een van onze “collega-munten”. Die aanval is
+afgeslagen, maar mag worden benoemd om aan te geven dat er werk aan
+de winkel is. Het technische fundament onder elektronisch geld is
+fenomenaal, maar niet vanzelfsprekend. De komende weken gaan we
+beetje bij beetje het fundament in beeld brengen voor een beter begrip
+voor de kwaliteit van het EFL systeem en waar precies versterking nodig
+is.
+<p>Alles om problemen op wereldschaal het hoofd te bieden. We willen
+demonstreren dat de EFL een vorm van duurzaamheid is (“sustainable
+finance”). Een onderbouwing voor de inzet van EFL gebeurt in dit journaal
+met een artikel over schuld, maar natuurlijk nodigen we ook nu weer uit
+om EFL zelf te ondervinden, simpelweg door in te stappen en het
+onderling uit te wisselen.
+<p>[http://egulden.org/flip/images/efljournaal3/efljournaal3.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal3.html#3,EFL en EFL2.0 in plaats van e-Gulden]
+<li>[http://egulden.org/flip/efljournaal3.html#5,Vraag en antwoord - Wat is een 51% aanval?]
+<li>[http://egulden.org/flip/efljournaal3.html#7,Kolom - Waarom EFL - de schuldvraag]
+<li>[http://egulden.org/flip/efljournaal3.html#11,Bitcoin Journaal - De Bitcoin grafieken]
+<li>[http://egulden.org/flip/efljournaal3.html#15,Gastkolom - Yoshi Livo]
+</ul>
+#Nummer 02: <GROEN>26-11-2015</GROEN> <ZWART>EFL als de nieuwe UBER straks op 5th Avenue</ZWART>
+Een korte verontschuldiging is op zijn plaats. We hebben namelijk van
+meerdere kanten te horen gekregen dat onze teksten te lang zijn en vaak
+te moeilijk. Nu is dat met een klein team niet makkelijk op stel en sprong
+te veranderen en bovendien is de materie rond elektronisch geld vaak
+niet eenvoudig. Omdat het merendeel van onze lezers voorlopig nog
+bestaat uit “ingewijden” willen we ook door hen serieus genomen
+worden. De artikel- en kolom keuze is er ook op gericht om voor elk wat
+wils te bieden. Juist door de informatie als flipboek te presenteren is er
+niets makkelijker dan het overslaan van artikels of te bladeren naar het
+meest interessante. De Jip- en Janneke hint is echter goed aangekomen
+en we zullen zeker proberen om dat door te laten klinken.
+<p>We zullen het standaard blijven herhalen, totdat we het echt niet meer
+aankunnen : Hulp in elke vorm, materiaal, teksten, analyses, grafieken,
+verslagen, discussiemateriaal en noem maar op is welkom. Stuur uw
+bijdrage naar redactie@egulden.org en het komt ter plaatse, als een start
+voor een verdere dialoog en participatie.
+<p>[http://egulden.org/flip/images/efljournaal2/efljournaal2.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal2.html#3,De nieuwe UBER? Dat zijn wij!]
+<li>[http://egulden.org/flip/efljournaal2.html#5,Kolom - Waar is EFL (of Bitcoin) eigenlijk goed voor?]
+<li>[http://egulden.org/flip/efljournaal2.html#5,Vraag en antwoord - De prijs van EFL]
+<li>[http://egulden.org/flip/efljournaal2.html#9,Gast-kolom - Yoshi Livo]
+<li>[http://egulden.org/flip/efljournaal2.html#11,Bitcoin Journaal]
+</ul>
+#Nummer 01: <GROEN>19-12-2015</GROEN> <ZWART>Economie analyseren met containervervoer</ZWART>
+De EFL is weliswaar nog niet zo bekend als zijn grotere broer de Bitcoin,
+maar het is wel een puur Nederlandse versie en gebaseerd op dezelfde
+technologie. Terwijl de bankwereld zich onderzoekend op Bitcoin stort,
+ontpopt er zich in Nederland een variant die we met dit Journaal speciaal
+aan alle Nederlanders gaan presenteren als dé laagdrempelige
+instapmogelijkheid. Daarnaast brengen wij het verband tussen EFL en
+Bitcoin in beeld, onder meer door financiële analyses en
+achtergrondartikelen.
+<p>EFL is een onafhankelijk geldsysteem dat op internet aanwezig is en dat
+alleen bestaat bij de gratie van het feit dat mensen er gebruik van maken.
+De EFL gebruikers gezamenlijk vormen het systeem. Dit journaal wordt u
+aangeboden door de stichting Electronic Gulden Foundation. Deze
+stichting heeft geen invloed op de EFL zelf, anders dan dat zij bestaande
+gebruikers begeleidt en Nederlanders in het bijzonder op het bestaan
+ervan wijst. Het succes van de EFL zal worden bepaald door de mate
+waarin Nederland erin slaagt om er een succes van te maken. Met name
+door de vele extra’s ten opzichte van de huidige Euro zou EFL wel eens
+een grote doorbraak kunnen worden. EFL is net als de Euro een vorm van
+"Ons Geld" en daarvoor vragen wij jullie aandacht.
+<p>Als stichting hebben we een nieuw stadium bereikt dat we EFL2.0 gedoopt
+hebben. In dit stadium zijn we concreet aan het bouwen aan projecten die
+parallel aan het huidige eurosysteem en als versterking daarvan kunnen
+functioneren. Daarbij kunnen we iedere hulp gebruiken. Sterker nog, het
+zou ideaal zijn als Nederland ons het hele project uit handen zou nemen.
+Niet de overheid of een softwarebedrijf, maar jullie als belanghebbenden
+zelf. Geld raakt ons immers allemaal en het is niet zo moeilijk als je
+misschien denkt.
+<p>Hulp in elke vorm, materiaal, teksten, analyses, grafieken,
+verslagen, discussiemateriaal en noem maar op is welkom. Stuur uw
+bijdrage naar redactie@egulden.org en het komt ter plaatse, als een start
+voor een verdere dialoog en participatie.
+<p>[http://egulden.org/flip/images/efljournaal1/efljournaal1.pdf,PDF-versie]
+<p>Inhoudsopgave
+<ul><li>[http://egulden.org/flip/efljournaal1.html#3,e-Gulden is opgenomen in BIP-44]
+<li>[http://egulden.org/flip/efljournaal1.html#5,Kolom - Waar is EFL (of Bitcoin) eigenlijk goed voor?]
+<li>[http://egulden.org/flip/efljournaal1.html#5,EFL2.0 - Een project met meerdere doelen]
+<li>[http://egulden.org/flip/efljournaal1.html#9,Bitcoin Journaal]
+</ul>
+
+
+#-
+

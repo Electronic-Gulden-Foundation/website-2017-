@@ -1,0 +1,24 @@
+index_circuit
+Het circuit
+Onder het circuit verstaan we de spelers die zich tot op heden met de e-Gulden hebben bezig gehouden, het terrein waarop dit plaats heeft gevonden en de referenties die daaruit zijn voortgekomen. 
+<p><br>Voor iedereen die zich wil gaan verdiepen in de e-Gulden kan het zinvol zijn om te weten waar je terecht kunt met vragen of ideeën. Op de eerste plaats is dat wellicht de stichting Electronic Gulden Foundation die op haar mailadres [mailto://foundation@e-gulden.org,foundation@e-gulden.org] is te bereiken. Ter verkenning presenteren we hier het circuit tot dusverre. 
+
+_Wie zijn wij
+Binnen de wereld van elektronisch geld zijn twee krachten actief: globalisering en democratisering. Electronisch geld is een bijdrage aan globalisering door haar grens-overschreidende karakter. Daarnaast werkt elektronisch geld het ontstaan van een te sterke centrale globalistische macht tegen door het eigendom van geld bij terug bij het individu te leggen en privacy te waarborgen.
+Met "Wie zijn wij" willen we tot uitdrukking brengen dat elektronisch geld decentraal functioneert. Het is een open netwerk dat door de meerderheid wordt gecontroleerd en niet door een centrale vertegenwoordiging. Voor zover de stichting Electronic Gulden Foundation toch een centrale positie heeft voert zij een zeer conservatief beleid door de uitgangspunten te bewaken. 
+
+_Beurzen
+Ook beurzen kunnen worden gezien als een punt van samenkomst. Mensen die e-Guldens willen verkopen of verkopen kunnen hier terecht en onderling bepalen zij de werkelijke prijs van de e-Gulden. Aarzel niet om eens een kijkje op met name Bittrex te nemen. Handelen in valuta is erg laagdrempelig, serieus en anoniem.
+_Explorers
+De echte interactie met betrekking tot de e-Gulden vindt natuurlijk plaats door middel van openbare betaaltransacties. Door middel van explorers kun je precies volgen wat de e-Gulden nu echt beweegt.
+_Betaalcircuits
+Betalingen vinden niet alleen plaats in het openbaar. Zo zal een beurstransactie door de beurshouder worden uitgevoerd door intern saldo-transport. Pas bij een Storting of opname komt het electronische geld weer aan het daglicht. Op dezelfde manier worden betaalcircuits zoals efl.nl en eflap.nl beheerd. Dit heeft als bijeffect dat het openbare circuit niet wordt belast.
+_Delven (Mining)
+Het echte onderhoud aan de e-Gulden wordt uitgevoerd door zogenaamde miners. Minen is delven in de letterlijke zin. Hoewel het door computers wordt uitgevoerd is het zwaar werk dat wordt beloond met e-Gulden inkomsten. Hetzelfde mechanisme wordt toegepast door alle andere vormen van elektronisch geld en het vereist gespecialiseerde hardware om een rol van betekenis te kunnen spelen. 
+<p>Zoals een grote groep andere Altcoins maakt e-Gulden gebruik van het scrypt-algorithme, zodat miners met dezelfde hardware kunnen schakelen naar de munt die hun voorkeur heeft of die voor hen het meest oplevert. Dat is niet persé de munt met de hoogste prijs, want het rendement hangt natuurlijk ook af van het aantal concurrerende miners. Per blok van twee minuten is er maar één miner die de de eerste oplossing vindt. In de praktijk zie je dat bij een prijsstijging van de e-Gulden er meer miners gaan meedoen en omgekeerd. Om ervoor te zorgen dat er gemiddeld één blok per twee minuten wordt gevonden zorgt het e-Gulden protocol (KGW) er voor dat de moeilijkheidsgraad na ieder blok wordt aangepast. 
+<p>Met de juiste hardware is het nog mogelijk om zelfstandig te minen op het e-Gulden netwerk, maar over het algemeen worden de krachten gebundeld binnen mining-pools. Er zijn miningpools die regelmatig schakelen naar de meest lucratieve munt van dat moment. Miningpools die zijn toegewijd aan de e-gulden brengen we nevenstaand in beeld. Op het forum vindt je specifieke [http://forum.e-gulden.org/index.php?board=43.0,mining-discussies].
+
+
+
+
+

@@ -1,0 +1,77 @@
+<br>
+<table align=center style="font-size: 15px; border-width: 1px; border-style: solid; border-color: #eeeeee #f8f8f8 #eeeeee #eeeeee; ">
+<tbody>
+<tr valign=top>
+<td style="background-color: #ffde90;" >e-Guldens in omloop</td>
+<td id="id_omloop">----</td>
+</tr>
+<tr valign=top>
+<td style="background-color: #fbfbfb;">Premine reserve</td>
+<td id="id_premine">----</td>
+</tr>
+<tr valign=top>
+<td style="background-color: #fbfbfb;">Eerste blok</td>
+<td id="id_eerste">19 maart 2014 12:17:12</td>
+</tr>
+<tr valign=top>
+<td style="background-color: #fbfbfb;">Nieuwste blok</td>
+<td id="id_height">----</td>
+</tr>
+<tr valign=top>
+<td style="background-color: #fbfbfb;">Koers €&nbsp;(1000 EFL=)</td>
+<td id="id_marktwaarde">----</td>
+</tr>
+<tr valign=top>
+<td style="background-color: #fbfbfb;">Rekenkracht (Mh/s)</td>
+<td id="id_hashingpower">----</td>
+</tr>
+<tr valign=top>
+<td style="background-color: #fbfbfb;" valign="top">Hoogste bod (btc)</td>
+<td id="id_bod">----</td>
+</tr>
+<tr valign=top>
+<td style="background-color: #f8f8f8;" valign="top">Laagste vraag (btc)</td>
+<td id="id_vraag">----</td>
+</tr>
+</tbody>
+</table>
+<br>
+<center>
+<iframe src="grafieken.php" width=500 height=220 borders=none scrollbars=none></iframe>
+</center>
+
+<script>
+polltimeout=setTimeout("",10);wait=60000;
+block=hash=bod=vraag=markt=omloop=reserve="";
+function poll() {
+	clearTimeout(polltimeout)
+	polltimeout=setTimeout("poll()",wait);
+	xmlhttp.open("GET","poll_egulden.php?f=poll",true);
+	xmlhttp.onreadystatechange=function() {if ((xmlhttp.readyState==4)) {
+		var result=xmlhttp.responseText.split(":");
+		result[3]=result[3].replace(/\(/,"<span style='font-size:12px' >(")
+		result[3]=result[3].replace(/\)/,")</span>")
+		result[4]=result[4].replace(/\(/,"<span style='font-size:12px' >(")
+		result[4]=result[4].replace(/\)/,")</span>")
+		if (block==result[0]) { document.getElementById("id_height").innerHTML="<span>"+result[0]+"</span> "}
+		else {document.getElementById("id_height").innerHTML="<span style='background-color:yellow'>"+result[0]+"</span> "}
+			    if (hash==result[1]) { document.getElementById("id_hashingpower").innerHTML="<span>"+result[1]+"</span> "}
+		else {document.getElementById("id_hashingpower").innerHTML="<span style='background-color:yellow'>"+result[1]+"</span> "}
+			    if (bod==result[3]) { document.getElementById("id_bod").innerHTML="<span>"+result[3]+"</span> "}
+		else {document.getElementById("id_bod").innerHTML="<span style='background-color:yellow'>"+result[3]+"</span> "}
+			    if (vraag==result[4]) { document.getElementById("id_vraag").innerHTML="<span>"+result[4]+"</span> "}
+		else {document.getElementById("id_vraag").innerHTML="<span style='background-color:yellow'>"+result[4]+"</span> "}
+			    if (markt==result[5]) { document.getElementById("id_marktwaarde").innerHTML="<span>&euro; "+result[5]+"</span> "}
+		else {document.getElementById("id_marktwaarde").innerHTML="<span style='background-color:yellow'>&euro; "+result[5]+"</span> "}
+			    if (omloop==result[9]) { document.getElementById("id_omloop").innerHTML="<span>"+result[9]+"</span> "}
+		else {document.getElementById("id_omloop").innerHTML="<span style='background-color:yellow'>"+result[9]+"</span> "}
+			    if (reserve==result[8]) { document.getElementById("id_premine").innerHTML="<span>"+result[8]+"</span> "}
+		else {document.getElementById("id_premine").innerHTML="<span style='background-color:yellow'>"+result[8]+"</span> "}
+		block=result[0];hash=result[1];bod=result[3];vraag=result[4];markt=result[5];omloop=result[9];reserve=result[8]
+		}}
+	xmlhttp.send(null);
+	polltimeout=setTimeout("poll()",wait);
+}
+poll();
+</script>
+

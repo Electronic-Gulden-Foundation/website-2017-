@@ -1,0 +1,18 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px'>
+<p style='font-size:12px;color:red'>Mocht u niet door een ambassadeur op het spoor van deze campagne zijn gekomen  
+stuur dan een mailtje naar support@e-gulden.org met als onderwerp "ambassadeur gezocht".  
+Wij koppelen u dan aan een random ambassadeur. 
+<table>
+<tr><td align=right style='font-weight:bold'>Uw e-Gulden rekeningnummer: </td><td>[idn_efl]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uw nieuwsbrief mailadres: </td><td>[idn_mail]</td></tr>
+<tr><td align=right style='font-weight:bold'>Het ambassadeur mailadres: </td><td><input style='width:300px' id=id_mail type=text></td></tr>
+<tr><td align=right id=idn_opslaan><input type=button onclick='doorgaan()' value='Opslaan'></td><td></td></tr>
+<tr><td></td><td id=idn_commentaar></td></tr>
+</table>
+</div>
+
+<script>
+function doorgaan() {
+}
+</script>

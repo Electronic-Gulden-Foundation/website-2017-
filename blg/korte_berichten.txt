@@ -1,0 +1,84 @@
+index_kort;index_dialoog
+Korte berichten
+<br>
+#1-februari-2019 Cryptopia gehacked. Novaexchange versoepelt e-Gulden markt.  Coinmarketcap accepteerd novaexchange EFL-BTC markt.
+Door de inbraak op cryptopia werd de mogelijkheid van aan-en verkoop van e-Gulden beperkt. 
+e-Gulden was wel verhandelbaar op [https://novaexchange.com,novaexchange], maar deposits hadden een vertraging van twee dagen. 
+Door de presentatie van het engelse [https://e-gulden.org/index.php/The_e-gulden_oerushield,oeruschildverhaal] is de vertraging teruggebracht naar 10 minuten.
+Ook [https://coinmarketcap.com/exchanges/novaexchange,coinmarketcap] is overtuigd om de novaexchange listing te accepteren.
+#1-januari-2019 Voor alle communityleden de beste wensen voor 2019
+#26-oktober-2018 Bittrex delisting van BTC-EFL op 26 oktober
+In een [https://e-gulden.org/index.php/Verwijdering_van_NLG_op_coinomi_heeft_geen_betrekking_op_EFL,speciale toelichting] worden negatieve en positieve aspecten doorgenomen
+#21-oktober-2018 Nieuwsbrief 25
+Het belangrijkste aspect van [https://e-gulden.org/index.php/nieuwsbrief_25,Nieuwsbrief 25] is een uitnodiging aan alle e-Guldenbezitters om te participeren.
+#26-september-2018 Verwijdering van NLG door Coinomi heeft geen betrekking op EFL
+Coinomi heeft [https://e-gulden.org/index.php/Verwijdering_van_NLG_op_coinomi_heeft_geen_betrekking_op_EFL,een speciale verkaring] uitgebracht, noodzakelijk om verwarring tussen EFL en NLG te voorkomen.
+#14-september-2018 Rechtstreeks EFL kopen en verkopen met Euro's bij Bitcoinmeester.nl
+Lees meer over [https://e-gulden.org/index.php/koop_e-gulden,e-Gulden kopen en verkopen]
+#1-jui-2018 - Ambassadeurscampagne gesloten
+Deze beslissing en de toeichting is aangekondigd in [https://e-gulden.org/index.php/nieuwsbrief_24,nieuwsbrief 24]
+#5-juni-2018 - Het HOW2TEACH Release Event 2018 is gesponsord met e-Gulden
+Op 11 juni organiseert, How2Teach, een organisatie die zich inzet voor een veilige leeromgeving op recreatieve sportclubs, een educatief event voor de danscommunity. Nederlands grootste dansers, dansdocenten en dansschool eigenaren komen samen in de Sport Hogeschool te Eindhoven om te netwerken en de toekomst te bespreken voor hun bedrijven. In andere woorden veel creatieve ondernemers die voor zich zelf werken. De [https://www.youtube.com/watch?v=wPWTjGjanRM&feature=youtu.be,promotievideo] is gesponsord met geld uit de e-Guldencommunity.
+#10-mei-2018 - Campagneverloop étappe 5 bechikbaar
+De [https://e-gulden.org/index.php/etappe5verloop,vijfde campagne-étappe] is gericht op het aantal actieve e-gulden corewallets.
+#5-mei-2018 Blog - Das Kapital en de teloorgang van de kwaliteitsjournalistiek
+[https://e-gulden.org//index.php/Das_Kapital_en_de_teloorgang_van_de_kwaliteitsjournalistiek,Een reaktie] op een artikel in DasKapital naar aanleiding van een billboard langs de A4 met reclame over EFL
+#1-mei-2018 Ambassadeurscampagne Étappe 5 van start
+Schrijf in of bekijk het verloop op de [https://e-gulden.org/index.php/campagne_oeruschild_vijfde_etappe,campagnepagne pagina]
+#19-mrt-2018 e-Gulden bestaat vier jaar
+De e-gulden blockchain ontstond op [https://chainz.cryptoid.info/efl/block.dws?1b0122efc2c3fc3cb314468ab8e157146827ea55d0535d2c342e2bbd82fb467c.htm,19 maart 2014 12:17:12]
+#1-mrt-2018 Ambassadeurscampagne Étappe 4 van start
+Schrijf in of bekijk het verloop op de [https://e-gulden.org/index.php/campagne_oeruschild_vierde_etappe,campagnepagne pagina]
+#11-feb-2018 EFL beschikbaar via coinswitch.co 
+Geen blootstelling meer aan beurs-willekeur, zoals registratie, identificatie, hosted wallet enzovoort. Gewoon een wisselfunctie vanuit je corewallet tegen de actuele beurskoers via een efficiënte handelsrobot
+#25-jan-2018 Supergeld; Een nieuwe kijk op e-Gulden
+Een nieuwe website met een frisse insteek: [http://egulden.supergeld.nl/,e-gulden.supergulden.nl]
+#23-jan-2018 Goedkoop en zuinig: De raspberry-Pi kit
+Uitleg en download beschreven op [https://e-gulden.org/index.php/raspberry_pi,de Raspberry-Pi pagina]
+#9-jan-2018 de waarde van e-Gulden bereikt voor het eerst de waarde van de oude Gulden 
+Die waarde bedroeg 1/2,2037€ oftewel 0,45 eurocent 
+<br>{https://e-gulden.org/images/champagne.jpg,180}
+#1-jan-2018 Ambassadeurscampagne étappe 3 van start
+Schrijf in op de [https://e-gulden.org/index.php/campagne_oeruschild,campagnepagne pagina]
+<br>of volg het verloop op [https://e-gulden.org/index.php/etappe3verloop,Verloop étappe 3]
+#15-nov-2017 Nieuwe versie 1.4.3 beschikbaar voor download; Inclusief Apple OSX en Raspberry Pi 
+Het oeruschild was nog niet beschikbaar voor Apple gebruikers. Dat is nu bijgewerkt
+#10-nov-2017 Nieuwsbrief 23: Tijd voor iets nieuws
+De oeruschildcampagne is verlengd met een tweede étappe die de naam ambassadeurscampagne heeft gekregen. Deze nieuwsbrief geeft aan dat dit de aanzet is voor een reeks étappes. Deze premine besteding wordt uitgebreid gemotiveerd.
+#7-okt-2017 Nieuwsbrief 22: e-Gulden is Super duurzaam geworden
+<br>Waar het in [https://e-gulden.org/index.php/nieuwsbrief_22,deze versie 22] om gaat is dat dankzij het Oeruschild het roer kan worden omgegooid. Beschreven wordt dat het rumoer uit het verleden niet alleen betrekking had op het e-Gulden netwerk zelf. Omdat het Oeruschild diverse positieve "bijwerkingen" heeft maakt dat ons mogelijk om de aandacht vooral te verleggen van het minen van e-Gulden naar het wallet-gebruik. Dat is de belangrijkste verschuiving die gaat plaats vinden en die momenteel wordt ingeluid met de oeruschild-campagne. 
+
+#15-sep-2017 Oeruschild-campagne en verdien tot wel 1100EFL
+<br>Het zou een top-tien positie waard zijn, maar wie hoort ons in dit kikkerlandje? Help ons daarom mee door hoog van de toren te blazen. 
+<br>Wij geven de voorzet met een daverende campagne, waarbij we de premine kraan flink open zetten.  Waar het om gaat  is dat na drie jaar miner-beloningen nu de gebruikers zelf aan de beurt zijn. In feite hebben miners, op enkele positieve uitzonderingen nagelaten, weining bijgedragen aan de e-Gulden zelf. Het wordt dus tijd om het gebruik zelf te belonen. Dat begint met een aanzienlijke verbreding van het netwerk zelf: Meer mensen die een node willen draaien door middel van  een sterk verbeterde Christiaan Huijgens Wallet. Diegene die daaraan meehelpt geven wij budget uit de premine.
+
+<p>Lees er alles over op de campagnepagina. Doe je mee? Vul dan je e-gulden ontvangstadres in op de [https://e-gulden.org/index.php/campagne_oeruschild,campagne pagina]
+#5-sep-2017 Urgente download
+Als u beschikt over een e-Gulden-QT wallet MOET U een paar minuten in actie komen ten einde uw e-Guldens te beschermen
+<p>[https://e-gulden.org/index.php/urgente_download_e-Gulden_oeruschild,Lees meer over download instructies]
+#27-aug-2017 Het naderende oeruschild
+Een uitvoerige [https://e-gulden.org/index.php/het_oeruschild,lijst met vragen en antwoorden] over het naderende oeruschild is beschikbaar.
+#29-mei-2017 Aanval en verdediging
+Een reuze belangrijke gebeurtenis in het leven van e-Gulden: Het netwerk is aangevallen. 
+En een aanval op geld kan niet zonder consequenties blijven. Op ons forum hebben we [http://forum.e-gulden.org/index.php?board=105.0,een uitgebreid communiqué] geplaatst en zullen we het verloop van de ontwikkelingen bijhouden
+#27-mei-2017 efl.nl geschoeid op nieuwe leest
+efl.nl is voorzien van nieuwe hardware. Je zult altijd zien dat storingen gebeuren op ongelukkige momenten, zoals in dit geval hemelvaart. 
+Een goede les om voortaan een extra server paraat te houden en een goede oefening om in de toekomst snel te kunnen schakelen. 
+Met name het opbouwen van een nieuwe bitcoin keten had kunnen worden voorkomen.  
+Aan ieder nadeel zit een voordeel: De bitcoin-piek viel precies samen met onze storing. Kopen tijdens een piek is nooit gunstig, dus dat is potentiele kopers bespaard gebleven.
+#24-mei-2017 Hardwarestoring efl.nl
+Vanwege een hardwarestoring is efl.nl tijdelijk uit de lucht. Het kan enkele dagen duren voordat deze is vervangen en opnieuw ingericht. Vanzelfsprekend heeft dit geen invloed op het functioneren van het e-gulden netwerk.
+#12-mei-2017 Verbeterde beschrijving Wallet terminologie
+Het jargon in de wereld van cryptogeld wordt vaak als drempel ervaren terwijl het eigenlijk erg eenvoudig is. In het hoofdstuk [https://e-gulden.org/index.php/de_portemonnee,De portemonnee] beginnen we om dat jargon tegen het licht te houden.
+#26-apr-2017 Vierde halvering blokbeloning is een feit. Inflatie van 1.5675 EFL per 2 minuten. 1125 EFL per dag. 
+#15-feb-2017 Website renovatie gereed
+De website van e-Gulden is gereed in zijn nieuwe vorm. Als iemand nog informatie mist gaarne melden aan support@e-gulden.org
+#14-feb-2017 <rood>Alert</rood> domeinnamen en naamstelling e-Gulden
+De domeinnamen van de Stichting Electronic Gulden foundation zijn e-gulden<rood><b>.org</b></rood> en egulden<rood><b>.org</b></rood>. 
+De officiële naam van de munt is <BLAUW>e-Gulden</blauw> en afgekort <BLAUW>EFL</blauw>
+<p>De domeinnamen e-gulden.nl en e-gulden.com zijn "gekaapt" door guldencoin/gulden en worden doorgestuurd naar de betreffende website. 
+[http://egulden.org/flip/efljournaal21.html#3,Lees meer]
+<p>De domeinnaam egulden.nl is vóór de oprichting van de stichting geclaimed door een onbekende derde partij.
+#1-feb-2017 Website wordt opnieuw opgebouwd
+De website van e-Gulden wordt opnieuw opgebouwd. Geleidelijk zal alle vertrouwde informatie weer beschikbaar komen.
+#-

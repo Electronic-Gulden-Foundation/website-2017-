@@ -1,0 +1,33 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px;padding-top:10px'>
+<p style='font-size:12px;line-height: 18px;'>
+Als ambassadeur helpt u de Stichting Electronic Gulden Foundation bij het verspreiden van premine. 
+<p style='font-size:12px;line-height: 18px;'>
+Het doel van de premine is zoveel mogelijk Nederlanders met de e-Gulden kennis te laten maken en mee te laten doen.
+Omdat u reeds eerder heeft meegedaan laten we de beloning die u ontvangt in deze étappe ook afhangen van uw bijdrage 
+om andere nederlanders te motiveren. We hopen zo ook "spelenderwijs" de kennis over cryptogeld te vergroten.
+<p style='font-size:12px;line-height: 18px;'>
+Als nieuwe deelnemers uw mailadres opgeven krijgt u hun totaalsaldo in beeld. 
+Uw eigen saldo is, zoals voorheen, het aantal uur dat uw wallet in deze étappe is waargenomen. 
+Uw eindsaldo is het laagste van deze twee saldo's.
+<p style='color:red;font-size:12px;line-height: 18px;'>
+Als ambassadeur geeft u uw emailadres door aan de nieuwkomer. U hoeft zelf niets in te vullen. 
+Mocht de nieuwkomer ten onrechte worden aangemerkt als ambassadeur stuur dan een mailtje naar foundation@e-gulden.org met een korte uitleg waarom dit ten onrechte is.
+<table>
+<tr><td align=right style='font-weight:bold'>Uw e-Gulden rekeningnummer: </td><td id=ida_efl>[ida_efl]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uw nieuwsbrief mailadres: </td><td>[ida_mail]</td></tr>
+<tr><td align=right style='font-weight:bold'>Aantal gekoppelde nieuwkomers: </td><td>[ida_nieuw]</td></tr>
+<tr><td align=right style='font-weight:bold;[kleur]'>Uw uursaldo: </td><td>[ida_saldo]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uursaldo nieuwkomers: </td><td>[ida_saldonieuw]</td></tr>
+</table>
+<hr>
+<div id=id_saldodetails>
+<table class="table table-striped">
+<tr><td>Koppeling</td><td>Uursaldo</td></tr>
+[ida_saldospec]
+</table>
+</div>
+<br><br>
+</div>
+<script>
+</script>

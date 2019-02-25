@@ -1,0 +1,51 @@
+<p id="id_container"> 
+<p id="id_container">
+Email: <input name="email" type="text" id="fld_mail" >
+<br>Naam: <input name="naam" type="text" id="fld_naam">
+<br>
+<div id="id_progress"></div>
+</p>
+<p id="id_buttons" align="center">
+<button onclick='verzend(1)' class="btn btn-primary btn-lg">Aanmelden</button>   
+<button onclick='verzend(0)' class="btn btn-primary btn-lg">Afmelden</button></p>
+<p id="id_melding" style="font-weight: bold; color: red;" align="center"> </p>
+
+<script>
+var xmlhttp2=false;
+try {xmlhttp2 = new ActiveXObject("Msxml2.XMLHTTP");} catch (e) { try {xmlhttp2 = new ActiveXObject("Microsoft.XMLHTTP");}  catch (E) {xmlhttp2 = false;}}
+if (!xmlhttp2 && typeof XMLHttpRequest!='undefined') {try {xmlhttp2 = new XMLHttpRequest();} catch (e) {xmlhttp2=false;}}
+if (!xmlhttp2 && window.createRequest) {try {xmlhttp2 = window.createRequest();} catch (e) {xmlhttp2=false;}}
+url_reloc="https://e-gulden.org/"
+
+function verzend(x){
+	document.getElementById("id_melding").innerHTML="<img src='/images/progress.gif'>"
+	var naam=document.getElementById("fld_naam").value
+	var mail=document.getElementById("fld_mail").value
+	var overige=0
+	s=String.fromCharCode(1);
+	info='q='+escape(naam+s+mail+s+overige)+'&aan='+x
+	xmlhttp2.open('POST',url_reloc+"verzend_nieuwsbrief.php",false)  
+	xmlhttp2.setRequestHeader('Content-Type','application/x-www-form-urlencoded; charset=UTF-8');
+	xmlhttp2.send(info);
+	result=xmlhttp2.responseText
+	document.getElementById("id_melding").innerHTML=""
+	if (result=="OK") {
+		document.getElementById("id_buttons").innerHTML=""
+		if (x==1) {
+			document.getElementById("id_melding").innerHTML="\
+			Je aanvraag is in goede orde ontvangen.\
+			<p>Ter controle is er een bevestigingslink gestuurd naar het mailadres.\
+			<p>Klik op de link in die mail zodat wij de aanmelding in behandeling kunnen nemen.\
+			<p><span style='color:red'><b>Attentie:</b> Mocht u de bevestigingsmail niet ontvangen en ook niet in uw spamfilter aantreffen stuur ons dan even een direct mailtje met als onderwerp NIEUWSBRIEF \
+				naar support@e-gulden.org vanuit uw emailadres. Wij activeren uw mailadres dan handmatig."
+		} else {
+			document.getElementById("id_melding").innerHTML="\
+			Je afmelding is in goede orde ontvangen.\
+			<p>Ter controle dat deze authentiek is, is er een bevestigingslink gestuurd naar het mailadres.\
+			<p>Klik op de link in die mail zodat wij de afmelding in behandeling kunnen nemen."
+		}
+       } else {
+	      document.getElementById("id_melding").innerHTML=result
+       }
+}
+</script>

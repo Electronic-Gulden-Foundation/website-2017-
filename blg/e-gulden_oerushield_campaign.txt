@@ -1,0 +1,15 @@
+index_oeru;index_dialoog;modulepeers
+e-Gulden oerushield campaign
+
+<p>The [https://e-gulden.org/index.php/The_e-gulden_oerushield,oerushield] is functioning phenomenal. Because it is a technical improvement, the average user will not notice much difference. The e-Gulden corewallet does what it needs to do. All is quiet....
+
+<p>The graph below, which is refreshed every hour, shows the performance of the oerushield campaign. In stage one we attracted about 450 permanently active core-node users.
+As a reference: In the Netherlands there are [https://bitnodes.21.co/,about 500 active Bitcoin corewallets]. 
+That is how you can see the merits of a country coin. With some local attention it is easy to surpass Bitcoin. 
+Because Bitcoin is bloated and drags along global payments, Bitcoin is already a heavy load for a normal PC. The consequence is that ordinary users abandon the use of the corewallet, which is extremely bad for the <b>goal of decentralisation</b>. It is foolish to ever want to use Bitcoin as a payment system. It should be a store of value and community coins should extend it, eventually all glued together through lightning or other networks.
+
+<p>It is also clearly visible that the e-Gulden foundation, with no budget whatsoever and functioning thanks to a bunch of volunteers, has a finite capacity to draw attention. Therefore we are introducing the ambassador campain as <b>a relay race</b>. By asking existing users to pass the message to new users and rewarding them for that, we hope to demonstrate the potential network effect in the Netherlands.
+
+<p>The yellow line shows the new inscriptions brought about by ambassadors. The green line is the nubmer of new user corewallets currently active. The red line shows the active participants in the ambassador campaign, by signalling a personal recipient address (UAcomment). The purpure line is the total number of active and participating e-Gulden nodes, by actively connecting to one of our campaign-servers. The blue line is the number of active dutch Bitcoin nodes.
+
+modulepeers

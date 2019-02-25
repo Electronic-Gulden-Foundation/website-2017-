@@ -1,0 +1,34 @@
+index_verantwoording
+Das Kapital en de teloorgang van de kwaliteitsjournalistiek
+<ROOD>red. Omdat dit "vlugschrift" [https://www.daskapital.nl/5150969/das-kapital-doodverklaard-door-cryptojongens/,een vervolg] heeft gekregen voegen wij onderaan nog enige reakties toe</ROOD>
+<p>2 mei 2018 verscheen in Das Kapital, [https://www.daskapital.nl/5150949/cryptomafklappers-azen-op-uw-pensioen/,een vlugschrift] over de e-Gulden. De aanleiding was een billboardreclame langs de A4 bij Schiphol waar de e-Gulden wordt gepromoot tot 12 mei aanstaande. Nu zijn we wel wat gewend als het gaat om de kwaliteit van de journalistiek rond cryptogeld. Tot dusverre vonden we dat Elsevier de absolute bodem was maar dit artikel in Das Kaptital vraagt toch om een reactie en is een reden om deze media zelf eens in het daglicht te plaatsen.
+
+<p>Geen lang artikel dit keer want u heeft weinig tijd en moet zelf eenvoudig kunnen filteren. Wie wat meer tijd heeft verwijzen wij graag naar de fascinerende uiteenzetting over de teloorgang van Journalistiek in groter verband door Franklin Foer in zijn "ontzielde wereld" (Vertaald en uitgegeven door debezigebij.nl; ISBN9789023468653).
+
+<p>Waar het om gaat is dat de rechten van auteurs in de twintigste eeuw geleidelijk zijn afgebrokkeld door de kopieerbaarheid van informatie. Dat is aan de ene kant een enorme vooruitgang, alleen niet vanuit het oogpunt van de auteur die moet leven van zijn werk. Daardoor zijn diepgang en kwaliteit zwaar onder druk komen te staan. Zoals u kunt zien wordt Das Kapital zelfs niet geholpen door reclame-inkomsten dus neem het ze eens kwalijk. 
+
+<p>De technieken om je als auteur toch te manifesteren zijn divers. De rode draad is wel dat informatiefragmenten uit hun context worden gelicht en met zoveel mogelijk smaakmiddelen, zoals kroegtaal, in een gewenste richting worden gestuurd. 
+In dit geval wordt daar de middeleeuwse populistische techniek van de schandpaal aan toegevoegd: Je noemt wat namen in een cynische context, terwijl je zelf anoniem blijft en alvast het lachen aanzwengelt (LOL).
+
+<p>Het is duidelijk dat Das Kapital zich richt op het bekritiseren van kapitaal-fenomenen. Als je het fenomeen dan niet begrijpt is dat wat overblijft niet meer dan vooringenomenheid en kom je tot uitspraken als "Wij gokken *dat er geaast wordt op uw spaargeld* en niet alleen omdat we een gezond wantrouwen hebben tegen mannen met gekke overhemden". Het advies dat daaruit voorkomt "wij adviseren negatief" is daarom net zozeer een gok. Een gok van een toch stiekem geïnteresseerde anonieme Nederlander die op Donderdag 10 mei om 20:30 op NPO 3 toch even gaat kijken wat Yoshi te vertellen heeft.
+
+<p>Misschien mogen wij daar een tip aan toevoegen. Voordat u het gecensureerde knip-plak medium dat TV heet aanzet, lees dan even een of enkele van onze hoofdpublicaties die netjes bij elkaar staan onder het hoofdstuk "communicatie" op onze "brakke website". Misschien is [https://e-gulden.org/index.php/e-gulden_spaarplan,het e-Gulden spaarplan] in dit geval het meest relevant. 
+
+<p>Tot volgende week donderdag dus.
+
+<p><ROOD>Vervolg</ROOD>
+<p>
+Een dag na het verschijnen van deze "blog" (letterlijk vlug) nam Das Kapital de moeite om te komen met [https://www.daskapital.nl/5150969/das-kapital-doodverklaard-door-cryptojongens/,een vervolg]. 
+Daarmee wordt echter de oppervlakkigheid van dergelijke journalistiek onderstreept, maar ook de vooringenomenheid van de status quo.
+Voor een journalist is het zijn vak terwijl wij moeten roeien met de riemen die we hebben. 
+<p>Wat de Electronic Gulden Foundation op haar website presenteert is een complete verantwoording van de e-Gulden tot en met de onderliggende broncode. Die verantwoording komt van mensen van divers pluimage, van programeurs, linguisten, didacten, economen en idealisten.
+Dat mag overkomen als een ratjetoe en zal in de toekomst zeker beter worden gestructureerd. Dat was tot nu toe niet de prioriteit. De prioriteit was om ons ([https://e-gulden.org/index.php/wie_zijn_wij,wie is ons]) de gelegenheid te bieden om buiten reguliere mediakanalen een uitingsvorm te hebben.
+
+<p>Let dan op waar u mee geconfronteerd wordt bij Das Kapital. Het is een verlengstuk van een monopolistisch kartel waar u dagelijk door wordt bestookt. 
+De respons van Daskapital begint met een herhaalde verdachtmaking. Door het woord Scam te gebruiken en dat vervolgens door te strepen wordt het woord benadrukt zonder verder iets te zeggen.
+Het zijn psychologische trucks en probeer daar maar eens als lezer ongevoelig voor te zijn. Ook de termen "ratjetoe", "wild", "onsamenhangend", "theorieën", "weinig concreet", "jammerlijk", "insinueren" zijn een salvo uit het arsenaal van oppervlakkige journalistiek.
+<p>Het ergste is dat dat de enige argumentatie is. Na dit salvo gaat de respons van Daskapital uitsluitend over het "rechtzetten" van haar eigen positie. 
+Dat is nu net wat voor ons van ondergeschikt belang is. Wat ons hoogstens verbaasd is dat de naam "Das Kapital" blijkbaar niet satirisch bedoeld is. 
+<p>
+Voor de geïnteresseerde lezer dan toch nog een korte uitleg:
+<p>e-Gulden <ROOD>IS</ROOD> Bitcoin. Voor 99% dan toch. Met die 1% is het geschikt gemaakt om te bestaan als landmunt en heeft het een van Bitcoin gescheiden netwerk. Zo hebben Bitcoin transacties geen invloed op de e-Gulden en omgekeerd. Voor de verantwoording van Bitcoin hoeft u verder niet bij ons te zijn. Dat dat geen bedrog is heeft zelfs [https://www.nytimes.com/2018/05/02/technology/bitcoin-goldman-sachs.html,Goldman Sachs] doorgekregen.

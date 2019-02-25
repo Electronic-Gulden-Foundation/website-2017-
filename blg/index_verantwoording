@@ -1,0 +1,23 @@
+<h3 class="page-header">Verantwoording</h3>
+<li class="menu"><a href="index.php/verantwoording" >Introductie</a></li>
+<hr />
+<h4>De boekhouding</h4>
+<ul class="latestnews">
+<li class="menu"><a href="/index.php/premine" >Premine</a></li>
+<li class="menu"><a href="/index.php/campagnes" >Campagnes</a></li>
+<li class="menu"><a href="/index.php/kengetallen_e-gulden">Kengetallen</a></li>
+<li class="menu"><a href="/index.php/Toekomst">Toekomst</a></li>
+<li class="menu"><a href="/index.php/e-gulden_conditie">Blockchain in beeld</a></li>
+<li class="menu"><a href="/index.php/oeruschild_certificatie">Miner certificatie</a></li>
+</ul>
+<h4>Software broncode</h4>
+<ul class="latestnews">
+<li class="menu"><a href="https://github.com/Electronic-Gulden-Foundation/egulden">Het knooppunt; De Christiaan huijgens wallet</a></li>
+<li class="menu"><a href="https://github.com/Electronic-Gulden-Foundation/coinomi-android">Coinomi samenvoeging</a></li>
+</ul>
+<!--
+<h4>Koude opslag</h4>
+<ul class="latestnews">
+<li class="menu"><a href="/index.php/koude_opslag">Koude opslag</a></li>
+</ul>
+-->

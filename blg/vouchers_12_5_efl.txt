@@ -1,0 +1,22 @@
+index_verantwoording
+vouchers 12,5 efl
+<p>12,5 EFL - Vouchers zijn kaartjes met een formaat van 105x71 mm, waarmee e-Guldens kunnen worden opgevraagd. 
+Het bedrag komt overeen met de beloning die een Miner krijgt als hij succesvol een blok toevoegt aan de e-Gulden-blockchain. 
+Deze campagne loopt totdat de blokbeloning halveert naar 6,25 in medio augustus 2015. 
+De eerste oplage bestaat uit tweeduizend kaartjes en deze worden ter beschikking gesteld aan het bestuur en regiovrijwilligers, 
+die wij "stadhouders noemen".
+<p>Tijdens de eerste vouchercampagne is gebleken dat vouchers niet heel effectief zijn als uitdeel-mechanisme. 
+2% van de 1000 kaartjes oftewel 500 e-Gulden werd opgehaald. 
+Toch zijn de kaartjes voor e-Gulden vrijwilligers een houvast om het mechanisme van cryptogeld uit te leggen 
+omdat cryptogeld zelf immers geen vaste vorm heeft zoals traditioneel geld. Voor de ontvanger van het kaartje 
+biedt het de mogelijkheid om de eerste stap naar cryptogeld te zetten. 
+Het doel van de Foundation is om de drempel voor die eerste stap te verlagen en vooralsnog is dus gebleken dat 2% 
+van de voucher-ontvangers deze stap succesvol zet.
+<p>De eerste oplage van deze voucher is 2000 stuks. 
+Als er significante porties worden gereserveerd wordt dat op deze pagina gemeld
+<ul><li>Carnaval breda 500 stuks</li></ul>
+<br><br>
+_Voorzijde
+{/images/12_5_1.jpg}
+_Achterzijde
+{/images/12_5_2.jpg}

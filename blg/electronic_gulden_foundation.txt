@@ -1,0 +1,15 @@
+index_circuit
+Electronic Gulden Foundation
+De Electronic Gulden Foundation is een stichting volgens het nederlandse recht. De stichting is opgericht op 3 juli 2014. De formele doelstelling uit de oprichtingsaktie luidt :
+<p><br>
+De stichting heeft tot doel :
+<ol>
+<li>het crypto-geld Elektronische Gulden, of verkort EFL, als volwaardig ruil- betaal- en oppotmiddel in Nederland te introduceren en haar integriteit te bewaken;
+<li>Het verrichten van alle verdere handelingen, die met het bovenstaande in de ruimste zin verband houden of daartoe bevordelijk kunnen zijn.
+</ol>
+<p>De stichting tracht haar doel onder meer te verwezenlijken door het beheren en gecontroleerd verspreiden van vijf miljoen negenendertigduizend driehonderdveertig Electronische guldens (EFL 5.039.340,00) in de haar ter beschikking gestelde pre-mine wallets, alsmede het beheren en het verder ontwikkelen van de broncode en de software en de wallets van dit cryptogeld.
+
+<p><br>De stichting bestond bij oprichting uit de volgende drie bestuurders : Henk Compier, Gerrit Oerlemans en Niels Harmsen
+
+<p><br>De actuele bestuurders zijn : [https://www.linkedin.com/in/gerritoerlemans,Gerrit Oerlemans] en [https://nl.linkedin.com/in/dennis-ruhe-56424a67,Dennis Ruhe]. De functie van secretaris is vacant. 
+

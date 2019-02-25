@@ -1,0 +1,18 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px'>
+<ul>
+<p style='font-size:12px'>Om de verdeling nog eerlijker te maken vragen wij er begrip voor dat we maar één inschrijving per nieuwsbriefontvanger mogelijk willen maken. 
+U ontvangt zo ook automatisch de uitslagen, eventuele wijzigingen en tips voor vervolg. 
+<p style='font-size:12px'>Bent u nog niet ingeschreven voor de nieuwsbrief <a href="https://e-gulden.org/index.php/nieuwsbrieven">meldt u zich dan aan</a>.
+<hr>
+<table>
+<tr><td align=right  style='font-weight:bold>Uw e-Gulden rekeningnummer: </td><td>[id_efl]</td></tr>
+<tr><td align=right  style='font-weight:bold>Uw emailadres: </td><td><input style='width:300px' id=id_mail type=text></td></tr>
+<tr><td align=right id=idi_opslaan><input type=button onclick='doorgaan()' value='Doorgaan'></td></tr>
+<tr><td></td><td id=commentaar></td></tr>
+</table>
+</div>
+<script>
+function doorgaan() {
+}
+</script>

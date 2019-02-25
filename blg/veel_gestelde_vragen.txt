@@ -1,0 +1,46 @@
+index_info
+veel gestelde vragen
+<h1>Veel gestelde vragen en korte instructies</h1>
+##Wat is de e-Gulden?
+<h3>De e-Gulden (afgekort EFL) is een ruil-, reken- en spaarmiddel bestemd voor Nederland.</h3>
+De e-Gulden is Elektronisch geld. Dat betekent dat het bezit, het gebruik en de overdracht van e-guldens is gebaseerd op veilige wiskundige principes die in software zijn ingebouwd. De e-Gulden is een Nederlandse variant van Bitcoin, met een eigen netwerk. Elektronisch geld, Cryptogeld of cryptocurrency of zijn verschillende namen namen voor hetzelfde principe: Een "<b>Openbare software broncode</b>", een "<b>Openbare boekhouding</b>" en een vrij, via internet toehankelijk "<b>betaalnetwerk</b>" voor het uitwisselen van waarde. Dit mechanisme wordt door [https://blockchain.info/charts/my-wallet-n-users,miljoenen] mensen gebruikt en op de proef gesteld.
+#Waarom speciaal voor Nederland?
+Elektronisch geld kent inderdaad <b>geen grenzen</b>, maar dat geldt ook voor zaken als taal, voetbal en economie. Het zijn zaken waar specifieke kenmerken aan kleven als ze betrekking hebben op een nationaliteit, maar waar internationaal uitwisseling in kan plaatsvinden. Voor elektronisch geld betreft dat de plaats van oprichting, het taalgebruik en gebruiksconcentratie. 
+<p>Er is ook een technische reden om te streven naar regionale concentratie en dat is <b>netwerkbelasting</b>: Een elektronisch betaalnetwerk wordt belast met alle betalingen die daarbinnen plaatsvinden. Een regionale opdeling is daarom efficiënt: Regionale betalingen belasten alleen het locale netwerk, maar worden zelf ook niet gestoord door betalingen in andere netwerken, zoals Bitcoin. Daarnaast is het erg eenvoudig om geld uit te wisselen tussen verschillende netwerken. Dat gebeurt op vrij toegankelijke beurzen, waar ook de onderlinge waardebepaling plaatsvindt. 
+#Hoe werkt de e-Gulden ?
+Om met de e-Gulden aan de slag te gaan is [https://e-gulden.org/index.php/de_portemonnee,een portemonnee] onmisbaar. Een portemonnee is een softwareprogramma, waarmee <b>unieke rekeningnummers</b> worden aangemaakt en opgeslagen. Een rekeningnummer bestaat uit twee componenten: een openbaar nummer en een privé nummer. Iedereen kan e-Guldens overmaken naar het openbare nummer. Alleen de eigenaar van het privé nummer kan het ontvangen geld spenderen. 
+<p>Ontvangen en spenderen vindt plaats door middel van een transactie die over het betaalnetwerk wordt gestuurd en die door alle aangesloten knooppunten (portemonnees) wordt gecontroleerd en opgeslagen. De totale verzameling transacties heet een <b>blockchain</b> of <b>blokketen</b>. De blokketen is een zeer efficiënte gemeenschappelijke boekhouding die niet op een centrale plaats maar door alle aangesloten knooppunten afzonderlijk wordt bijgehouden en vergeleken. 
+#Waarom is de e-Gulden iets waard.
+Omdat iedereen vrij is om ze te kopen of te verkopen. Dit kan worden vergeleken met aandelen. In tegenstelling tot aandelen is de e-Gulden beschikbaar op een voor iedereen toegankelijke vrije markt terwijl het e-Gulden netwerk reguleert dat er nooit meer dan 21 miljoen in omloop zullen komen. Dat maakt de e-Gulden tot een zeer betrouwbaar kapitaalgoed. De prijs wordt bepaald op beurzen door kopers en verkopers. Het grote verschil met aandelen is dat het aantal e-Guldens eenmalig is vastgelegd en niet kan worden aangepast. De markt heeft dus geen last van de willekeur van een centrale partij die extra aandelen kan uitgeven.
+<p>Het is natuurlijk wel zo dat e-Guldens ooit zijn ontstaan "uit het niets". Dat gebeurt dankzij "<b>miners</b>" (delvers). Miners zijn deelnemers die hun computer inzetten om de integriteit van de blokketen te garanderen. Zij zijn het die 
+door gespecialiseerd rekenwerk nieuwe transacties onlosmakelijk koppelen aan de totale boekhouding. Om de twee minuten wordt er een beloning uitgeloofd, in de vorm van e-Gulden, aan de miner die daar in slaagt. De omvang van die beloning is [https://e-gulden.org/index.php/Toekomst,in de toekomst vastgelegd]. Omstreeks ieder jaar halveert de minersbeloning zodat in totaal nooit meer dan 21 miljoen e-Guldens zullen bestaan.
+#Waarom hebben jullie er voor gekozen om een deel van de e-Gulden in omloop weg te geven ?
+Een groot verschil met de uitgifte van aandelen is dat de uitgifte van elektronisch geld in eerste instantie geen groot publiek kan bereiken zolang het een onbekend verschijnsel is. Die onbekendheid zorgt er ook voor dat er wordt geaarzeld om het te gebruiken, zodat de gedachte was om een flink deel van de e-Gulden uit te delen en zo de gebruiksdrempel te verlagen. Ook bij de introductie van de euro is een dergelijk kennismakingspakket verspreid. 
+<p>Dat uitdelen bleek echter niet zo vanzelfsprekend als gedacht. Initieel hebben zich 3.500 mensen gemeld en nadien heeft de stichting Electronic Gulden Foundation diverse campagnes gevoerd om dit uitdelen voort te zetten. 
+
+<p>De stichting is zo conservatief mogelijk met het uitdelen en heeft op basis van voortschreidend inzicht [https://e-gulden.org/index.php/premine-doelstellingen,uitdeelcriteria geformuleerd].
+
+#Hoe betaal je iemand met e-Gulden, die er nog nooit van heeft gehoord?
+Dit kan met de efl.nl-portemonnee <b><ROOD>binnen één minuut</ROOD></b>. 
+<br><i>Een voorwaarde is natuurlijk dat je betaalpartner toegang heeft tot internet</i>
+<p><b><ROOD>0:00</ROOD> Vraag of je betaalpartner wil gaan naar wallet.efl.nl. Vul zelf alvast een eurobedrag in dat je wil overmaken</b>
+<p><i>Efl.nl opent zich bij de betaalpartner met een nieuwe lege portemonnee</i>
+<p><b><ROOD>0:10</ROOD> Laat op het wieltje “instellingen” klikken en vervolgens op de instelling “naam”.</b>
+<p><i>Een voornaam is natuurlijk het meest eenvoudig als deze nog beschikbaar is, maar een emailadres kan ook en is altijd uniek</i>
+<p><b><ROOD>0:40</ROOD> Vraag om deze nieuwe naam. Type die zelf in en druk op “controleer bestemming”.</b>
+<p><i>Als je de naam goed hebt ingevoerd verschijnt de “OK knop”</i>
+<p><b><ROOD>0:50</ROOD> Druk op OK</b>
+<p><i>Binnen een paar seconden ontvangt de betaalpartner een bevestiging van ontvangst. 
+Laat hem of haar eventueel het scherm verversen.</i>
+<p><b>Meldt de betaalpartner dat hij de overige instellingen, maar <u>met name de pukcode</u>, goed doorleest en opvolgt.</b>
+#Is e-Gulden niet voorbehouden aan een kleine selecte groep?
+Deze vraag is vaak geopperd en komt voort uit een vermoeden van onrechtvaardigheid. Daar is veel tegen in te brengen, maar op hoofdlijnen het volgende:
+<ul>
+<li>Met een nieuwe vorm van geld is het niet mogelijk om de verdeling een afspiegeling te laten zijn van bijvoorbeeld het huidige euro-bezit, tenzij de euro zou moeten worden ingeleverd en daarmee afgeschaft.
+Dat is niet het geval, zodat het bezit van e-Gulden <b>op dit moment</b> een afspiegeling is van vertrouwen dat iemand in deze nieuwe technologie heeft. Instappen is niet verplicht en het is een vrije markt waar de prijs bepaald wordt op openbare beurzen door vraag en aanbod.
+<li>Als de e-Gulden in de toekomst breed gedragen wordt zou het bezit van <b>1 EFL</b> een gelijke verdeling betekenen over alle Nederlanders (Als we het aantal Nederlanders voor het gemak stellen op 21 miljoen). 
+Voorlopig is het een minimale moeite om aanspraak te maken op één EFL en een extreem lage instapdrempel. Een waarde van 16 Eurocent per 1 mei 2018.
+<li>Als je jong bent is het moeilijk om je te verdiepen in geld voor de toekomst. Het is echter eenvoudig om een klein bedrag te investeren. Een eenvoudige [https://e-gulden.org/index.php/koop_e-gulden,instapprocedure] hebben we daarvoor ingericht.
+Dat is zoveel zinvoller en leerzamer dan een investering in bijvoorbeeld [http://egulden.org/flip/efljournaal12.html#7,de lotto]. Join the club zouden we zeggen.
+#-
+De onderstaande Disqus vraag-en-antwoord lijst is niet bedoeld voor support, maar voor vragen die van algemeen nut zouden kunnen zijn. <ROOD>Als je snel hulp wilt mail je het beste naar support@e-gulden.org</ROOD>. Onderstaande vragen zijn bedoeld ter lering.

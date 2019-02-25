@@ -1,0 +1,43 @@
+index_circuit;
+Vrienden van de e-Gulden: aanmelden
+<b>Meldt je aan en ontvang &fnof; 6,25</b>
+<div id=id_container>
+<table width='100%' border='0' cellpadding='6' cellspacing='6' style='font-size:15px'>
+	<tr valign='top'><td><h4>Voor en achternaam</h4><input name='naam' type='text' id='fld_naam' size=60><br>Komt in de vriendenlijst</td></tr>
+	<tr valign='top'><td><h4>Email</h4><input name='email' type='text' id='fld_mail' size='60'><br>Wordt niet getoond; Uitsluitend bestemd voor aanmelden, wijzigingen en afmelden</td></tr>
+	<tr valign='top'><td><h4>Donatieadres (e-Gulden)</h4><input name='donatie' type='text' id='fld_donatie' size='60'><br>Jouw portemonneeadres. Begint met de letter 'L'. Komt in de vriendenlijst om donaties te ontvangen.
+	Nog geen portemonnee? Maak je keuze op de <a href='index.php/portemonnee'>downloadpagina</a> of ga naar <a href='https://efl.nl'>efl.nl</a></td></tr>
+	<tr valign='top'><td><h4>Vriendadres (e-Gulden)</h4><input name='vriend' type='text' id='fld_vriend' size='60'><br>Optioneel ! Dit moet dan wel het e-Gulden adres zijn van een bestaande e-Gulden-vriend. Je krijgt dan 3,75 EFL <b>extra</b> en de bestaande vriend krijgt 2,20371 EFL</td></tr>
+	<tr valign='top'><td><h4>Woonplaats</h4><input sname='plaats' type='text' id='fld_plaats' size='60'><br>Komt in de vriendenlijst (maar is niet verplicht)</td></tr>
+	<tr valign='top'><td><h4>Links</h4>
+	<textarea id='fld_links' cols='60' rows='5' wrap='VIRTUAL' ></textarea><br>Komen als klikbaar symbool in de vriendenlijst. Voorbeelden zijn : <li>lid van de e-Gulden facebookgroep</li><li>twittervolger van de foundation</li><li>een webpagina met een link naar e-gulden.org</li><li>TIP: <a href='https://support.twitter.com/entries/80586-how-to-link-directly-to-an-individual-tweet'>Link naar een tweet</a></td></tr>
+	<tr valign='top'><td><input type='button' id=submit_faq onclick=verzend() value='verzend' style='cursor:pointer'><div id=id_progress></div>Attentie :<br><li>Gebruik bij een link de volledige verwijzing, dus inclusief http://</li><li>Uit alle links moet duidelijk zijn jij daarbij betrokken bent. Dus bijvoorbeeld niet http://facebook.com, maar http://facebook.com/JOUW_PAGINA</li><li>Uit alle links moet duidelijk blijken dat je melding maakt van de e-Gulden.</li></tr>
+	<tr valign='top'><td><div align='center'></div></td></tr>
+</td></tr></table>
+</div>
+<script>
+function verzend(){
+       document.getElementById("id_progress").innerHTML="<img src='/images/progress.gif'>"
+	var naam=document.getElementById("fld_naam").value
+	var mail=document.getElementById("fld_mail").value
+	var donatie=document.getElementById("fld_donatie").value
+	var vriend=document.getElementById("fld_vriend").value
+	var plaats=document.getElementById("fld_plaats").value
+	var links=document.getElementById("fld_links").value
+	s=String.fromCharCode(1);
+	info='q='+escape(naam+s+mail+s+donatie+s+plaats+s+links+s+vriend)
+	xmlhttp.open('POST',"verzend_vriend.php",false)  
+	xmlhttp.setRequestHeader('Content-Type','application/x-www-form-urlencoded; charset=UTF-8');
+	xmlhttp.send(info);
+       result=xmlhttp.responseText
+       if (result=="OK") {
+	      document.getElementById("id_container").innerHTML="\
+	      Je aanvraag is in goede orde ontvangen.\
+	      <p>Ter controle is er een bevestigingslink gestuurd naar het mailadres.\
+	      <p>Klik op de link in die mail zodat wij de aanmelding in behandeling kunnen nemen."
+       } else {
+	      document.getElementById("id_progress").innerHTML=""
+	      alert(result)
+       }
+}
+</script>

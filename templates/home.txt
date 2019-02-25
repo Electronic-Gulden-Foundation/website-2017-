@@ -1,0 +1,28 @@
+<style>
+.denk_1 { font-size:24px; }
+.denk_2 { font-size:36px; }
+.denk_3 { font-size:48px; }
+.feed {margin-top:15%}
+
+@media screen and (max-width: 480px) {
+	.denk_1 { font-size:18px; }
+	.denk_2 { font-size:24px; }
+	.denk_3 { font-size:32px; }
+	.feed {margin-top:50%}
+}
+</style>
+<div class="body" style='margin-top:10%'>
+  <div class=container style='padding-top:0px;padding-bottom:0px;background-color:orange;'>
+	<br>
+	<p align=center '><table width=110% style='line-height:26px;'><tr>
+	  <td align=center><span class=denk_2 style='color:white;font-weight:bold'>Geld voor de toekomst</span> 
+		<div id=id_start>
+		<button onclick='start()' class="btn btn-primary btn-lg">Start nu</button>
+		</div>
+	  </td></tr></table>
+	</p>
+  </div>
+</div>
+<script>function start() {window.location='index.php/de_e-gulden';}</script>
+
+

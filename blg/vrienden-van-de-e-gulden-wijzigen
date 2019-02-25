@@ -1,0 +1,28 @@
+index_circuit
+Vrienden van de e-Gulden: aanmelden
+<p>De ingave kan worden gewijzigd of aangevuld via een link die naar je emailadres wordt gestuurd.</p>
+
+<div id=id_container>
+<table border='0' cellpadding='6' cellspacing='6' style='fontsize:15px'>
+	<tr valign='top'><td style='width:100px'>Email</td> <td><input style='width:200px' name='email' type='text' id='fld_mail' size='60'></td><td style='font-size:13px;color:#333333'>Geef het mailadres dat is gebruikt bij het aanmelden</td></tr>
+	<tr valign='top'><td><input type='button' onclick=verzend() value='verzend' style='cursor:pointer'><div id=id_progress></div></td></tr>
+	<tr valign='top'><td><div align='center'></div></td></tr>
+</td></tr></table>
+</div>
+<script>
+function verzend(){
+       document.getElementById("id_progress").innerHTML="<img src='/images/progress.gif'>"
+	var mail=document.getElementById("fld_mail").value
+	xmlhttp2.open('POST',verzend_vriend.php',false)
+	info='vriend_wijzigen=1&mail='+document.getElementById("fld_mail").value
+	xmlhttp.setRequestHeader('Content-Type','application/x-www-form-urlencoded; charset=UTF-8');
+	xmlhttp.send(info);
+	result=xmlhttp2.responseText
+	if (result=='OK') {
+		document.getElementById("id_container").innerHTML='Er is een mail gestuurd naar dit adres met een link om de gegevens te wijzigen'
+	} else {
+		document.getElementById("id_container").innerHTML=result
+	}
+       document.getElementById("id_progress").innerHTML=""
+}
+</script>

@@ -1,0 +1,60 @@
+index_dialoog
+Nieuwsbrieven
+<h1>Journaals en nieuwsbrieven</h1>
+<p>De nieuwsbrief en het weekjournaal zijn periodieken waarin wij je op de hoogte houden van de ontwikkeling van de e-Gulden. 
+Dit kunnen <b>technische zaken</b> zijn maar ook <b>nieuwe campagnes</b> en andere <b>nieuwsfeiten</b>. 
+<p>Ook in verband met de mogelijke aankondiging van <b>belangrijke softwareupdates</b> 
+raden wij iedere serieuze EFL bezitter aan om minstens het korte voorwoord van nieuwe journaals te bekijken. 
+Met onderstaand formulier kun je je aanmelden. Voordat de aanmelding definitief is wordt eerst een bevestigingsmail gestuurd naar het emailadres dat je opgeeft, met een link om de aanmelding te bevestigen. 
+Op dezelfde manier kun je je afmelden.
+-
+<p>Zomer 2016 is de nieuwsbrief omgedoopt tot EFL-journaal
+
+<h2>Aanmelden nieuwsbrief</h2>
+module_nieuwsbriefaanmelden
+
+<h2>Nieuwsbrieven</h2>
+Voor trouwe lezers zullen de Journaals te herkennen zijn aan de kleurige voorpagina.
+Voor samenvattingen en leesselecties is het praktischer om de [https://e-gulden.org/index.php/Journaal_samenvattingen,index met samenvattingen] te raadplegen.<br><br>
+<p>
+
+{/nieuws/23/journaal0023_bestanden/image001.jpg,index.php/nieuwsbrief_23,200}
+{/images/j22.jpg,index.php/nieuwsbrief_22,200}
+{/images/j21.jpg,http://egulden.org/flip/efljournaal21.html,200}
+{/images/j20.jpg,http://egulden.org/flip/efljournaal20.html,200}
+{/images/j19.jpg,http://egulden.org/flip/efljournaal19.html,200}
+{/images/j18.jpg,http://egulden.org/flip/efljournaal18.html,200}
+{/images/j17.jpg,http://egulden.org/flip/efljournaal17.html,200}
+{/images/j16.jpg,http://egulden.org/flip/efljournaal16.html,200}
+{/images/j15.jpg,http://egulden.org/flip/efljournaal15.html,200}
+{/images/j14.jpg,http://egulden.org/flip/efljournaal14.html,200}
+{/images/j13.jpg,http://egulden.org/flip/efljournaal13.html,200}
+{/images/j12.jpg,http://egulden.org/flip/efljournaal12.html,200}
+{/images/j11.jpg,http://egulden.org/flip/efljournaal11.html,200}
+{/images/j10.jpg,http://egulden.org/flip/efljournaal10.html,200}
+{/images/j9.jpg,http://egulden.org/flip/efljournaal9.html,200}
+{/images/j8.jpg,http://egulden.org/flip/efljournaal8.html,200}
+{/images/j7.jpg,http://egulden.org/flip/efljournaal7.html,200}
+{/images/j6.jpg,http://egulden.org/flip/efljournaal6.html,200}
+{/images/j5.jpg,http://egulden.org/flip/efljournaal5.html,200}
+{/images/j4.jpg,http://egulden.org/flip/efljournaal4.html,200}
+{/images/j3.jpg,http://egulden.org/flip/efljournaal3.html,200}
+{/images/j2.jpg,http://egulden.org/flip/efljournaal2.html,200}
+{/images/j1.jpg,http://egulden.org/flip/efljournaal1.html,200}
+<br><br>
+#Oude Nieuwsbrieven
+<ul>
+<li>[download/index.php?nieuwsbrief_9,9: 7 november 2015]: Het Stiabon/EFL project
+<li>[download/index.php?nieuwsbrief_8,8: 4 september 2015]: Geld mág rollen
+<li>[download/index.php?nieuwsbrief_7,7: 3 juli 2015]: De killer-app : Handleiding en motivatie
+<li>[download/index.php?nieuwsbrief_6,6: 30 april 2015]: De stichting kondigt een killer-app aan
+<li>[download/index.php?nieuwsbrief_5,5: 28 februari 2015]: Wie zijn wij + Hoe kom ik aan e-Gulden
+<li>[download/index.php?nieuwsbrief_4,4: 30 december 2014]: Het e-Gulden spaarplan
+<li>[download/index.php?nieuwsbrief_3,3: 28 oktober 2014]: Christiaan Huygens portemonnee
+<li>[download/index.php?nieuwsbrief_2,2: 16 september 2014]: e-Gulden op de Partnerparade
+<li>[download/index.php?nieuwsbrief_1,1: 30 juli 2014]: NIEUWE WEBSITE LIVE
+</ul>
+#-
+
+
+

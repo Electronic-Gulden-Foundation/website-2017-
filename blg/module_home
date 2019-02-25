@@ -1,0 +1,1 @@
+<div><center><button id=id_start onclick="window.location='index.php/de_portemonnee'" class="btn btn-primary btn-lg">Kies portemonnee</button></center></div>

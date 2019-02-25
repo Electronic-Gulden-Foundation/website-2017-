@@ -1,0 +1,129 @@
+<table style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td><b><a href="https://e-gulden.org/index.php/campagnes">Aan campagnes besteed budget [premine spend]</a></b></td>
+<td id="id_alle_campagnes" align="right"><span style="color: #ff0000;">80281</span></td>
+<td id="id_alle_campagnes_">,2278</td>
+</tr>
+<tr>
+<td>Transactiekosten plus kleine testuitgaven minus ontvangsten minus (nog) niet bevestigde transacties</td>
+<td id="id_divers" align="right">&nbsp;</td>
+<td id="id_divers_">&nbsp;</td>
+</tr>
+<tr>
+<td>Cold storage : LTxR9Afar4rwEqoe7X9ekTv8v5dnGDNCmU</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LXVbsA7Yx8NUTjbFT47FZcDX8tcE7i4kEF</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LUvVneuEosy3A68iZ6cbpTJavtxofjQFin</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : Li3G5d6fzm1yVTZFEQgMyDrxiL1jndH1p1</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LUtyK93QgvsdXNYXYKwNN1nCvuv6EuVufp</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LQPMW5ShBd7G2HAqB14V6gZQu5jnrgoV1b</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LeYHLuMPjY6AhbUmeTgZhR1KnCYobiXEXr</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LWMGFQqRdxcbDbJn5TTFNQBQx8ENUJZ9j3</td>
+<td align="right"><span style="color: #ff0000;">0</span></td>
+</tr>
+<tr>
+<td>Cold storage : LWansW5MHG8AyafPESvBWP5b8KApP2hdZ3</td>
+<td align="right"><span style="color: #ff0000;">0</span></td>
+<td></td>
+</tr>
+<tr>
+<td>Cold storage : LYjSivPiwpAd1QsSXG2GjZs5ot88D24UrR</td>
+<td align="right"><span style="color: #ff0000;">0</span></td>
+</tr>
+<tr>
+<td style="border-bottom-width: 5px;">Hot wallet :&nbsp;<span id="id_hot">LZepVTDK2xin2UtSrB94VRymbeavj2Vwkw</span></td>
+<td id="id_hotamount" style="border-bottom-width: 5px;" align="right"><span style="color: #ff0000;">453890</span></td>
+<td id="id_hotamount_" style="border-bottom-width: 5px;"><span style="color: #ff0000;">,873486</span></td>
+</tr>
+<tr>
+<td>Totaal</td>
+<td align="right">5.039.340</td>
+<td>,20</td>
+</tr>
+</tbody>
+</table>
+<h1>Situatie van de premine ten tijde van de overdracht (13-juni 2014)</h1>
+<table style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td>Cold storage : LTxR9Afar4rwEqoe7X9ekTv8v5dnGDNCmU</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LXVbsA7Yx8NUTjbFT47FZcDX8tcE7i4kEF</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LUvVneuEosy3A68iZ6cbpTJavtxofjQFin</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : Li3G5d6fzm1yVTZFEQgMyDrxiL1jndH1p1</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LUtyK93QgvsdXNYXYKwNN1nCvuv6EuVufp</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LQPMW5ShBd7G2HAqB14V6gZQu5jnrgoV1b</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LeYHLuMPjY6AhbUmeTgZhR1KnCYobiXEXr</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LWMGFQqRdxcbDbJn5TTFNQBQx8ENUJZ9j3</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LWansW5MHG8AyafPESvBWP5b8KApP2hdZ3</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td>Cold storage : LYjSivPiwpAd1QsSXG2GjZs5ot88D24UrR</td>
+<td align="right">500.000</td>
+</tr>
+<tr>
+<td style="border-bottom-width: 5px;">Hot wallet : LS17RfWgXWYAs2XbGEqWxq4MG4JaGw31Yk</td>
+<td style="border-bottom-width: 5px;" align="right">39.340</td>
+<td style="border-bottom-width: 5px;">,20</td>
+</tr>
+<tr>
+<td>Aan de stichting overgedragen premine</td>
+<td align="right">5.039.340</td>
+<td>,20</td>
+</tr>
+</tbody>
+</table>
+<h1>De premine tijdens het beheer van de originele ontwikkelaars</h1>
+<table style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td>Originele premine (blok 1): LdzoLs4fzQcvnD7N9ULVcRV3PiNQwAkj9S</td>
+<td>10.500.000</td>
+</tr>
+</tbody>
+</table>

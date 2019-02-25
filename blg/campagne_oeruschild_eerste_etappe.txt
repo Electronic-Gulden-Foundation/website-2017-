@@ -1,0 +1,67 @@
+index_oeru;index_dialoog;module_oeruschild
+campagne_oeruschild_eerste_etappe
+
+<h1>campagne oeruschild; eerste étappe</h1>
+Welkom bij de introductiecampagne van e-Gulden versie 1.4.0. Deze campagne begeleidt de activering van het oeruschild.  Dit is de unieke verdedigingsmuur rond het e-Gulden netwerk.
+<br><br>
+Voor deze campagne wordt 500.000 EFL beschikbaar gesteld uit de [https://e-gulden.org/index.php/premine,premine]. 
+Tot 31 oktober 2017 bouwt u een tegoed op van 1 EFL per uur voor ieder uur dat wij uw programma (vanaf versie 1.4.0) in het e-Gulden netwerk signaleren. 
+De eerste week van november ontvangt u de eindafrekening. Mocht het totale tegoed van alle deelnemers hoger zijn dan het campagnebudget dan wordt dat tegoed verhoudingsgewijs bijgesteld
+
+<p>Zo doet u mee:
+<p><ul>
+<li>Lees de voorwaarden voor deelname voordat u mee doet. Controleer ook even of u tot de "speciale gevallen" behoort.
+<li>Zorg dat u de laatste versie (1.4) geïnstalleerd heeft. Deze is te downloaden van de e-Gulden [https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest,softwarebibliotheek].
+<li>Zorg ervoor dat uw programma zich verbindt met een van onze servers (lees hieronder)
+<li>Vul hieronder uw EFL-rekeningnummer in (34 karakters, beginnend met een L) en druk op opslaan. Mocht uw ip-adres wijzigen herhaal dan deze actie.
+<br><br>
+module_oeruschild
+<br><br>
+<li>Dat is alles, of toch nog één punt:
+<li>Wij nodigen u ook uit om vrienden of kennissen op deze campagne te wijzen. Voor hen gelden dezelfde voorwaarden. 
+<li><b><rood>Nieuw: </rood></b>[https://e-gulden.org/index.php/e-Gulden_oeruschild_verloop,Het campagne verloop]
+<li><b><rood>Nieuw: </rood></b>Ook Applegebruikers kunnen vanaf nu (12 okt) meedoen met de campagne. Nu iedereen die kan overstappen naar de oeruschild-versie is overgestapt is een belangrijke campagnedoelstelling bereikt. Daarom laten we de eis van het installeren van versie 1.4 vallen.
+</ul>
+
+#Voorwaarden voor deelname
+<p>U accepteert het volgende: 
+<p>Nobody is perfect. Wij zijn programmeurs en trainers, maar geen juristen. Wij hebben ook geen budget om iedere Nederlander evenveel kans te geven om deel te nemen aan deze campagne. 
+U accepteert dat u zich naar ons toe niet zult beroepen op onrechtvaardigheid. 
+Ook de stichting Electronic Gulden Foundation heeft de premine niet verdiend, maar gekregen. Onze opdracht is om deze uit te delen aan zoveel mogelijk landgenoten. Met de uitkering die u ontvangt verleggen wij het mandaat om uit te delen naar u. 
+U bent daartoe niet verplicht. Net zo min als dat wij dat zijn. Het is een vrijwillige bijdrage aan het bekend maken van een beter geldsysteem. 
+<p>De bedoeling van deze campagne is om zo gelijkmatig mogelijk uit te keren. Probeert u daarom niet door technische kunstgrepen meer wallets in te zetten dan u normaal zou doen. Omgekeerd wordt het zeer gewaardeerd als u anderen motiveert om ook mee te doen. Laat de uitkering dan wel bij die ander terecht komen. Op het moment dat wij duidelijk misbruik constateren behouden wij ons het recht voor om een uitkering in te trekken.
+#Waarom deze campagne?
+<p>Tot dusverre ligt in de wereld van het cryptogeld veel te veel nadruk op het aspect van minen. Miners bouwen de database (blockchain) op basis van geldtransacties in het netwerk. Daarmee verdienen zij hun geld. Dit was echter een energieverslindende bezigheid. Dankzij het oeruschild verschuift de rol van miners van beveiliging naar onderhoud en kan het energieverbruik drastisch omlaag. 
+<p>Het doel van deze campagne is om meer aandacht te vestigen op het belang van constante deelname aan het netwerk. 
+Niet alleen als u zelf een betaling wilt doen. Iedereen kan een permanent onderdeel van het netwerk zijn en dat is  belangrijk voor de e-Gulden. De belasting van uw computer is verder minimaal, zoals u zelf kunt zien.
+
+#Zorg dat uw programma zich verbindt met een van onze servers
+<p>Met een klein beetje geluk hoeft u daar niets voor te doen. De stichting beheert een zestal servers in het netwerk en uw e-Gulden portemonnee zal zich daar meestal automatisch mee verbinden. Het netwerk zorgt er echter ook voor dat de belasting evenredig wordt verdeeld, zodat ook verbinding wordt gezocht met andere portemonnees en de verbinding met onze servers kan worden verbroken. Wij kunnen uw deelname dan niet meer zien. 
+<p>In het bovenstaande veld "Saldo" ziet u hoeveel uur uw wallet wordt gesignaleerd. Mocht dat saldo na een paar uur op 0 blijven staan dan is er aktie nodig. Om ervoor te zorgen dat u zich expliciet met ons verbindt gaat u als volgt te werk:
+<ol>
+<li>Ga naar windows verkenner en plak de volgende tekst in de adresbalk (gevolgd door ENTER) om de wallet-configuratie aan te passen: <br>
+<b>notepad %appdata%\egulden\coin.conf</b>
+<li>Voeg de volgende regel toe:<br>
+<b>addnode=dnsseed6.egulden.org</b>
+<br>Opmerking: Er zijn meerdere servers actief. Als je nieuwe deelnemer bent gebruik je bovenstaande server. Als je al eerder een server hebt toegevoegd aan je coin.conf bestand, hoef je dat niet aan te passen.
+<li>Sla het configuratiebestand op en herstart de portemonnee.
+</ol> 
+<p>In uw wallet kunt u zien hoe u verbonden bent via het menu "hulp-debugvenster" en het tabblad peers.
+#Speciale gevallen
+<ul>
+<li><u>Wisselend ip-adres</u>: Als u bovenstaand uw rekeningnummer invult wordt dat gekoppeld aan uw ip-adres. Aan de hand van uw ip-adres in het netwerk weten wij waar de uitkering naar toe moet. Als uw ip-adres echter wisselt bijvoorbeeld door een stroomstoring of omdat uw internet provider dat doet dan zijn wij de link met uw rekeningnummer kwijt. U kunt dat dan opnieuw invullen.
+<li><u>Browser ip-adres verschilt van wallet-ip-adres</u>: Dit gebeurt soms met de lange ip-V6 adressen.
+In dat geval kunt u niet zelf de koppeling tussen uw wallet en uw rekeningnummer maken. 
+Ga dan in uw wallet met het menu "hulp-debugscherm" naar het tabblad peers. Klik op de eerste peer en maak van dat scherm een schermafdruk. Als u dit, samen met uw rekeningnummer naar support@e-gulden.org stuurt dan maken wij de verbinding voor u.
+<li><u>windows-XP gebruikers</u>: Op windows-XP wil de software nogal eens crashen. De crash vindt plaats in een windows XP module waar we geen invloed op hebben. Ook Bitcoin wordt niet langer ondersteund op windows-XP. Ook microsoft zelf ondersteunt Windows-XP niet langer. Wie zijn wij dan om het toch vol te houden? Helaas moeten we het gebruik van de nieuwe versie op windows-XP afraden.
+<li><u>Apple gebruikers</u>: Onze ontwikkelaars hebben drie maanden hard gewerkt om het oeruschild voor elkaar te krijgen. De release van het oeruschild is dermate dringend dat het helaas niet is gelukt om tijdig een goede OSX-versie te bouwen. De Apple-versie voor het oeruschild zullen we daarom, en vanwege een korte pauze, tot na oktober moeten uitstellen.
+<li><u>Pool en andere e-Gulden server operators</u>: Stuur een mail naar support@e-gulden.org met het ip-adres en een EFL storingsadres en geef een korte introductie waar deze service voor gebruikt wordt.
+</ul>
+
+#Er komt meer
+Als deze campagne succesvol verloopt is het ons idee om deze een half jaar te verlengen. 
+Onder dit voorbehoud komt er dan een tweede uitkeringsronde op 1 mei 2018 wederom met een campagnebudget van 500.000EFL
+#-
+<hr>
+<p>[https://e-gulden.org/index.php/het_oeruschild,Lees meer over het oeruschild]
+<p>[https://e-gulden.org/index.php/de_e-gulden,Lees meer over de e-Gulden]

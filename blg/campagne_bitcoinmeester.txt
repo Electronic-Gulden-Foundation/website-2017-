@@ -1,0 +1,16 @@
+index_verantwoording
+campagne_bitcoinmeester
+<h1>campagne bitcoinmeester</h1>
+<p>Deze campagne is de eerste waarin de stichting niet zef de campagne uitvoert. 
+In dit geval is het bitcoinmeester die met een eigen marketingcampagne nieuwe klanten e-Guldens in het vooruitzicht stelt.
+Daartoe is [gleam.io,gleam] als marketing-app ingezet met de onderstaande dialogen
+<p>
+Bij wijze van uitzondering is de eerste ronde door Bitcoinmeester zelf uitgedeeld aan 25 winnaars die zijn getrokken uit de 78 legitieme inschrijvingen. 
+De definitieve preminebestemming kunnen we dit keer dus niet rapporteren.
+<br>
+
+{images/bitcoinmeester.jpg}
+
+<p>
+
+{images/bitcoinmeester2.jpg}

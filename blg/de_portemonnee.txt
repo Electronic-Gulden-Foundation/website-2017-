@@ -1,0 +1,57 @@
+index_portemonnee
+De portemonnee
+<p>Een portemonnee? Soms kan iets meerdere namen hebben. Mensen met een verschillende achtergrond gebruiken dan een verschillende naam voor hetzelfde “ding” of begrip. 
+
+<p>Dat kan buitengewoon verwarrend zijn omdat veel mensen dan niet zien dat het om één en hetzelfde gaat. 
+Een voorbeeld van zoiets is de “wallet” van e-Gulden, die onder een hele reeks van namen door het leven gaat. 
+
+<p>Denk bijvoorbeeld aan:
+
+<li><b>Wallet</b>. Een opslagmogelijkheid voor munten wordt in de crypto/bitcoin-wereld vrijwel unaniem een wallet genoemd.</li>
+<li>Soms wordt dat begrip wallet wat uitgebreid en spreekt met ook wel van het iets langere <b>QT-wallet</b>. Bron is eveneens de cryptowereld</li>
+<li>De e-Gulden foundation heeft er ooit gekozen om de wallet een Nederlands tintje te geven en is de naam <b>Christaan Huijgens Wallet</b> gekozen.  Bron  Electronic Gulden Foundation</li>
+<li>Een dergelijke wallet is niet alleen bedoeld om onze cryptocoins op te slaan, maar dient ook als <b>knooppunt</b> in een cryptogeld netwerk. Zo’n knooppunt wordt een <b>“node”</b> genoemd onder vakbroeders maar de Nederlandse naam is en blijft knooppunt.  Bron cryptowereld voor Node en Knooppunt voor de webontwikkelaars van eGulden die voor een Nederlandse naam hebben gekozen. </li>
+<li>Maakt u gebruik van de EFL.NL portemonnee? Dan bent u bij het instellen het woord <b>“kluis”</b> tegengekomen. Ook “kluis” is een andere naam voor dezelfde wallet. Ook gekozen door de ontwikkelaars van de EFL.NL portemonnee om aan te geven dat een kluis (een wallet dus) gewoon veel veiliger is dan een portemonnee. </li>
+
+<p><br>Niet ingeburgerd maar wel eens genoemd is de term “spaarpot”. Op zich een duidelijk begrip maar niet van toepassing op de wallet omdat deze vooral voor betalingen wordt gebruikt. Voor echt langdurig wegzetten kan beter gekozen worden voor een papieren wallet zoals die ook in de de lijst met portemonnees wordt  beschreven. 
+
+<p>Kortom, maakt u gebruik van één van bovenstaande begrippen, dan hebben we het altijd over hetzelfde. Het wat verwarrend, maar krijg één van de groeperingen maar eens zo ver dat hij de terminologie van de ander over gaat nemen.
+
+#Aan de slag
+<p>Om met de e-Gulden aan de slag te gaan is een portemonnee dus onmisbaar. Er zijn diverse modellen beschikbaar, ieder met een specifiek gebruiksgemak en veiligheid. 
+<p>We zijn gewend geraakt aan het uitbesteden van de verantwoordelijkheid over ons geld aan de bank. Als je zelf het beheer over je elektronische geld wilt <b>moet je in staat zijn om een veilige backup van je gegevens te maken</b>. Dit staat dik gedrukt omdat computers en telefoons stuk gaan. het is een eenvoudige maar belangrijke procedure die niet mag worden vergeten. Iedere portemonnee heeft daarvoor zijn eigen voorziening.
+<p>Het belangrijkste onderscheid op het gebied van veiligheid is de plaats waar je "persoonlijke sleutels" worden opgeslagen. Deze vormen de toegang tot je geld. Je hebt twee keuzes:
+_Eigen beheer van je geld
+Gebruik daarvoor een e-Gulden knooppunt of een hd-portemonnee
+_Beheer van je geld uitbesteden
+Gebruik daarvoor een van de internet- of beursportemonnees
+<p>
+Bedenk in alle gevallen dat elektronisch geld een persoonlijke verantwoordelijkheid is. Er is geen centrale instantie die op basis van een identiteitsbewijs de toegang tot je geld kan herstellen. Als je je portemonnee in gebruik hebt genomen zorg dan voor een goed wachtwoord en een goede en regelmatige backup van je gegevens.
+<p>
+Ten overvloede voor gebruikers van een e-Gulden knooppunt:
+<ol>
+<li>Zorg voor een voldoende lang wachtwoord (meer dan acht cijfers of letters)
+<li>Zorg voor een backup die je minstens om de 100 betalingen herhaalt. Dat levert je een bestandje wallet.dat dat je "als goud" moet bewaren. 
+</ol>
+#Een e-Gulden knooppunt
+De e-Gulden werkt dankzij het bestaan van e-Gulden knooppunten (nodes). e-Gulden knooppunten zijn portemonees die de alle e-Gulden transacties met elkaar uitwisselen en die ieder beschikken over de volledige transactiegeschiedenis.
+Als je echt wilt bijdragen aan het e-Gulden netwerk zorg dan minstens dat je permanent een e-Gulden knooppunt op een van je computers laat draaien. De systeembelasting is vooralsnog minimaal.
+#Een HD portemonnee
+HD portemonnee (wallet) is een veelgebruikte afkorting voor een type portemonnee voor elektronisch geld. Coinomi is daarvan een voorbeeld. Coinomi draait op android telefoons, maar er wordt gewerkt aan een IOS versie. 
+<p>De afkorting HD staat voor Hierarchisch Deterministisch [https://en.bitcoin.it/wiki/BIP_0032,BIP0032]. Dit is een mechanisme waarmee de privé-sleutels in je portemonnee worden bepaald. Het startpunt is een reeks van 12 woorden. Als je deze woorden onthoudt is het geen ramp meer om de portemonnee te verliezen omdat de sleutels met deze 12 woorden kunnen worden gereconstrueerd.
+<p>Een praktische bijkomstigheid van Coinomi is dat deze meerdere muntsoorten ondersteunt.
+#Internet portemonnees
+Bij een internet portemonnee ligt het beheer van je geld bij een instantie. Dat geeft twee voordelen: 
+<ul>
+<li>Behalve een wachtwoord hoef je je niet druk te maken over het beheer van je geld. Dit vergt wel een zeker vertrouwen en het verdient aanbeveling om dat te beperken. Zet niet meer geld op je internet account dan dat praktisch of noodzakelijk is.
+<li>Internet-portemonnees geven vaak een aanzienlijke verbetering van het gebruiksgemak. Met name betalingen kunnen veel sneller worden uitgevoerd als ontvanger en betaler van hetzelfde systeem gebruik maken. de internet-portemonnee efl.nl is geschreven en wordt onderhouden door de stichting. Een uitgebreide motivatie daarvoor is terug te vinden in [http://egulden.org/downloads/nieuwsbrief-nr-7-de-killer-app.pdf,nieuwsbrief nr 7 - De killer app].
+</ul>
+<b>Waarschuwing:</b> Er is maar één echt nadeel aan een internet portemonnee en dat is dat je je geld in bewaring stelt bij een ander dan jezelf. Het is verstandig om te bedenken hoeveel risico je wilt nemen voor dat extra gebruiksgemak. Vergelijk een internet portemonnee daarom met contant geld en houdt het saldo beneden een redelijke drempel. Bij efl.nl kun je deze drempel instellen. Het meerdere wordt automatisch overgemaakt naar een zelf instelbare e-Gulden rekening.
+#Beurs portemonnees
+Momenteel wordt de e-Gulden verhandeld (tegen Bitcoin) op drie beurzen: Bittrex, Bleutrade en Cryptopia.
+<p>Om te kunnen handelen zul je e-Guldens moeten transporteren naar die beurs en zo'n beurs stelt daartoe een persoonlijk account ter beschikking. Je kunt natuurlijk je geld daar gewoon laten staan en van daaruit betalingen doen naar anderen. Er zijn genoeg mensen die hun electronisch geld experiment daartoe beperken.
+<p><br>
+<b>Waarschuwing:</b> Een beurs-portemonnee is natuurlijk een soort internet-portemonnee zodat een zelfde voorzichtigheid op zijn plaats is.
+#Papieren e-Guldens
+e-Guldens circuleren door ze te versturen naar een e-Gulden adres. Alleen degene die toegang heeft tot de sleutel van een adres, kan de e-Guldens weer doorsturen naar een ander adres. Zo'n sleutel is niets meer dan een code die bestaat uit 64 cijfers en letters. Zo'n code kun je dus ook afdrukken op papier en dat heet een papieren e-gulden. Het is een vorm van "koude opslag" of "cold storage". walletgenerator.net heeft daarvoor een eigentijds formaat voor ontwikkeld.
+#-

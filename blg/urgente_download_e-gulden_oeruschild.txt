@@ -1,0 +1,39 @@
+index_kort;index_dialoog
+urgente download e-Gulden oeruschild
+
+<p>Als u beschikt over een e-Gulden corewallet <b>MOET</b> U een paar minuten in actie komen om van de bescherming door het oeruschild gebruik te kunnen maken.
+
+<p>Dat doet u als volgt: 
+
+<ol>
+<li>Klik hier:  <b>[https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest,Laatste uitgave]</b> en haal de versie van de wallet op voor uw computer (windows, linux, mac). 
+<li>Zet het bestand egulden-qt.exe op de gewenste plaats (de overige bestanden optioneel) en start deze op
+<li>Daarmee is deze wallet geinstalleerd en als het goed is merkt u niets bijzonders. 
+<li>U bent klaar. 
+</ol>
+
+<p><ROOD>DOE DIT VANDAAG NOG!!</ROOD> Bij de oudere versies is de oeruschildbescherming niet beschikbaar.  
+
+<p>Loopt u tegen onverwachte zaken aan, neem dan contact op met support@egulden.org
+
+<p>Eind september ontvangt u een uitgebreidere nieuwsbrief met daarin de aankondiging van een aantal spectaculaire ontwikkelingen.
+
+<p>[https://e-gulden.org/index.php/het_oeruschild,Lees meer over het oeruschild...]
+
+<hr>
+<h2>Urgent upgrade e-Gulden core wallet</h2>
+<p>When you run the e-Gulden corewallet you <b>MUST</b> take a moment to protect your e-Guldens
+
+<p>Proceed as follows: 
+
+<ol>
+<li>Click here:  <b>[https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest,Latest release]</b> And fetch the version that matches your computer (windows, linux, mac). 
+<li>Replace the original egulden-qt.exe (other files are optioneel) and strat the program
+<li>Thats all. When alle is well you wont see much difference. 
+</ol>
+
+<p><ROOD>UPDATE TODAY!!</ROOD> Old wallet versions are not protected by the oerushield.  
+
+<p>When you notice something strange contact support@egulden.org
+
+<p>[https://bitcointalk.org/index.php?topic=2082125.msg20811741#msg20811741,Read more about the oeruschild...]

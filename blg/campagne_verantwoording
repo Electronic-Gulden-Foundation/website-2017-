@@ -1,0 +1,10 @@
+index_verantwoording
+Campagne verantwoording
+<h2 id=id_campagne></h2>
+<p>Alle uitgaven binnen deze campagne zijn hier onder verzameld middels drie velden:
+<ul>
+<li>public key is de bestemming van het geld. Met een blockchain-explorer kun je controleren welke transacties naar zo'n public key zijn gestuurd
+<li>transactienummer verwijst naar de transactie. Deze transactie en de bijbehorende transactiedatum kan in een blockchain-explorer worden gecontroleerd. Om efficientie-redenen kunnen meerdere uitgaven in een enkele transactie zijn gebundeld. Het maximale overboekingen per transactie hebben wij ingesteld op 20.
+<li>Bedrag is het EFL-bedrag dat is overgemaakt.
+</ul>
+module_campagne

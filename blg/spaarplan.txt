@@ -1,0 +1,8 @@
+index_verantwoording
+Spaarplan
+<p>De spaarplancampagne begeleidt het [https://spaarplan.e-gulden.org,e-Gulden spaarplan] als een beloning voor deelnemers. 
+De beloning is voorlopig ingesteld op 22,0371 e-Guldens als stille hint naar wat ooit 10 Euro waard was in gulden-termen.</p>
+<p>Het spaarplan is bedoeld om de spaargedachte terug te brengen bij de Nederlanders omdat sparen een essentieel onderdeel vormt van welvaart. Dit inzicht lichten we toe in [index.php/e-gulden_spaarplan,ons artikel over sparen].
+<p>Het spaarplan zelf is een zorgvuldig uitgewerkte faciliteit die door de Electronic Gulden Foundation met een looptijd van tien jaar 
+ter beschikking wordt gesteld om aan te tonen dat je geen bank nodig hebt om te sparen en daarbij toch een door banken ongeevenaarde 
+veiligheid kunt bereiken.

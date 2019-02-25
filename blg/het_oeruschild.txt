@@ -1,0 +1,66 @@
+index_oeru;index_dialoog
+Het oeruschild
+[https://e-gulden.org/index.php/The_e-gulden_oerushield,English version]<br>
+
+Het oeruschild is een unieke verdedigingsmuur rond het e-Gulden netwerk. De implicaties zijn choquerend... 
+<br><br>
+<ul><li>De veiligheid van het gebruik van e-Gulden wordt equivalent met dat van Bitcoin. Minstens één transactieblok op de zes wordt gevalideerd door een gecertificeerde miner. 
+Dat betekent dat zes opeenvolgende blokken (gemiddeld 12 minuten) een zeer betrouwbare veiligheidsgarantie biedt.
+<li>De energiebehoefte om deze veiligheid te bereiken daalt tot een verwaarloosbaar niveau; 1/10.000.000 ten opzichte van Bitcoin
+<li>De stabiliteit van het netwerk wordt verhoogd doordat een transactiebevestiging dichter bij het gemiddelde van twee minuten komt te liggen.
+<li>Door het oeruschild wordt miner loyaliteit beloond zodat de levensduur van het netwerk en haar beveiliging nauwlijks meer wordt beïnvloed door onzekere externe factoren.
+<li>e-Gulden wordt zo, nog sterker dan in het verleden, een munt waarbij de miningcapaciteit van ondergeschikt belang is voor de veiligheid en inflatie nagenoeg afwezig. 
+</ul>
+<br>
+#Wat is het oeruschild voor iets?
+e-Gulden transacties worden door miners gemiddeld om de twee minuten verpakt in een transactieblok dat aan de e-Gulden blockchain wordt geregen. Miners groeperen zich in pools om zo meer dominantie te bereiken, maar zodra een pool te dominant wordt kan deze het netwerk bewust beschadigen. Het oeruschild houdt in dat niet-gecertificeerde minerpools maximaal vijf blokken achter elkaar kunnen aanmaken. Minimaal eens in de zes blokken moet een blok door een gecertificeerde pool worden aangemaakt. Een groep van zes blokken kan daarom als extra veilig worden beschouwd. Dat betekent ook dat de totale rekenkracht in het e-Gulden netwerk wordt beperkt tot zes maal de rekenkracht van de gezamenlijke gecertificeerde pools. 
+
+#Reductie energieverbruik?
+Het oeruschild maakt een aanval door anonieme miners onmogelijk. De enige reden waarom Bitcoin verdedigd moet worden met 42 GigaWath (per 1 september 2017, voldoende om <b>anderhalf miljoen huishoudens</b> van stroom te voorzien) is om te voorkomen dat zo'n aanval uitgevoerd kan worden. Alleen al de suggestie dat dit energieverbruik overbodig is voor een countrycoin is choquerend. (zie [http://digiconomist.net/bitcoin-energy-consumption,bitcoin energieverbruik])
+
+#Waarom geen Proof of Stake (POS) inzetten als alternatief voor Proof of Work (POW)?
+Diverse Altcoins zijn gebaseerd op een alternatieve manier om transactieblokken aan de blockchain toe te voegen. Miners moeten daarblij aantonen dat ze een bepaald muntaandeel hebben. Dat aandeel zou garant staan voor goed gedrag binnen het netwerk en zo wordt de minercapaciteit minder belangrijk gemaakt. Aan proof of stake kleven echter veel nadelen. De details zijn voor de gevorderde lezer, maar voor de volledigheid hebben we ze hier opgesomd: 
+<ul>
+<li>Om met POS te kunnen minen moet je bewijzen dat je een zeker muntaandeel hebt. Daarom moet de sleutel voor de toegang tot dat aandeel beschikbaar zijn tijdens het minen, waardoor juist dat muntaandeel extra gevaar loopt.</li>
+<li>De kosten voor een aanval op een POS netwerk zijn "nihil" omdat een aanvaller het werk dat hij in het oude netwerk heeft verzet kan gebruiken voor de aanval (het opbouwen van een parallelle keten)</li>
+<li>POW is ondubbelzinnig. Bij POS is een andere procedure nodig op basis waarvan een miner wordt aangewezen als de ware. Dergelijke procedures zijn gevoelig voor misbruik (bijvoorbeeld stake grinding).</li>
+<li>Iedere miner brengt een bepaalde hoeveelheid munten in als bewijs van eigendom. Niemand weet op een bepaald moment hoeveel er op dat moment wordt ingebracht. Een 51% aanval vergt zo dus geen 51% van alle munten.</li>
+<li>Bij Proof of stake kan bezit in het recente verleden worden ingezet als eigendomsbewijs.</li>
+<li>Een consequentie van POS: Hoe rijker je bent hoe meer je kunt minen, zodat uiteindelijk overwicht bereikt kan worden</li>
+<li>Omdat bij POS de tijdsduur waarin een munt op een adres staat meeteelt in het gewicht bij minen, kan gewicht worden verzameld dat bij een aanval kan worden ingezet.</li>
+<li>Wallets zonder de volledige blockchain kunnen de geldigheid van een nieuw blok niet beoordelen.</li>
+<li>Bezit van een munt staat misschien garant voor loyaliteit. Vanuit het perspectief van "normale" gebruikers wordt daarmee een klasseverschil benadrukt en een gevoel van onrechtvaardigheid.
+<li>Proof of Stake is een subjectieve beoordeling van de juistheid van de toestand van de blockchain. Vitalik Butterin verzwakt dit weliswaar tot [https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/,zwak subjectief], maar het blijft een onmiskenbare zwakte.
+</ul>
+
+#Wat is er zo bijzonder aan miners-identificatie.
+Voorafgaand aan de inzet van het oeruschild bestond er geen waterdichte identificatiemogelijkheid van miners. Miners (Minerpools) hebben wel de gewoonte om een markering achter te laten in een blok, maar dit kan worden gekopiëerd door anderen. Net zoals een email-verzendadres kan worden nagebootst door de verzender. Nabootsten wordt onmogelijk als een onvervalsbare handtekening moet worden gebruikt bij het afleveren van een transactieblok. Iedere bitcoinpool markeert momenteel zijn blokken (zie [https://blockchain.info/pools,hashrate distributie]), omdat dit fungeert als een vorm van reclame, maar die markering is dus kopiëerbaar en kan niet gebruikt worden voor certificatie.
+
+#Het oeruschild is een soft-fork. Wat betekent dat?
+Dat betekent dat de protocol-regels voor het aanleveren van transactieblokken worden aangescherpt, maar dat die nieuwe blokken wel geldig blijven voor oude software. Omgekeerd worden blokken die worden aangeleverd volgens de oude regels gedeeltelijk niet meer geaccepteerd door de nieuwe software. Alvorens het oeruschild te activeren is het dus noodzakelijk dat een flinke meerderheid van de gebruikers overstapt op de nieuwe software om te voorkomen dat men met oude software op een verkeerd spoor terecht komt. Met name als de belangrijkste e-Gulden acceptanten (momenteel de beurzen) zijn overgestapt op de nieuwe software, is aanmaken van blokken met oude software niet meer effectief omdat een gedeelte van die blokken niet meer worden geaccepteerd.
+
+#Dient het oeruschild uitsluitend om een dubbele uitgave van e-gulden te voorkomen?
+Nee. Een groep miners die een meerderheid vormt kan niet alleen de top van de blockchain molesteren, maar kan ook het netwerk-protocol zelf wijzigen via een softfork. Normaal is dat enigszins een democratisch proces zoals we dat gezien hebben bij de segwit implementatie bij Bitcoin. Wallet-bezitters hebben daar evenwel geen stem in. Als de meerderheid van de miners beslist om een protocol-aanpassing door te voeren dan gebeurt dat. Daardoor hebben miners relatief meer macht over de protocol-richting en dus is ook bitcoin daarmee ondemocratisch omdat miners andere belangen hebben dan Bitcoin bezitters.
+
+#Kan Bitcoin ook gebruik maken van het oeruschild?
+Ja. Het oeruschild is open source. Het verschil met e-Gulden is dat er bij Bitcoin op wereldniveau certificatie en controle zou moeten plaatsvinden. Doordat de jurisdictie beperkt is tot Nederland is dat bij e-Gulden veel eenvoudiger te realiseren. 
+
+#Is het oeruschild niet in strijd met het gedistrubueerde karakter van cryptogeld.
+Ja en Nee. Nee omdat miners wereldwijd toegang houden tot het e-Gulden netwerk en portemonneebezitters evenzo. 
+Ja omdat miners, die aan [https://e-gulden.org/index.php/oeruschild_certificatie,zes specifieke voorwaarden] voldoen, gecertificeerd kunnen worden.
+<p>Vooralsnog vindt certificatie plaats door de stichting Electronic Gulden Foundation. Er zijn evenwel gevorderde ideeën om certificatie volledig te automatiseren en objectief te laten verlopen. De loyaliteit van een miner kan namelijk afgelezen worden uit het gedrag in het verleden en is daarom bekend bij de e-gulden software zelf. Het is zo een optie om bij een volgende oeruschild-versie een loyale mineropstelling te betrekken bij het oeruschild.
+
+
+#Zitten er nog meer voordelen aan het oeruschild?
+Ja, maar dat hangt af vanuit welke positie je het bekijkt. De wereld van het geld is een optelsom van eigenbelang. Miners minen vooral om er zelf aan te verdienen en niet om het netwerk overeind te houden. Er zijn natuurlijk wel mensen die er belang bij hebben dat het netwerk overeind blijft (de e-Gulden bezitters), maar die hebben daar de afgelopen drie jaar weinig onbaatzuchtige bijdrages aan geleverd. Na drie jaar heeft de stichting bijvoorbeeld het Bitcoindonatieadres van de website afgehaald omdat er nog nooit iemand iets had gestort. 
+
+<p>Terugkerend naar die miners is het zo dat poolbezitters al snel hadden ontdekt dat er meer te verdienen is ten koste van enkele miners die graag het netwerk overeind willen houden. Door zich namelijk met vol gewicht (en meer dan 50% capaciteit) op het e-Gulden netwerk te storten konedn zij in korte tijd een hele reeks e-Guldenblokken produceren (zonder inhoud verder behalve de blokbeloning), totdat het protocol vanzelf de moeilijkheid voor het vinden van een blok opschroeft om zo de bloktijd van 2 minuten te waarborgen. Door zich op dat moment terug te trekken laten zij het netwerk achter in een relatief "moeilijke toestand". Loyale miners die dan overblijven doen er dan relatief lang over om het volgende blok te vinden. Soms wel uren. Op het moment dat het relatief moelijke blok gevonden wordt verlaagt het protocol de moeilijkheid drastisch om weer terug te komen op twee blokken per minuut. Op datzelfde moment komen die "slimme" poolbezitters weer op het netwerk om de dan makkelijke blokken op te rapen, soms wel veertig op rij binnen enkele minuten.
+
+<p>Dit is geen trieste annekdote, maar vooral een leertraject. Het zal iedereen duidelijk zijn dat het oeruschild ook hier een stokje voor steekt. Door niet-loyale (niet gecertificeerde) miners maximaal vijf blokken op een rij te laten minen zijn zij ook niet in staat om de moeilijkheid van het vinden van een volgend blok op te drijven zodat er een langere wachttijd ontstaat. Het gevolg zal zijn dat het netwerk stabieler wordt. 
+
+#Wat is de planning?
+<p>De procedure en publicatie van de e-Gulden certificatie wordt gepresenteeerd op een aparte [https://e-gulden.org/index.php/oeruschild_certificatie,certificatie pagina].
+
+Het oeruschild zelf is gereed en geactiveerd op maandag 18 september 2017. Het kan in werking worden bekeken, bijvoorbeeld op de [https://chainz.cryptoid.info/efl/,de blockexplorer van cryptoid], maar natuurlijk ook in je [https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest,eigen portemonnee].
+
+#-

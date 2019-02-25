@@ -1,0 +1,13 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px'>
+<table>
+<tr><td align=right  style='font-weight:bold'>Uw e-Gulden rekeningnummer: </td><td>[idn_efl]</td></tr>
+<tr><td align=right  style='font-weight:bold'>Uw nieuwsbrief mailadres: </td><td>[idn_mail]</td></tr>
+<tr><td align=right  style='font-weight:bold'>Uw ambassadeur: </td><td>[idn_ambassadeur]</td></tr>
+<tr><td align=right  style='font-weight:bold'>Uw uursaldo: </td><td>[id_saldo]</td></tr>
+<tr><td></td><td id=idn_commentaar></td></tr>
+</table>
+</div>
+
+<script>
+</script>

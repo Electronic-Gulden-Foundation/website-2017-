@@ -1,0 +1,140 @@
+index_info
+Opinies over elektronisch geld
+<p>([http://egulden.org/downloads/A response to the already notorious EBA report final.pdf,english version; pdf])
+<p>Oorspronkelijk getiteld "Een ietwat verlate reactie op het nu al roemruchte EBA rapport" is een reaktie van de Stichting Electronic Gulden Foundation op het 
+ [http://www.eba.europa.eu/documents/10180/657547/EBA-Op-2014-08+Opinion+on+Virtual+Currencies.pdf,Opinion on Virtual Currencies rapport] van de European Banking Authority, op 4 juli 2014 gepubliceerd. Daarin worden door de auteurs duidelijke standpunten ten opzichte van de opkomst van cryptografisch geld ingenomen.
+
+<p>Objectief zijn de conclusies van de EBA, naar onze mening, allerminst te noemen. Wij vinden dan ook dat dit rapport een helder tegengeluid behoeft.
+
+<p>We behandelen in dit –opiniërend- stuk het EBA verhaal echter niet punt-voor-punt maar beschouwen een vijftal door hun gevolgde hoofdlijnen met een kritische blik, omdat wij als stichting van mening zijn dat de EBA daar de plank – al dan niet bewust – behoorlijk misslaat. Er zijn andere initiatieven, binnen de cryptografisch geld community, die pogen het EBA verhaal puntsgewijs te weerleggen, waarvoor hulde. De kans bestaat echter dat er dan een welles-nietes situatie gaat ontstaan. De EBA heeft veel “resources” tot haar beschikking, die snel kunnen reageren op stellingen vanuit de gemeenschap waardoor de discussie mogelijk kan worden vertroebeld.
+
+#Een andere kijk op het verhaal van de gevestigde orde
+<p>Om een mening te vormen over ontwikkelingen, die voor de gevestigde orde mogelijk een bedreiging kunnen zijn, verdient het grote publiek het dan ook om eens een andere zijde van het verhaal te horen, zonder dat eigenbelang de boodschap kleurt.
+
+<p>Door het decentrale karakter van cryptografisch geld is het moeilijk om een echt gezaghebbende entiteit te vinden, die de belangen behartigd van, en een stem geeft aan, de nieuwe economie. Eén van de doelen van de stichting Electronic Gulden Foundation is dan ook het geven van voorlichting aan het (Nederlandse) publiek. Wij hopen ons in de toekomst dan ook te ontwikkelen tot een diverse, goed geïnformeerde en geëquipeerde groep, die enig tegenwicht kan bieden aan de schier eindeloze stroom van eenzijdig belichtte rapporten en berichtgeving die ten gunste van de gevestigde financiële orde de wereld in wordt gestuurd.
+
+<p>Voor ons is het teleurstellend te constateren dat de verzamelde banken in de bevindingen van het EBA rapport een badinerende, soms schofferende, toonzetting gebruiken voor cryptogeld en mensen die hierin hun ziel en zaligheid hebben geworpen. Voor een sector die afhankelijk is van vertrouwen is het ronduit bevreemdend om te ervaren hoe zij een nieuwe generatie van consumenten trachten buiten te sluiten en hoe zij initiatieven vanuit die generatie zo zwart als maar mogelijk is proberen te maken.
+
+<p>De bancaire sector voelt zich op een of andere manier ver verheven boven hun klanten en bejegenen dat, wat ze niet direct kunnen controleren of dat hun “goedkeuring” niet draagt op een neerbuigende manier. Zij vergeten echter dat zij, door hun arrogantie, het tegengestelde zouden kunnen bereiken van wat zij beogen. De bankwereld heeft zich, héél voorzichtig uitgedrukt, de laatste jaren niet al te best weten te manifesteren.
+
+<p>Het groeiend onbegrip bij de gewone man wordt, door de manier waarop de bankwereld als geheel meent met innovatie en voorstanders van vernieuwing om te moeten gaan, door henzelf verder gevoed in plaats van afgeremd. In de toekomst kan dit een bedreiging voor de continuïteit van hun bedrijfsvoering betekenen, zeker als zij onmachtig zijn, of deze onmacht etaleren, om hun doen en laten aan te passen aan het huidige tijdbeeld.
+
+<p>In het EBA rapport wordt over "virtuele valuta" gesproken. Dit doet, naar onze mening, de innovatie die cryptografisch geld is nogal tekort en is dus een vlag die de lading niet dekt. Cryptografisch geld is méér dan een nabootsing van iets; het ontleent zijn toegevoegde waarde aan [https://en.bitcoin.it/wiki/Difficulty,mathematische zekerheden]. Als er iets virtueel is dan is dit een fiat bankafschrift wel. Het bedrag in fiat valuta dat op zo’n afschrift staat vermeld is namelijk niet ergens ‘fysiek’ aanwezig en bestaat in werkelijkheid alleen zolang wij met z’n allen net doen alsof het echt bestaat.
+
+<p>Zolang niemand de rekening daadwerkelijk opeist kan het, door banken gevlochten, spinsel van leugens en bedrog blijven bestaan. Voor een sector, waar vertrouwen als een product wordt verkocht, is het dan ook meer dan teleurstellend te moeten constateren dat zij hun morele plicht, om aan een breed publiek inzichtelijk te maken wat geld dan wel precies is, hard verloochenen, wetende dat de waarheid het hele kaartenhuis in een klap kan laten instorten. Dit abjecte handelen, waaraan de financiële wereld blijkbaar haar bestaansrecht aan ontleent, zou in iedere andere branche als crimineel en als moreel zeer verwerpelijk worden beschouwd. Het is dan ook niet voor niks verplicht dat je een zwijgplicht moet ondertekenen voordat je in deze branche aan de slag mag gaan.
+
+<p>De crisis heeft een verandering in de perceptie van mensen teweeg gebracht. Niet langer wordt alles wat door de bancaire sector wordt beweerd kritiekloos als waarheid geaccepteerd. Steeds meer mensen staan kritischer tegenover het handelen van banken. Dit versnelt doordat meer-en-meer onverkwikkelijke zaken uit de sector aan het daglicht komen, door informatiestromen die, via het Internet, een breed publiek bereiken, en die niet door een elite kunnen worden onderdrukt of verzwegen, iets wat met de klassieke massamedia, in handen van die elite, wel mogelijk bleek.
+
+<p>Een, naar onze mening ernstige, tekortkoming in het EBA rapport is de stelling van de absolute noodzaak van een exponentiële groei van de hoeveelheid fiat geld. Doordat het voortbestaan van fiatvaluta afhankelijk is van een continue groei, kan de financiële wereld zich blijkbaar geen ander systeem voorstellen. Cryptografisch geld is [https://en.bitcoin.it/wiki/Target,gelimiteerd] –met een gefixeerd eindtotaal- en is, per definitie, niet gebonden door het inflatoire keurslijf van exponentiële groei.
+
+#Integriteit
+Doordat cryptografisch geld werkt met public/private key adressen -die in zekere mate anoniem zijn- is volgens de gevestigde orde de integriteit van de gebruikers van cryptogeld in het geding. Het EBA rapport gaat hier echter voorbij aan het gegeven dat het de bedenkers en de gebruikers van cryptografisch geld zelf zijn die grote vraagtekens zetten bij de integriteit van de gevestigde orde.
+
+<p>We worden overspoeld door berichtgeving die het falen van de financiële wereld onderstreept. De miljardenboetes die de Rabobank moet betalen voor het manipuleren van de LIBOR rentetarieven, de boetes die aan de HSBC bank voor het witwassen van drugsgeld van Mexicaanse drugskartels zijn opgelegd, de bail out van de Europese grootbanken na het echec van hun Griekse investeringen en de kolossale bonussen die bankiers zichzelf toekennen, ondanks hun manifeste falen als manager en mens, zijn voor ieder met enig moreel besef genoeg reden om diepgaand na te denken over het systeem dat wij blijkbaar verplicht moeten steunen.
+
+<p>Ook de keuzes die gemaakt worden om wel militaire activiteiten te faciliteren, die voor het bankwezen behoorlijk lucratief zijn, terwijl er tegelijkertijd –zogenaamd- geen geld is om de burgers in een stad als Detroit (Michigan, VS) van schoon water te voorzien (valt weinig aan te verdienen!), roepen vragen op hoe het nou wel zo met de integriteit van de gevestigde orde gesteld is.
+
+<p>Zullen die vragen door de financiële wereld ooit eerlijk worden beantwoord? Wat denk je zelf?
+
+#Het risico van anonimiteit
+<p>Het rapport van de EBA lijkt een blauwdruk te bieden voor het initiëren van cryptografisch geld. Een van de zaken, die zij als riskant aanmerken, is dat cryptografisch geld over het algemeen anoniem, dus zonder dat de oprichters bekend zijn, wordt geïntroduceerd. De stelling (misvatting) die de EBA hierbij proponeert, is dat als eenieder anoniem zijn eigen protocol kan starten, het systeem anoniem zou zijn en dat dit daarom dus fraude in de hand werkt. Wij onderkennen dit risico, maar zijn tegelijkertijd van mening dat het duidelijk is dat het protocol van cryptografisch geld zich positief kan blijven door ontwikkelen, ook nadat duidelijk wordt dat de intenties van anonieme oprichters anders waren dan dat zij in eerste instantie lieten weten.
+
+<p>Dat is namelijk wat er met de e-Gulden is gebeurd. Er is bij de oprichting en de introductie van onze beminde munt gebruik gemaakt van een campagne in lokale en landelijke media om geïnteresseerden zo veel als mogelijk bij de oprichting van de e-Gulden te betrekken en mensen over te halen om te investeren in het concept, terwijl de oprichters ervoor kozen hun identiteit strikt geheim te houden.
+Net zoals de EBA dit als mogelijkheid noemt is er door de oprichters, na het succes van de introductie van de EFL, identiteitsfraude gepleegd en zijn gedane beloften gebroken. Dit zorgde ervoor dat de waarde van ons protocol na de eerste weken behoorlijk daalde.
+
+<p>Waar de EBA echter geen rekening mee houdt is de vasthoudendheid van een gemotiveerde gemeenschap aan een in principe zeer goed protocol, de kracht van het gebruikte algoritme en het enthousiasme waarmee een nieuwe manier van sparen en betalen door mensen wordt omarmd.
+
+<p>Door het zelfreinigend vermogen, dat kenmerkend voor cryptovaluta is, heeft de waarde van onze munt zich in de afgelopen tijd weten te stabiliseren en neemt geleidelijk aan weer toe. Het transparante karakter van cryptografisch geld zorgt er naar onze mening dus voor dat, zelfs wanneer alle risico's cumuleren tot een storm van slechte omstandigheden, een protocol niet eventjes zo maar verdwijnt.
+
+<p>Indien het ons lukt om de e-Gulden een eclatant succes te laten worden, zal dit hét bewijs zijn dat zelfs een heel slechte lancering van een enkel cryptografisch protocol geen reden hoeft te zijn om te twijfelen aan de kracht van cryptografisch geld in het algemeen.
+
+<p>Buiten de wiskundige zekerheid van het algoritme wordt deze kracht ook versterkt door het moreel besef van participanten. Waar het huidige economische klimaat wordt gekenmerkt door beperkingen van velen en privileges van enkelen, zijn deelnemers in cryptografisch geld gelijkwaardig aan elkaar, zoals alle bewoners van deze planeet dat eigenlijk ook zouden moeten zijn. Wat cryptodeelnemers verbindt is de tijdgeest en het besef dat wij allen door tijd zijn verbonden.
+
+<p>In tegenstelling tot het huidige systeem waarin welvaart blijkbaar het alleenrecht is van enkele geprivilegieerden, die vinden dat dit “recht” beschermd moet worden door het uitsluiten van 99% van de mensheid, ontwikkelt cryptografisch geld zich juist het best als er geen privileges zijn voor exclusieve partijen en als de deelnamedrempel laag wordt gehouden.
+
+<p>De adoptie van cryptografisch geld, en het economisch en sociaal gedachtengoed hierachter, staat dientengevolge haaks op de gebruikelijke “normen en waarden”. Dat de elite deze ontwikkeling koste wat kost probeert tegen te houden, is omdat zij hun maatschappelijke positie vooral te danken hebben aan het parasiteren op het fiat geldsysteem.
+
+<p>Door het bestaan van oligopolies op geldcreatie, door een kleine groep machthebbers, is het mogelijk de massa te onderdrukken. Daartoe probeert de elite zich een volledig beeld te vormen van, en toegang te krijgen tot, de financiële middelen van de massa, achteloos het basisrecht dat financiële privacy voor ieder mens is verwerpende.
+
+<p>Alleen door het huidige systeem in stand te houden kunnen zij hun verheven positie behouden. Vooral hierom worden de media door hen gebruikt voor het verspreiden van onjuiste of onvolledige informatie. Een grondige herziening van deze praktijken is dan ook meer dan noodzakelijk.
+
+#Het risico van piramide spelletjes
+<p>De EBA legt een causaal verband tussen cryptografisch geld en een piramide spel. Een piramidespel is een door een centrale partij uitgegeven belegging waarbij investeerders worden betaald met de inleg van nieuwe spelers. Vaak wordt er een hoog rendement voorgespiegeld, bijvoorbeeld 10% of hoger op jaarbasis, wat door enkelen dan ook wordt behaald maar wel ten koste van de laatst intredende beleggers. Die zijn de pineut.
+
+<p>Als men daarentegen kijkt naar cryptografisch geld, waar 1 munt ook echt altijd 1 munt zal blijven en niet door trucen kan worden vermenigvuldigd, zoals dat met fiat geld wel kan (waar rente altijd zorgt voor een rendement) is het duidelijk dat cryptografisch geld door dit fenomeen onmogelijk een piramide spel kan zijn of als zodanig kan worden gebruikt, iets dat door de EBA niet wordt genoemd.
+
+<p>Doordat de EBA een fiatvaluta als basiseenheid gebruikt is het potentiële rendement van een investering in cryptografisch geld gigantisch. Door dit zo te benoemen wordt de link met een Ponzi spel al snel gelegd. De mogelijkheid dat cryptografisch geld sterk in waarde kan toenemen heeft echter vooral te maken met het inflatoir waardeverlies van fiat rekeneenheden ten opzichte van die rekeneenheden van de crypto munt. Dit wordt door de EBA niet onderkend.
+
+<p>Wat ook het argument crypto-als-piramidespel tegenspreekt is de decentrale uitgave van cryptografisch geld. Het ontbreken van een centrale autoriteit is wederom een reden waarom cryptografisch geld niet met een piramidespel kan worden vergeleken.
+
+<p>Dat er verschillende crypto investeringsschema’s worden aangeboden, via verschillende handelsplatformen, die inherent op een piramidespelconstructie zijn gebaseerd, kan niet worden ontkend. Hierin verschilt de handel in cryptovaluta echter niet veel, of zelfs in het geheel niet, van de gereguleerde markten zoals bijvoorbeeld de beurs op Wall Street.
+
+<p>Gemiddeld wordt er elke vier dagen een nieuw piramidebellegingsspel, in fiat valuta, ontdekt. Kijk maar eens op www.ponzitracker.com of google eens naar het koersverloop van CYNK Technology Corp., voorbeelden zijn er te over. Dit toont, naar onze mening onomstotelijk, aan dat regulering geen oplossing biedt. Beloftes van hoge rendementen dienen te allen tijde met argusogen te worden bekeken, of deze nu in fiat of in cryptovaluta zijn.
+
+#Het risico van frauduleuze handelsplaatsen
+Het faillissement van Mt Gox in februari 2014 is een negatieve mijlpaal in het bestaan van Bitcoin. Mensen die eerder niet bekend waren met cryptografisch geld hebben het nieuws over dit faillissement via de grote aandacht in de media vernomen. Het Mt Gox gebeuren kleurt helaas de Bitcoin, en cryptogeld in het algemeen, met een schijnbaar crimineel tintje. De EBA gebruikt deze gebeurtenis dan ook graag om te waarschuwen voor de ‘grote’ gevaren van crypto geld.
+
+<p>Dat het handelen via een externe partij gevaren met zich meebrengt, is ook in het traditionele systeem onontkoombaar. Daar gebeuren foute zaken dan ook vele malen vaker, en in totaal andere ordes van grootte dan bij cryptografisch geld van toepassing is. Hier gaat de EBA dan ook wel erg makkelijk aan voorbij.
+
+<p>Een typisch voorbeeld, waar slechts weinigen van zullen hebben gehoord, is dat van [http://nl.wikipedia.org/wiki/Jon_Corzine,Jon Corzine] en het bedrijf 
+[http://en.wikipedia.org/wiki/Jon_Corzine%23MF_Global,MF Global], wier handelen een wel heel groot gevaar voor de pensioenen van zeer veel mensen betekent, en waar door de pers ternauwernood aandacht aan is besteed. Volg de links maar eens, de inhoud is helaas bedroevend verhelderend. Dichter bij huis zijn er ook voorbeelden te over, wat dacht je bijvoorbeeld van het zakendoen door ene Dirk Scheringa?
+
+<p>De transparantie van cryptografisch geld zorgt er, gelukkig, voor dat ontwikkelingen als deze in de toekomst voorkomen kunnen worden. Het wordt voor handelsmarkten dan eindelijk praktisch mogelijk om een publiekelijk toegankelijke controle op hun gelden 24/7 inzichtelijk te maken. Cryptografisch geld kan handelsplaatsrisico’s beter terugbrengen tot aanvaardbare niveaus dan dat dit met Dollars of Euro’s (enz.) kan.
+
+<p>In het huidige systeem, waar contractuele verplichtingen kunnen leiden tot niet afdekbare verliezen, worden beleggers niet beschermd voor fraude à la MF Global en dit lijkt op korte termijn ook niet snel te veranderen.
+
+<p>In sommige landen wordt al wel gekeken naar verbeterde wetgeving, zoals die bijvoorbeeld in 
+[https://beta.congress.gov/bill/113th-congress/senate-bill/1725,de Verenigde Staten] 
+in de maak is. Daar is dan wel nog een lange weg te gaan, door de druk en vertragingstactiek van een krachtige financiële lobby, voordat die wetten worden aangenomen.
+
+#Valuta risico’s
+<p>Het valutarisico dat met cryptografisch geld kan ontstaan is mogelijk een probleem voor winkeliers. Innovatieve dienstverlening maakt het mogelijk om dit risico bijna naar nul terug te brengen. Helaas wordt verbeterde dienstverlening, als een manier om risico’s terug te schalen, door de traditionele banken nog steeds niet onderkend. Blijkbaar is het verminderen van risico’s voor hun klanten niet echt in hun belang. Fiat valuta brengt hetzelfde risicoprofiel met zich mee, maar dan wel een die door de omvang van fiat van een totaal andere orde van grootte is.
+
+<p>Het ergerlijke is dat het hierdoor mogelijk is dat banken ondernemers, die cryptografisch geld als betaalmiddel accepteren, inschalen in een “hoge” risicogroep. Daarom moeten die ondernemers bij een toekomstige financiering een hogere vergoeding aan banken betalen, waardoor hun concurrentiepositie verslechtert.
+
+<p>Het lijkt erop dat, door dit system van financiële apartheid te hanteren, de gevestigde orde tracht de ontwikkeling van cryptografisch geld te vertragen en het gebruik ervan te ontmoedigen.
+
+<p>Innovatie is de facto altijd een gemêleerd palet van kansen en risico's. Hoewel de EBA de crypto innovatie, ten koste van ondernemers, probeert tegen te houden is het denkbaar dat deze praktijk hen uiteindelijk juist gaat opbreken. Uiteindelijk zal openheid het altijd winnen van onderdrukking.
+
+<p>Banken zouden er beter aan doen te hervormen en zich aan te passen aan de nieuwe tijd, waarin mensen een beter begrip dan ooit hebben van het concept geld en een goed inzicht in geldstromen hebben verworven. Nu klampt de sector zich nog vast aan de gouden tijden van weleer, waarin het mogelijk was om de massa zonder straf of enige hinder op te lichten.
+
+#Risico van regulering
+<p>Rondom de regulering van financiële instrumenten worden door de EBA meerdere “risico's” geduid. We zouden hier dieper op in kunnen gaan en kunnen proberen deze puntsgewijs te weerleggen, maar de vele vaagheden in het rapport en het gebruik van weinigzeggend jargon maakt dit een lastige exercitie. Wij stellen daarentegen de vermeende noodzaak van reguleren zelf grotere risico’s met zich meebrengt.
+
+<p>In de kern is regulatie niets meer, of minder, dan het opleggen van beperkingen aan individuen, die een partij bevoordeeld en de andere partij(en) schaadt, en dus als zodanig dan ook ongewenst is.
+
+<p>De EBA gaat, ons inziens bewust, niet in op het fenomeen dat deelname aan een cryptografisch geldprotocol altijd vrijwillig is en dat de keuze daartoe mede wordt bepaald door juist het ontbreken van regulering en de gelukkige bijkomstigheid dat daardoor ook geen bemoeizucht van controlerende autoriteiten hoeft te worden ingecalculeerd.
+
+<p>Aangezien de bankwereld haar macht ontleent aan regulatie, en dit in hun rapport als positief en maatgevend neerzetten ten opzichte van het ontbreken hiervan bij crypto, wordt er volledig voorbij gegaan aan het feit dat, in het huidige reguleringsklimaat, er zo ongelooflijk veel fraude plaatsvindt.
+
+<p>Het lijkt dat regels er slechts zijn om redenen van willekeur en meer dienen om ongewenste spelers eenvoudig aan de kant te kunnen zetten.
+
+<p>Monetaire vrijheid en financiële privacy is het recht van ieder mens. Het wordt tijd dat wij deze vrijheid weer terug eisen, om zo een eerlijkere verdeling van welvaart te realiseren. De drang van de elite om voortdurend te reguleren is verklaarbaar; het onderdrukken van mensen en initiatieven geeft hun tenslotte bestaansrecht.
+
+<p>Wij willen dit punt besluiten met de stelling dat het willen reguleren van cryptografisch geld, zoals e-Gulden, een nutteloze exercitie is. Het is hetzelfde als de fundamentele wetten van de natuur in regels pogen te vatten, die manipulatie en verandering van die wetten mogelijk zou moeten maken. Iets wat goed is hoeft -per definitie- niet in beperkende regels te worden gevat, maar reguleert zich uiteindelijk zelf.
+
+#Wettelijkheid
+<p>Het laatste deel van het EBA stuk richt zich op de wettelijke relevantie van virtuele valuta’s. Helaas laat de EBA na dit in de historische context te plaatsen van hoe het huidige systeem van wetgeving heeft kunnen ontstaan. Jarenlang hebben grote corporaties wetgeving naar hun hand weten te zetten en hebben ze, in de Verenigde Staten en andere landen, een groot deel van de hun gunstige wetten zelf geschreven en de politieke adoptie daarvan gefinancierd!
+
+<p>Doordat ons democratische stelsel in wezen bijzonder gevoelig is voor corruptie, kunnen bedrijven dit ongestraft doen. “Volks” vertegenwoordigers moeten immers dure campagnes voeren om gekozen te worden en corporate sponsoren gebruiken de geldbehoefte van politici als middel om wetgeving te concipiëren en deze, in achterkamertjes, op een voor het gewone volk niet controleerbare wijze, door te drukken. Zolang private financiering van politieke activiteiten bestaat, zal omkoping een integraal deel van het wetgevende proces zijn.
+
+<p>Voor iedereen, die dit onderdeel van het politiek bedrijf wil veranderen, komt het dan ook goed van pas dat de technologie van cryptografisch geld niet alleen maar een protocol voor het uitwisselen van gelden is, maar dat dit ook voor democratische doeleinden kan worden ingezet.
+
+<p>Op de dag, dat de massa de voordelen van crypto onderkent en crypto gaat gebruiken om tegenwicht aan de elite van de financiële sector te bieden, kan wetgeving weer voor en door het volk worden gemaakt.
+
+<p>Het gegeven, dat de door de elite geconcipieerde wettelijke instrumenten hen de gelegenheid geven het grootste deel van de mensheid te onderdrukken en te eigen bate uit te buiten, gefaciliteerd door een knellende grip op de massamedia, wat onafhankelijke berichtgeving tot een farce reduceert, is een woekerende ziekte die snel moet worden genezen.
+
+<p>Het is dus absolute noodzaak om de bescherming die wetten, die ten faveure van de elite zijn aangenomen, te breken. Het alsmaar uitdijen van de privileges van de happy few, die dit door hun oligopolistische grip op fiat valuta ongehinderd kunnen gebeuren, moet resoluut worden afgeschaft.
+
+<p>Als we blijven toelaten dat slechts enkele mensen, onder het mom van veiligheid en het handhaven van het economische systeem, onze spaarrekeningen en pensioenen kunnen blijven plunderen, dan wordt het verschil tussen de haves en de havenots alleen maar groter en groter. Uiteindelijk komt er dan een tijd dat dit niet meer valt te stoppen. Dan zal het lot van de mensheid, voor altijd, aan de grillen en hebzucht van een kleine parasitaire elite zijn overgeleverd.
+
+<p>Wij geloven dat de omarming van cryptografisch geld door de massa (de e-Gulden en haar zusters, natuurlijk) en de innovaties die uit cryptotechnologie ontspruiten hier het zo gewenste onderscheid kunnen en zullen maken.
+
+<p>In dit licht is dit schrijven slechts een summiere reactie op het lijvige EBA rapport. We hopen hiermee de discussie in de gemeenschap van cryptografisch geld liefhebbers wat verder aan te scherpen en we nodigen dan ook iedereen graag uit om, samen met ons, de European Banking Authority stevig aan te pakken.
+
+<p>Wil je aan dit streven een constructieve bijdrage leveren, en de crypto gemeenschap helpen om de drogredenen van de EBA te weerleggen, dan horen wij graag van jou. Het staat je natuurlijk ook vrij om, als blijk van jouw support, wat e-Guldens aan te schaffen!
+
+<p>Alleen gezamenlijk zal het ons lukken om de controle over onze eigen financiën weer terug te krijgen. Cryptografisch geld en crypto-technologie zijn de instrumenten -buiten een bloedige revolutie- die ons ter beschikking staan om de “macht” weer op de plaats te brengen waar die thuis hoort;
+
+<p>Bij ons, het volk!
+#-

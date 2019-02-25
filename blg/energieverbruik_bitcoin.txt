@@ -1,0 +1,48 @@
+index_dialoog
+energieverbruik Bitcoin
+<p>
+
+<p>Persbericht 22-sept-2017
+<h1>Extreme energiegebruik Bitcoin aan banden gelegd</h1>
+
+<h3>Het ontwikkelteam achter de Nederlandse Bitcoin lost met [https://e-gulden.org/index.php/het_oeruschild,de nieuwe Oeruschild techniek] in één klap wereldwijd de grootste bedreiging voor uw Bitcoin én het extreme energiegebruik van de munt op.</h3>
+
+<p>Cryptogeld is gebaseerd op zogenaamde blockchaintechnologie. Bitcoin is de bekendste van een kleine duizend  cryptomunten. Speciaal gericht op Nederland bestaat EFL ofwel de elektronische Gulden, een Nederlandse Bitcoin variant.
+
+<h3>Het probleem in de blockchaintechnologie</h3>
+
+<p>De blockchaintechnologie wordt snel populair. Maar wat veel mensen niet weten is dat blockchain een ernstig veiligheidsprobleem kent door het gevaar van de zogenaamde 51% aanval. Zo'n aanval geeft het probleem dat een aanvaller geld dat hij overmaakt na een betaalbevestiging weer kan terugtrekken. Een eventuele levering gaat echter wél gewoon door waarbij de leverancier zijn betaling kan vergeten. Dat is moeilijk, maar het kan.
+
+ 
+
+<p>Het gebeurt dan ook in de praktijk. Door een unieke uitbreiding van de blockchaintechniek zijn de ontwikkelaars van e-Gulden erin geslaagd deze aanval voor eens en altijd onmogelijk te maken. Deze uitbreiding heet [https://e-gulden.org/index.php/het_oeruschild,Oeruschild] naar de uitvinders Gerrit Oerlemans en Dennis Ruhe. 
+
+ 
+
+<h3>Het energieprobleem van Bitcoin</h3>
+
+Maar Bitcoin kent nog een groot probleem dat hiermee samenhangt en dat is het vrij extreme energiegebruik dat nodig is om de blockchain tegen deze aanvallen te beschermen . Op dit moment vraagt alleen Bitcoin al 40 gigawatt ofwel het gebruik van anderhalf miljoen huishoudens aan energie om de blockchain tegen aanvallen te verdedigen. En dan rekenen we alle andere bitcoinvarianten niet mee. 
+
+ 
+
+<h3>Energieverbruik wordt bewust genegeerd</h3>
+
+<p>Op zich mag een dergelijk energiegebruik maatschappelijk als onwenselijk worden gezien. Het belang van de blockchaintechniek is echter dusdanig dat men hiervoor de ogen sluit. Het grote verbruik wordt veroorzaakt door de noodzaak om vele zogenaamde “miner-computers” in te zetten om bovengenoemde aanvallen te voorkomen . Immers, hoe meer “miners” er zijn, hoe moeilijker het wordt om een 51% meerderheid te verkrijgen.
+
+ 
+
+<p>Nu dit probleem definitief is opgelost vervalt deze energievretende noodzaak. Het energieverbruik van Bitcoin en alle andere cryptomunten kan met deze oplossing drastisch worden verminderd. En daar wordt iedereen beter van. 
+
+ 
+<p>Bronnen: 
+<p>Energieverbruik: [http://digiconomist.net/bitcoin-energy-consumption,digiconomist.net/bitcoin-energy-consumption] en [https://blockchain.info/charts/hash-rate,blockchain.info/charts/hash-rate]
+
+<p>Achtergrondinformatie: [https://e-gulden.org/index.php/het_oeruschild,e-gulden.org/index.php/het_oeruschild]
+
+<p>Nadere informatie is te verkrijgen via support@e-gulden.org of op telefoonnummer +31-76-2031938
+
+<p>{https://e-gulden.org/logo_cirkel2.jpg,96}
+<br>Stichting Electronic Gulden Foundation
+<br>Talesiuspark 4
+<br>2064 LK SPAARNDAM
+<br>[mailto:foundation@e-gulden.org",foundation@e-gulden.org]

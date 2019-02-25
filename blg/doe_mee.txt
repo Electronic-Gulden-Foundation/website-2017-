@@ -1,0 +1,33 @@
+
+Doe mee
+<p>Deze website is onderdeel van een project voor en door Nederlandstalige cryptogeld bezitters en sympatisanten. De oproep om mee te doen is tweeledig. 
+<ul><li>Cryptogeld stimuleren vanwege de vele voordelen die het met zich mee brengt. 
+<li>Op een belangrijke tweede plaats staat een oproep om te helpen bij de opbouw van het achterliggende systeem. 
+</ul>
+
+<br>Bij cryptogeld ligt het eigendom van geld in handen van de eigenaar. 
+Dit is het fundamentele verschil met fiatgeld (euro, dollar) waarbij het medium (het geld) eigendom blijft van een uitgevende instantie. 
+De <BLAUW>vrijwillige motivatie</BLAUW> om het nieuwe systeem te gebruiken zal dus de traditionele dwang moeten vervangen. 
+Voor een deel zal die motivatie overtuigingskracht kosten, maar voor een deel is ook eigenbelang een motivatie dat ieder voor zichzelf zal moeten afwegen.
+
+<p>Het cryptogeldsysteem zelf functioneert als een netwerk van <BLAUW>samenwerkende deelnemers</BLAUW>. 
+Het gebruik van cryptogeld is een vorm van samenwerken. 
+Het systeem zelf moet echter ook worden ontwikkeld en de voordelen moeten worden verkondigd. 
+Door het ontbreken van een uitgevende instantie wordt de ontwikkeling en de motivatie vanzelf een verantwoordelijkheid voor alle bezitters. Zie dit als een gemeenschappelijke project. 
+<p>
+Door cryptogeld te gebruiken lever je een bijdrage aan het netwerk omdat de software die je daarvoor gebruikt functies vervult in het netwerk. Simpel gebruik is makkelijk te motiveren. Maar er zit meer vast aan een cryptogeldnetwerk:
+<ul>
+<li>Samenwerkende core-wallets (portemonnees) bestaan uit software die moet worden verbeterd en onderhouden
+<li>Kennisopbouw en verspreiding vraagt om nieuwe opleidingsmogelijkheden of vormen van kennisoverdracht
+<li>Het begrip en de techniek van "open-source" kan niet alleen worden toegepast op software maar ook op media van kennisoverdracht. Met "open-source" worden positieve aspecten van cryptogeld gestimuleerd, zoals decentralisatie en vooral transparantie.
+<li>Door de specifieke eigenschappen van het nieuwe systeem ontstaan er nieuwe behoeftes. Nieuwe vormen van financiële dienstverlening zullen moeten worden opgezet.
+<li>Centrale en decentrale aanspreekpunten, ondersteuning en promotie zijn belangrijke bouwstenen. Er ontstaat een nieuwe balans tussen samenwerken en ondernemen.
+<li>Cryptogeld is nieuw, betrouwbaar en vrij toegankelijk. 
+Het brengt nieuwe machtsverhoudingen en wetmatigheden met zich mee. 
+Bestaande wet- en regelgeving zal worden aangepast aan de nieuwe feiten. 
+</ul>
+
+<p>Na de oprichting van de Electronische Gulden cryptomunt is het projectbeheer in handen gelegd van de stichting "Electronic Gulden foundation". 
+Het bestuur van die stichting is samengesteld uit vrijwillige community-deelnemers. 
+Om de drempel tot deelname in dit project te verlagen  zal de stichting vooral helpen bij het <BLAUW>tot stand komen van een breed gedragen open source project</BLAUW> en de totale community daarbij uitnodigen. 
+Een eerste voorzet is [https://opensource.guide/,een gids voor het opzetten voor een open source project]. 

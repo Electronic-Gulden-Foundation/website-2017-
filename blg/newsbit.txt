@@ -1,0 +1,80 @@
+module_dewereldisgroot
+newsbit
+<h1>Wat is een e-Gulden (EFL)</h1>
+e-Gulden (EFL) is cryptogeld. Het is een variant van Bitcoin maar met een eigen netwerk. 
+De ontwikkelaars van EFL beschouwen de EFL als een verlengstuk en steunpilaar van Bitcoin en zorgen ervoor dat Bitcoin technisch op de voet wordt gevolgd. Functioneel is EFL gelijk aan Bitcoin, maar doordat beide projecten zelfstandige netwerken vormen zullen transacties elkaar niet storen. Doordat EFL Nederlandstalig is opgezet wordt een selectieve gebruikersgroep bereikt en wordt de toeloop selectief. Door lokale transacties in een apart netwerk te laten plaatsvinden wordt Bitcoin ontlast maar wordt de totale capaciteit van cryptogeld vergroot. Het is eenvoudig in te zien dat capaciteit een grote uitdaging zal blijven voor Bitcoin en dat lokale cryptomunten daar een logische oplossing voor zijn.
+
+<p><br>Tip: In onderstaande video wordt capaciteit als argument voor een Nederlandse cryptogeldvariant getoond.
+<br>
+module_dewereldisgroot
+
+<h3>Capaciteit inzichtelijk met een paar cijfers.</h3>
+Afgerond kunnen we de wereldbevolking stellen op <BLAUW>10 miljard mensen</BLAUW> die gemiddeld <BLAUW>dagelijks 10 betalingen</BLAUW> zullen uitvoeren.
+Naarmate innovatie voortschrijdt zal het aantal financiële transacties toenemen, maar <BLAUW>100 miljard betalingen per dag</BLAUW> is een capaciteit om rekening mee te houden (bovenstaande video noemt voorzichtig 14 miljard). De capaciteit van Bitcoin is "slechts" <BLAUW>1 miljoen betalingen per dag</BLAUW>. Het verschil is een factor 10000. Om een indruk te geven symboliseert in onderstaande figuur de witte punt de capaciteit van Bitcoin en het blauwe vlak het aantal betalingstransacties wereldwijd in een nabije toekomst.
+<br><center>{images/capaciteitvanbitcoin.jpg,,200}</center>
+<br>Dit is alleen nog maar de netwerkcapaciteit maar er is ook nog sprake van opslagruimte. Een transactie kost omstreeks 100 Bytes aan opslagruimte. Als Bitcoin op volle toeren draait kost dat 0,1 GB per dag, terwijl het wereldwijde betalingsverkeer 10TB per dag zou vragen. Zelfs als er op afzienbare termijn een oplossing komt om Bitcoin betalingsverkeer om te leiden naar een schaduwnetwerk (lightning), zodat er per persoon maar (stel) 4 betalingen per jaar in het bitcoinnetwerk zelf terecht komen, vraagt dat een dagcapaciteit van ruim 10 maal de dagcapaciteit van Bitcoin. Het splitsen van het wereldwijde betalingsverkeer over honderden lokale netwerken maakt de toepassing van cryptogeld veel hanteerbaarder en realistischer. Initieel kan ieder netwerk worden ingericht met een bepaalde capaciteitsvoorziening. De capaciteitsvoorziening van EFL is bijvoorbeeld vijf maal zo groot als die van Bitcoin.
+
+<h2>Waar kan ik e-Gulden voor gebruiken</h2>
+Het belangrijkste motief voor cryptogeld is om de <BLAUW>controle over financieel bezit in handen te leggen van het individu</BLAUW>. Momenteel ligt die controle vrijwel volledig bij de combinatie bank en overheid. Dat betekent niet dat de rol van de overheid (als democratisch instituut) met cryptogeld wordt ondermijnd. Juist niet, omdat het individu meer zeggenschap krijgt. De adoptie van cryptogeld betekent dat een er nauwelijks kans is dat er een niet-democratische overheid gevormd wordt. Doorbraak van cryptogeld betekent ook niet dat banken hun rol als financieel dienstverlener wordt ontnomen, maar wel hun monopoliepositie en hun macht om geld te scheppen (geld uit te lenen dat zij niet bezitten) en zo te laten ontwaarden. 
+
+<p><br>Het belangrijkste verschil tussen cryptogeld en geld zoals we dat nu kennen is dat bij de overdracht van cryptogeld slechts twee personen betrokken zijn: De betaler en de ontvanger. Op het moment van betaling weet uitsluitend de ontvanger dat de betaler cryptogeld had, maar niet hoeveel cryptogeld deze nog over heeft. Zelfs als de ontvanger de transactie rapporteert, waartoe hij bijvoorbeeld verplicht is als het gaat om een factuur en het registreren van BTW, blijft het cryptogeldbezit van de betaler buiten beeld. De boekhouding is compleet als ook de betaler de transactie rapporteert om zijn BTW terug te vorderen. 
+<p><br>Cryptogeld is momenteel nog geen stabiele economische factor. Daarom is de belangrijkste toepassing voor EFL op dit moment speculatie en kennisvergaring op het gebied van cryptogeld.
+
+<h2>Hoe verschilt EFL van de concurrentie?</h2>
+Het belangrijkste technische verschil met andere Altcoins is de bescherming van het EFLnetwerk. 
+Het bitcoinnetwerk wordt beschermd tegen misbruik door wereldwijde computerkracht. Doordat Bitcoin verreweg de grootste cryptomunt is wordt ervan uitgegaan dat de totale computerkracht zo groot is dat er geen malafide partij het bitcoinnetwerk naar zijn hand kan zetten door meer dan 50% van de computerkracht te leveren. Een lokaal betalingsnetwerk heeft per definitie een minderheid van de totale computerkracht tot zijn beschikking. De EFLontwikkelaars hebben een unieke oplossing bedacht (oeruschild genaamd) om het EFLnetwerk te beveiligen tegen malafide partijen. Deze oplossing maakt onderscheid tussen gecertificeerde computerkracht en anonieme computerkracht. Doordat het netwerkprotocol vereist dat één zesde deel van de computerkracht gecertificeerd moet zijn binnen een periode van gemiddeld twaalf minuten wordt iedere betaling gemiddeld om de 12 minuten gecertificeerd. Voor normale betalingen is het niet nodig om zo lang te wachten, maar voor grotere bedragen of als de betaalpartner wordt gewantrouwd wordt deze wachttijd aangeraden.
+
+<p><br>Omdat EFL functioneel gelijk is aan Bitcoin volstaat het, wat functionaliteit en perspectief betreft, om te verwijzen naar Bitcoin.  
+De afgelopen jaren is veel kritiek geuit over varianten van Bitcoin (Altcoins) omdat de toegevoegde waarde ten opzichte van Bitcoin niet werd ingezien. Ten onrechte wordt die toegevoegde waarde gezocht in de richting van techniek en functionaliteit. Wat men over het hoofd ziet is de specifieke gemeenschap van gebruikers van een Altcoin: <BLAUW>de community en haar identiteit</BLAUW>. Het is praktisch en logisch om transacties op basis van een <BLAUW>lokale identiteit</BLAUW> van elkaar te scheiden en zo een capaciteitsprobleem te voorkomen. Het is ook praktisch om lokaal slechts een beperkt aantal muntsoorten te hanteren. Momenteel zijn er weliswaar duizenden Altcoins maar een winkelier zal een gangbare munteenheid willen gebruiken. 
+Het is ook praktisch dat een lokale gemeenschap zich werpt op het onderhouden, ondersteunen en versterken van hun eigen munteenheid. Voor iedere munteenheid met een wereldwijd karakter geldt hetzelfde capaciteitsprobleem als voor Bitcoin en zal deze met Bitcoin moeten concureren. Het is onvermijdelijk dat bij een wereldwijde doorbraak van cryptogeld lokale keuzes gemaakt moeten worden. De lokale munt is dan geen concurrent, maar een verlengstuk van Bitcoin. 
+
+<p><br>Een belangrijke opmerking is op zijn plaats over <BLAUW>de Nederlandse concurrentie</BLAUW>. Terwijl e-Gulden(EFL) is opgericht begin maart 2014 verscheen een paar weken later een tweede munt die zich op Nederland richtte: Guldencoin (NLG). NLG heeft volledig andere eigenschappen als het gaat om munthoeveelheid en inflatie. Terwijl EFL een oplagefactor heeft en houdt van 1 heeft NLG een oplagefactor van 24 en deze zal gelijdelijk stijgen tot 80. Maar omdat in de naam ook het woord Gulden is opgenomen is dat verwarrend voor de markt. In de tweede helft van 2015 is de naam van NLG zelfs veranderd in Gulden, hetgeen de duidelijkheid niet ten goede kwam. 
+
+<h2>De koers van EFL</h2>
+<BLAUW>Het gaat niet om de prijs van nu</BLAUW>: Bij het vergelijken van cryptomunten lijkt het logisch dat beleggers zich laten leiden door de actuele prijs. Helaas is de actuele prijs een slechte indicator voor de potentiële prijs als daar niet een aantal eigenschappen van cryptogeld bij betrokken worden. Die eigenschappen zijn: 
+<ul>
+<li>De verhouding tussen het aantal munten nu en het aantal munten binnen de beleggingshorizon (inflatie).
+<li>Is muntuitgifte gedecentraliseerd en heeft iedereen dezelfde mogelijkheden om de de munt te vergaren?
+<li>De investeringsmogelijkheden van de oprichters en hun "early adopters". 
+<li>De band tussen oprichters en "early adopters" aan de ene kant en de community waar de cryptomunt voor bestemd is aan de andere kant. 
+<li>De omvang van de community waar de cryptomunt voor bestemd is. 
+<li>De band binnen de community waar de cryptomunt voor bestemd is. 
+<li>Adoptiepotentieel binnen de community waar de cryptomunt voor bestemd is. 
+</ul>
+
+Ten onrechte is momenteel <BLAUW>marktcapitalisatie</BLAUW> de belangrijkste maatstaf om cryptomunten te vergelijken en op te nemen in overzichten. Marktcapitalisatie is de actuele prijs per munt vermenigvuldigd met het aantal munten in omloop en heeft geen relatie met de bovenstaande prijsbepalende eigenschappen. 
+De belangrijkste verdienste van [coinmarketcap.com,coinmarketcap.com] is dat het een compleet overzicht biedt van cryptomunten op de markt. Marktcapitalisatie is echter een bijzonder slechte beleggingsindicatie om de volgende redenen:
+<ul><li>Muntsoorten met een hogere oplage worden hoger gewaardeerd dan muntsoorten met een kleine oplage. Zelfs als de dagomzet laag is bepaalt de actuele prijs de prijs van alle munten in omloop. 
+<li>Een hogere muntoplage heeft geen enkele toegevoegde waarde omdat cryptogeld oneindig deelbaar is. Momenteel wordt de waarde van iedere cryptomunt ten opzichte van Bitcoin uitgedrukt met acht cijfers achter de komma. Een hogere muntoplage is een overduidelijk middel om onwetende beleggers te manipuleren. Een eenvoudige oplossing om dit te corrigeren is door de marktcapitalisatie te delen door een <BLAUW>oplagefactor = bitcoinoplage / altcoinoplage</BLAUW>. 
+<li>Omdat marktcapitulatie momenteel de belangrijkste waardering is krijgen veel muntsoorten met een hoge oplage ten onrechte een toppositie. 
+Als beleggers een hoge positie beschouwen als een hoge waardering, dan is hun investering gebaseerd op die muntoplage en dus op een eigenschap zonder waarde. EFL heeft een vergelijkbare oplage als Bitcoin. De oprichters van EFL hebben zich niet door deze manipulatiemogelijkheid laten leiden. Het getuigt van visie van newsbit.nl dat zij EFL, met een relatief lage marktcapitalisatie, toch aan het woord laat. 
+</ul>
+<p>De sterke schommeling van de koers is een populair argument tegen cryptogeld in zijn algemeenheid. Het motief voor dat argument is dat de waarde van geld stabiel zou moeten zijn. De prijs op dit moment is echter pure speculatie en heeft weinig te maken met de potentiële waarde. De actuele prijs is meer een afspiegeling van de marketingcapaciteit en het financiële vermogen van Altcoinstichters en early adopters. 
+<p>Zolang cryptogeld niet definitief is doorgebroken is cryptogeld dan ook minder geschikt als een betaalmiddel en beter geschikt als een belegging. Bij een definitieve doorbraak van cryptogeld is de prijs een afspiegeling van de waarde die de community eraan heeft toevertrouwd. Op het moment dat cryptogeld het fiatgeld vervangt (Euro, Dollar,...) wordt cryptogeld zelf de waardereferentie. Als cryptomunten nauw met elkaar in verband staan (door het bestaan van een vrije markt) zullen de economische verhoudingen tussen de verschillende communities erin worden weerspiegeld. Omdat cryptogeld nog vrijwel onbekend is bij het grote publiek, laat staan de techniek en de mogelijkheden van cryptogeld, heeft de prijs van nu weinig betekenis. 
+<p>Prijsstabiliteit ontstaat vanzelf als een munt gangbaar wordt en er niet met de geldhoeveelheid wordt gerommeld. Het protocol van een cryptomunt bepaalt hoeveel en hoe snel nieuwe munten ontstaan. Dit protocol is daarom heilig en mag niet worden gemanipuleerd.  
+
+<h2>Wie is de oprichter van EFL</h2>
+EFL is opgericht door een groep Nederlandse studenten die verder anoniem zijn gebleven. Een paar maanden na de oprichting hebben zij een oproep geplaatst aan de gebruikersgemeenschap om het project over te dragen naar een nieuwe op te richten stichting. Die Stichting is opgericht onder de naam Electronic Gulden Foundation door Henk Compier, Gerrit Oerlemans en Niels Harmsen. De doelstelling van de stichting is om zoveel mogelijk aspecten van het project samen met de gebruikersgemeenschap uit te voeren. Niet alleen de software broncode maar een zo groot mogelijk deel van het project wordt daartoe in een open source structuur geplaatst.
+
+<h2>Waar kun je EFL kopen (en verkopen)</h2>
+Wil jij EFL kopen? EFl kan rechtstreeks worden gekocht op de volgende beursen:
+<ul><li>[https://www.bittrex.com/Market/Index?MarketName=BTC-efl,Bittrex]<li>[https://cryptopia.co.nz/Exchange/?market=EFL_BTC,cryptopia]</ul>
+Voor het gemak kan EFL ook worden gekocht via tussenpartijen:<ul>
+<li>[https://bitcoinmeester.nl,bitcoinmeester]
+<li>[https://coinswitch.co/,coinswitch]
+<li>[https://1.efl.nl,efl]
+</ul>
+
+<h2>Wat zijn de voordelen van EFL</h2>
+<ol>
+<li>EFL is momenteel goedkoop en op die manier laagdrempelig. Het kan zo bij uitstek worden gebruikt om ervaring op te doen met cryptogeld alvorens daar stevig in te investeren.
+<li>EFL wordt ontwikkeld door en voor Nederlandstalige gebruikers. Je kunt jezelf hierbij aansluiten en meebeslissen om een bijdrage te leveren aan een potentiële financiële toekomst van de Nederlandstalige gemeenschap.
+<li>EFL is geöptimaliseerd om te fungeren als een lokaal netwerk. Natuurlijk kan daarmee wereldwijd worden betaald maar het is bedoeld om een munteenheid te zijn die speciaal Nederlandstaligen aanspreekt, met hen meegroeit en om voor Nederlandse winkeliers een voor de hand liggende betaalkeuze te zijn.
+<li>Door Bitcoin technisch te volgen profiteert EFL van de enorme ontwikkelcapaciteit van de Bitcoincommunity. Door ook enige afstand te houden tot de nieuwste versies van Bitcoin kunnen fouten die in Bitcoin sluipen worden voorkomen. 
+<li>Decentralisatie is welhaast de grootste verdienste van Bitcoin, maar cynisch genoeg neemt Bitcoin daardoor zelf een centrale positie in. Alle hoop op Bitcoin vestigen leidt tot een nieuwe vorm van centralisatie, grote centrale belangen en risico's. Decentralisatie in de vorm van lokale muntsoorten is daarom een gezonde ontwikkeling.
+</ol>
+<h2>Wat zijn de nadelen van EFL</h2>
+<ol>
+<li>Onbekend maakt onbemind. Als succes gemeten wordt aan de omvang van de gebruikersgemeenschap zullen kleinere gemeenschappen succes op een andere manier moeten meten om respect af te dwingen. Omdat Marktcapitalisatie momenteel de belangrijkste maatstaf is heeft EFL momenteel een nadeel.
+<li>Ontwikkeling van EFL is gebaseerd op de bijdrage van vrijwilligers. Dat vraagt een vorm van loyaliteit en onbaatzuchtigheid. Hoewel wereldschokkende innovaties zijn bereikt op basis van open-source, zoals unix en databasetechnologie is het moeilijk om mensen daar op voorhand van te overtuigen. Het is ook moeilijk om het uiteindelijke doel los te zien van de mogelijkheden voor persoonlijk gewin op korte termijn.
+</ol>

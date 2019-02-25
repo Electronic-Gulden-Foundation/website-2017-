@@ -1,0 +1,52 @@
+index_verantwoording
+premine-doelstellingen
+<h1>Premine doelstellingen</h1>
+<p>De oorspronkelijke gedachte achter het uitdelen van e-Guldens was dat daarmee de gebruiksdrempel zou worden verlaagd. 
+Ook bij de introductie van de euro is een dergelijk kennismakingspakket verspreid. 
+Daarnaast moet ook de onbekendheid van het cryptogeldmedium worden overwonnen. 
+De preminebonus kan worden gebruikt als oefengeld, zonder de zorg om iets kwijt te raken.
+<p>Nadat de e-Gulden eenmaal was gelanceerd was er geen weg meer terug maar zijn er wel nieuwe inzichten ontstaan.
+Zo blijkt uitdelen veel moeilijker dan verwacht. Probeer bijvoorbeeld eens folders uit te delen op straat om dat te ervaren. 
+Als het dan ook nog eens de bedoeling is dat de ontvanger er aandachtig en zorgvuldig mee om moet gaan dan is dat al snel teveel gevraagd.
+<p>Om campagnevoorstellen zo goed mogelijk te kunnen beoordelen zijn de uitdeel-doelstellingen onderstaand geformuleerd. 
+In deze tabel zijn de criteria verzameld en voorzien van een motivatie en een gewichtsfactor. 
+Dit zijn de huidige inzichten en zij kunnen na iedere campagne op basis van de nieuwe ervaring worden bijgesteld.  
+Iedere campagne kan voor ieder criterium worden beoordeed van -10 tot 10 zodat de maximum score 800 is. 
+<p>
+
+<table cellpadding=5>
+<tr><td><b>Gewicht</b></td><td><b>Campagne criteria</b></td></tr>
+
+<tr><td valign=top>20</td><td style='color:blue;font-weight:bold'>Er worden zoveel mogelijk mensen mee bereikt die nog geen e-Gulden hebben (naamsbekendheid)</td></tr>
+<tr><td></td><td>hoe lager het beloningsbedrag hoe beter aan dit criterium wordt voldaan. 
+1 EFL zou daarom optimaal zijn (Iedere Nederlander één). 
+Een bedrag van boven de 1000 EFL is eigenlijk "not done" omdat daar slechts 10.000 mensen mee worden bereikt.</td></tr>
+
+<tr><td valign=top>15</td><td style='color:blue;font-weight:bold'>Er moet een grote doelgroep zijn. Een campagne met een grote oplage is beter dan een met een kleine oplage</td></tr>
+<tr><td></td><td>Spreekt voor zich; Meer dan 10000 zou ideaal zijn</td></tr>
+
+<tr><td valign=top>10</td><td style='color:blue;font-weight:bold'>De ontvanger moet in beeld krijgen dat de e-Gulden een project is waar hij in zou kunnen participeren.</td></tr>
+<tr><td></td><td>Hoe meer de ontvanger in beeld krijgt over EFL bij het campagne aanbod hoe beter.</td></tr>
+
+<tr><td valign=top>9</td><td style='color:blue;font-weight:bold'>De ontvanger moet duidelijk interesse hebben om meer met e-Gulden te doen dan deze onmiddelijk om te ruilen voor ander geld.</td></tr>
+<tr><td></td><td>Hoe verder de campagne afstaat van cryptogeld hoe beter. Bij een campagne in de sfeer van cryptogeld is er al interesse en is er minder sprake van kennismaking.</td></tr>
+
+<tr><td valign=top>7</td><td style='color:blue;font-weight:bold'>eenmaligheid moet duidelijk zijn</td></tr>
+<tr><td></td><td>Controleerbaarheid is moeilijk en zeker bij anoniem uitdelen. Aan de hand van het portemonnee-adres kan worden gecontroleerd en aan de hand van mailadres, iedereen kan er meerdere aanmaken. De beste garantie is als de campagne doelgroep sterk afwijkt van de doelgroep van eerdere campagnes.</td></tr>
+
+<tr><td valign=top>6</td><td style='color:blue;font-weight:bold'>het moet niet te lastig zijn voor de campagnepartner</td></tr>
+<tr><td></td><td>Anders wordt de kans van slagen te klein en dit werkt relatieverstorend. inzet van een eenvoudige API is het meest wenselijk. Keerzijde is dat de campagnepartner moet worden vertrouwd.</td></tr>
+
+<tr><td valign=top>5</td><td style='color:blue;font-weight:bold'>De ontvanger moet in beeld krijgen dat de e-Gulden bij uitstek de gelegenheid is om Nederlandstalig meer over cryptogeld te weten te komen.</td></tr>
+<tr><td></td><td>Het motief voor het reserveren van premine is juist dit kennismakingsaspect. Dit punt heeft wat weg van punt 8</td></tr>
+
+<tr><td valign=top>4</td><td style='color:blue;font-weight:bold'>Er moet een uitdaging in zitten voor de "ontvanger": </td></tr>
+<tr><td></td><td>De kans op verlies is groot. Als het de ontvanger te makkelijk wordt gemaakt zal hij de beloning op een later moment kwijtraken</td></tr>
+
+<tr><td valign=top>3</td><td style='color:blue;font-weight:bold'>De ontvanger moet een permanente wallet beschikbaar hebben of aan kunnen maken. [is hosted wallet voldoende?]</td></tr>
+<tr><td></td><td>De ontvanger moet natuurlijk altijd een ontvangsadres aanleveren. Alleen als vrij zeker is dat dit afkomstig is uit de core-wallet en de backupprocedure is doorlopen verdient dit punt een 10. Als het e-gulden adres gehost wordt door de campagnepartner dan is dit punt een 1
+</td></tr>
+
+<tr><td valign=top>1</td><td style='color:blue;font-weight:bold'>De ontvanger moet woonachtig zijn in Nederland of Belgie, of minimaal de Nederlandse taal beheersen</td></tr>
+<tr><td></td><td>Puur Nederlandstalig is dus een 10. Buitenlands met internationaal publiek is een 0. Het is niet de bedoeling om te discrimineren, maar om internationaal betalingsverkeer op een natuurlijke wijze te beperken op de e-gulden blockchain</td></tr>
+</table>

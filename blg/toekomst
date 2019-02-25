@@ -1,0 +1,138 @@
+index_verantwoording
+Toekomst
+<p>De toekomst voorspellen kan niemand, maar als de e-Gulden community zijn gang kan gaan is het verloop van de aanwas van e-Guldens zoals weergegeven in onderstaande tabel : (Het aantal EFL's in omloop is niet exact weergegeven maar door het e-Gulden protocol zullen dit er&nbsp;nooit meer zijn dan 21 miljoen).</p>
+<p>Door een te snelle opstart zijn de eerste 40.000 blokken (tot 1 april 2014) te snel gemined. Daardoor liggen we ruim een maand voor op schema. De eerste halvering van de blokbeloning heeft plaatsgevonden op 16-11-2014. De Software die de moeilijkheid bepaalt voor het berekenen van een blok past deze voorsprong heel geleidelijk aan. Dat is te zien in de tweede grafiek (<span style="color: #6e6e6e; font-family: Arial; font-size: 14px; font-weight: bold; line-height: 24px; white-space: nowrap;">Blok beloning-halvering; Verschil met doelstelling</span>) op de pagina&nbsp;<a href="index.php?e-gulden_conditie">blockchain-in-beeld</a></p>
+<p>De onderstaande startdatums lopen daarom dus momenteel 30 dagen uit de pas, zodat de eerstvolgende halvering omstreeks 2 oktober 2019 zal plaatsvinden.</p>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 642px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 92pt;" width="122" /> <col style="width: 83pt;" width="110" /> <col style="width: 62pt;" width="83" /> <col style="width: 79pt;" width="105" /> <col style="width: 75pt;" width="100" /> <col style="width: 92pt;" width="122" /> </colgroup>
+<tbody>
+<tr style="height: 12.75pt;">
+<td class="xl27" style="height: 12.75pt; width: 92pt; text-align: right;" valign="top" width="122" height="17"><strong>Start</strong></td>
+<td class="xl27" style="width: 83pt; text-align: right;" valign="top" width="110"><strong>looptijd (dagen)</strong></td>
+<td class="xl27" style="width: 62pt; text-align: right;" valign="top" width="83"><strong>efl /dag</strong></td>
+<td class="xl27" style="width: 79pt; text-align: right;" valign="top" width="105"><strong>blokken /dag</strong></td>
+<td class="xl27" style="width: 75pt; text-align: right;" valign="top" width="100"><strong>Blok-beloning</strong></td>
+<td class="xl27" style="width: 92pt; text-align: right;" valign="top" width="122"><strong>EFL's in omloop</strong></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">16-3-2014</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">292</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">18000</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">25,000</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">10500000</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">17-1-2015</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">583</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">9000</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">12,500</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">15745200</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">5-11-2015</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">875</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">4500</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">6,250</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">18366900</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">23-8-2016</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">1167</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">2250</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">3,125</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">19680900</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">10-6-2017</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">1458</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">1125</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">1,563</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20337900</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">29-3-2018</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">1750</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">563</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,781</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20666400</span></td>
+</tr>
+<tr style="background-color:lightgreen;height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">15-1-2019</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">2042</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">281</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,391</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20830650</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">2-11-2019</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">2333</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">141</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,195</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20912775</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">20-8-2020</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">2625</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">70</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,098</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20953838</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">8-6-2021</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">2917</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">35</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,049</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20974369</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">26-3-2022</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">3208</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">18</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,024</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20984634</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">12-1-2023</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">3500</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">9</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,012</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20989767</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">31-10-2023</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">3792</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">4</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,006</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20992334</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">17-8-2024</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">4083</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">2</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,003</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20993617</span></td>
+</tr>
+<tr style="height: 12.75pt;">
+<td class="xl24" style="height: 12.75pt;" align="right" height="17"><span style="font-family: 'courier new', courier;">5-6-2025</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">4375</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">1</span></td>
+<td align="right"><span style="font-family: 'courier new', courier;">720</span></td>
+<td class="xl26" align="right"><span style="font-family: 'courier new', courier;">0,002</span></td>
+<td class="xl25" align="right"><span style="font-family: 'courier new', courier;">20994258</span></td>
+</tr>
+</tbody>
+</table>

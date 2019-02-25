@@ -1,0 +1,46 @@
+</ul>
+<div style='border-style: solid;border-color:red;padding-left:20px;padding-top:10px'>
+<h2>Ambassadeur formulier</h2>
+<p style='color:red;font-size:12px;line-height: 18px;'>
+Heeft u nog nooit meegedaan en wordt u ten onrechte aangemerkt als ambassadeur en niet als nieuwkomer 
+stuur dan een mailtje naar support@e-gulden.org met een korte uitleg waarom dit ten onrechte is en wie uw ambassadeur is.
+<p style='font-size:12px;line-height: 18px;'>
+Als ambassadeur helpt u de Stichting Electronic Gulden Foundation bij het verspreiden van premine. 
+U geeft uw emailadres door aan nieuwkomers, maar u hoeft zelf niets in te vullen. 
+<p style='font-size:12px;line-height: 18px;'>
+Het doel van de premine is zoveel mogelijk Nederlanders met de e-Gulden kennis te laten maken en mee te laten doen.
+Omdat u reeds eerder heeft meegedaan laten we de beloning die u ontvangt in deze étappe ook afhangen van uw bijdrage 
+om andere nederlanders te motiveren. We hopen zo ook "spelenderwijs" de kennis over cryptogeld te vergroten.
+<p style='font-size:12px;line-height: 18px;'>
+Als nieuwe deelnemers uw mailadres opgeven krijgt u hun totaalsaldo in beeld. 
+Uw eigen saldo is het aantal uur dat uw wallet in deze étappe is waargenomen. 
+Let er op dat uw uursaldo uw aandeel is in het totaal beschikbare budget.
+<br>Het budget voor nieuwkomers is 100.000 EFL
+<br>Het budget voor ambassadeurs is 100.000 EFL; 25% daarvan wordt verdeeld op basis van uw eigen uursaldo en 75% 
+op basis het uursaldo van de nieuwkomers die zich aan u hebben gekoppeld. 
+Het saldo van koppelingen uit de vorige étappe telt dus ook nog voor 25% mee bij het uursaldo nieuwkomers in deze étappe.
+<table>
+<tr><td align=right style='font-weight:bold'>Uw e-Gulden rekeningnummer: </td><td id=ida_efl>[ida_efl]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uw nieuwsbrief mailadres: </td><td>[ida_mail]</td></tr>
+<tr><td align=right style='font-weight:bold'>Aantal nieuwkomers: </td><td>[ida_nieuw]</td></tr>
+<tr><td align=right style='font-weight:bold;[kleur]'>Uw uursaldo: </td><td>[ida_saldo]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uursaldo nieuwkomers: </td><td>[ida_saldonieuw]</td></tr>
+<tr><td align=right style='font-weight:bold'>Uursaldo koppelingen vorige étappe: </td><td>[ida_saldooud]</td></tr>
+</table>
+<hr>
+<div id=id_saldodetails>
+<table class="table table-striped">
+<tr><td>Nieuwkomers deze étappe</td><td>Uursaldo</td></tr>
+[ida_saldospec]
+</table>
+</div>
+<div id=id_saldodetailsold>
+<table class="table table-striped">
+<tr><td>Koppelingen vorige étappe</td><td>Uursaldo</td></tr>
+[ida_saldospecold]
+</table>
+</div>
+<br><br>
+</div>
+<script>
+</script>

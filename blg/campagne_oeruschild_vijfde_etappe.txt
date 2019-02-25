@@ -1,0 +1,82 @@
+index_oeru;index_dialoog;module_oeruschild
+campagne_oeruschild_vijfde_etappe
+
+<h1>De vijfde campagne-étappe</h1>
+<p>De vijfde étappe beginnen we op 1 mei met 1302 deelnemers en ruim 1150 permanent actieve corewallets. Maar onze doelstelling ligt hoger, véél hoger. 
+<p>Dat kan maar op één manier en dat is iedereen duidelijk maken dat voor niets de zon opgaat. En wat is er nu op tegen om de e-Gulden portemonnee aan te zetten als je computer toch aanstaat? De e-Gulden wordt alleen een succes als iedereen daar steentjes aan bijdraagt. Dat is niet onbaatzuchtig, want success heeft effect op ieders eigen vermogen. Loyaliteit is een vorm van eigenbelang.
+<p>
+De opzet van de campagne gaan we vanaf nu meer richten op het gemeenschappelijke doel: Er moeten meer Nederlanders op weg worden geholpen. 
+
+Wat er verandert is dat iedereen ambassadeur wordt. Dus ook de nieuwkomers. De ambassadeurs-top-10 wordt een top 25. Voor het aan laten staan van de wallet tapt iedereen voortaan uit dezelfde pot. Die pot is initieel 100.000 EFL, maar de inhoud wordt verhoogd naarmate het aantal actieve wallets per dag toeneemt, tot maximaal een verdubbeling. In étappe 4 was het maximaal aantal actieve wallets per dag <ROOD>(MAXNODES)</ROOD> 1200. Als deze ronde 2400 wordt bereikt dan wordt de pot dus 200.000 EFL.  Zo wordt het verhogen van <b>maxnodes</b>, het aantal actieve deelnemers, een gezamelijk hoofddoel.
+#Onze visie
+Ook onze visie is simpel: Cryptogeld kan alleen als geldsysteem de wereld veroveren als Bitcoin als wereldmunt wordt samengesmolten (gedecentraliseerd, ontlast en door beurzen en uiteindelijk door een lightning-netwerk verbonden) met lokaal bekende cryptovaluta. Zie in dit verband ook onze video-hint op de [https://e-gulden.org,home-pagina]. e-Gulden zelf kan alleen een succes worden als Nederlanders willen inzien dat het goed is om Bitcoin te omarmen, maar daarnaast dat het nodig is om samen te werken en te bouwen aan een hecht lokaal cryptogeld netwerk. Daarom roepen wij al onze deelnemers op om dit door te vertellen via de ambassadeurscampagne: Maak Bitcoin krachtig door ook een stukje te investeren in haar Nederlandse steunpilaar: <br>
+{images/egulden_sunup_.png}
+*Bastiaan*
+<hr>
+#Een balans na vier étappes
+Terwijl de derde étappe 1302 deelnemers had hebben zich deze étappe 1498 deelnemers met een actieve corewallet gemeld. 
+Dat betekent dat het netwerk-effect een beetje hapert. Daarom willen we benadrukken dat we van nieuwkomers vragen om mee te helpen en daarom gaan we een drempel wegnemen en de hoofduitdaging benadrukken.
+<hr>
+Wat gaat er veranderen ten opzichte van de vierde étappe?
+<ul>
+<li>Nieuwkomers in de vijfde étappe kunnen onmiddelijk de ambassadeursrol op zich nemen.
+<li>De ambassadeurs-top-10 wordt een top-25, zodat er meer ambassadeurs in de prijzen vallen. De totale prijzenpot is 32.500 EFL
+<li>Iedere deelnemer wordt beloond voor het deelnemen aan het e-guldennetwerk met een core-wallet. Die pot is initieel 100.000 EFL, maar de inhoud wordt verhoogd naarmate het aantal actieve wallets per dag toeneemt, tot maximaal een verdubbeling. Tijdens étappe 4 was het maximaal aantal actieve wallets per dag 1200. Als <b>maxnodes</b> deze ronde 2400 bereikt dan wordt de deelnamepot dus 200.000 EFL
+<li>Iedereen houdt zijn gekoppelde deelnemers en hun uursaldo in beeld. Zo kan men meedenken wat de reden is voor eventuele uitval.
+</ul>
+<hr>
+#Campagnedetails
+<ol><li>De nieuwste software is verplicht: [https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest,versie 1.4.3]
+<li>Het budget voor ambassadeurs en nieuwkomers is samengevoegd en bedraagt 100.000EFL. Als het aantal deelnemers stijgt wordt dit budget evenredig verhoogd tot maximaal een verdubbeling.
+<li>De looptijd van de vijfde étappe is twee maanden. Dus Mei en Juni; Uitbetaling volgt het weekend erna.
+<li>Er komt een prijzenpot voor de 25 beste ambassadeurs op basis van aantal nieuwkomers-uren; Eerste prijs 2500EFL 2e:2400EFL  enzovoort. Iedere ambassadeur krijgt bovendien zijn eigen ranglijstpositie in beeld.
+<li>Nieuwkomers die niet door een ambassadeur op de campagne zijn gewezen moeten een mailtje sturen naar support@e-Gulden.org om toegewezen te worden aan een willekeurige ambassadeur. 
+<li>De ambassadeur behoudt het overzicht van zijn nieuwkomers uit de vorige étappe. 
+<li>Buiten de top-25 beloning is er voor iedereen een plafond van 1000 EFL
+<li>Vragen van nieuwkomers dienen te worden voorgelegd aan hun ambassadeur, maar bij twijfel kan altijd een mailtje worden gestuurd aan support@e-gulden.org
+<li>In het campagne-verloop brengen we een fragment van het voorvoegsel van het mailadres van de laaste nieuwkomers en de hoogst scorende ambassadeurs in beeld. Bedenk als deelnemer dat u zo vrijwel, maar niet volledig anoniem bent. Kijk bijvoorbeeld in [https://e-gulden.org/index.php/etappe4verloop,verloop etappe 4] hoe dat er uit ziet.
+</ol>
+<hr>
+#Voorwaarden voor deelname
+U accepteert het volgende:
+
+<p>Nobody is perfect. Wij zijn programmeurs en trainers, maar geen juristen. Wij hebben ook geen budget om iedere Nederlander evenveel kans te geven om deel te nemen aan deze campagne. U accepteert dat u zich naar ons toe niet zult beroepen op onrechtvaardigheid. Ook de stichting Electronic Gulden Foundation heeft de premine niet verdiend, maar gekregen. Onze opdracht is om deze uit te delen aan zoveel mogelijk landgenoten. Met de uitkering die u ontvangt verleggen wij het mandaat om uit te delen naar u. U bent daartoe niet verplicht. Net zo min als dat wij dat zijn. Het is een vrijwillige bijdrage aan het bekend maken van een beter geldsysteem.
+
+<p>De bedoeling van deze campagne is om zo gelijkmatig mogelijk uit te keren. Probeert u daarom niet door technische kunstgrepen meer wallets in te zetten dan u normaal zou doen. Omgekeerd wordt het zeer gewaardeerd als u anderen motiveert om ook mee te doen. Laat de uitkering dan wel bij die ander terecht komen. Op het moment dat wij constateren dat meerdere beloningen bij dezelfde persoon terecht komen behouden wij ons het recht voor om een uitkering te blokkeren.
+#Heeft u nog geen EFL-rekeningnummer?
+Heeft u nog niet de nieuwste versie van de wallet download deze dan eerst: [https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest,Laatste versie]
+<ol>
+<li>Klik in uw wallet op ontvangen; 
+<li>Vul als label in "campagne"; 
+<li>Klik op betalingsverzoek; 
+<li>Klik op de nieuwe betaalregel; 
+<li>Druk op de toon-knop en kopieer het adres. </span>
+</ol>
+{/images/campagne_verzoek.jpg}
+<hr>
+#Hoe vindt u uw handtekening om in te vullen in het deelname formulier?
+<ol>
+<li>Klik in uw wallet op menu "Bestand:Onderteken bericht"
+<li>Plak uw EFL-rekeningnummer in het bovenste veld
+<li>Plak of type in het berichtveld de tekst <b>oeruschild</b> (kleine letters)
+<li>Druk op "onderteken bericht"
+<li>en voilá ...
+<li>Kopieer de handtekening met de speciale knop
+{/images/campagne_handtekening.jpg}
+<hr>
+<hr>
+#Zorg dat uw wallet uw EFL-rekeningnummer uitzendt!!
+Heeft u nog niet de nieuwste versie van de wallet download deze dan eerst: [https://github.com/Electronic-Gulden-Foundation/egulden/releases/latest,Laatste versie]
+<ol>
+<li>Klik in uw wallet op menu "Hulp:Debugscherm" en ga naar tabblad informatie
+<li>Klik op de Knop "Open" onder Configuratiebestand (2)
+<br>Mocht het bestand (coin.conf) zicht niet openen maak het dan handmatig aan in de datamap (zie 3)
+<li>Type hier de volgende regel in:
+<br>uacomment=... 
+<br>Op de plaats van de puntjes zet u uw efl-rekeningnummer, beginnend met de letter L
+<li>Sla het configuratiebestand op en herstart uw wallet
+<li>Controleer of uw rekeningnummer zich vertoond op het informatietabblad op positie (1)
+{/images/coin_conf.jpg}
+#-
+
+module_oeruschild

@@ -1,0 +1,35 @@
+index_verantwoording
+oeruschild_certificatie
+<h1>oeruschild miner certificatie</h1>
+<p>Het oeruschild voorkomt dat niet-gecertificeerde miningpool-beheerders meer dan vijf blokken achter elkaar kunnen minen. Gecertificeerde pools worden opgenomen op een witte lijst die via de blockchain zelf wordt verspreid.
+
+<p>Ter certificatie voldoet een poolbeheerder aan het volgende:
+<ul>
+<li>Identificeert zich in de e-Gulden blockchain middels een handtekening per blok
+<li>Identificeert zich bij de stichting Electronic Gulden Foundation met een identificatiebewijs.
+<li>Verklaart geen blokken te vervangen in de e-Gulden blockchain om zo een oude betaling te wijzigen.
+<li>Streeft ernaar om het pool-mining-vermogen te beperken tot beneden 50% van het totale e-Gulden netwerk-vermogen
+<li>Streeft ernaar om het pool-mining-vermogen niet sterk te laten wisselen.
+<li>Ondertekent een verklaring met het te certificeren mineradres om op deze pagina te publiceren.
+</ul>
+
+module_cert
+
+<div name='faq' onclick='faq(this)'><a style='cursor:pointer' itemprop=url>
+<h4>Nadere uitleg</h4>
+</a></div>
+<div name='answer' style='display:none'><p><p><u>Coinbase_adres</u><br>
+Het e-Gulden adres waar de mineropbrengsten naar toe gaan. Aan dit adres is te herkennen wie het blok heeft gemined.
+De gecertificeerde miner dient een handtekening op te nemen in het blok waarmee hij bewijst dat hij de eigenaar is van dit adres.
+Bij het opvragen van het blok laat de e-Gulden software zien of er een geldige handtekening in het blok aanwezig is en of dit dit afkomstig van een gecertificeerde miner.
+<br>"identified": true
+<br>"certified": true
+
+<p><u>Handtekening</u><br>
+De handtekening kan worden geverifieerd met de e-Gulden wallet. Gebruik daardoor de functie "Bestand - Verifiëer bericht".
+<br>Het coinbaseadres vult u in als e-Guldenadres;
+<br>In het tekstblok vult u de verklaring in.
+<br>In het veld handtekening vult u de handtekening in en vervolgens drukt u op "verifieer handtekening".
+<div name=like></div></div>
+
+

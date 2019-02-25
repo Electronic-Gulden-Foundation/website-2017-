@@ -1,0 +1,9 @@
+<h4>Publicaties</h4>
+<ul class="latestnews">
+<li class="menu"><a href="index.php/korte_berichten" >Korte berichten</a></li>
+<li class="menu"><a href="index.php/nieuwsbrieven" >EFL-Journaals en nieuwsbrieven</a></li>
+<li class="menu"><a href="index.php/journaal_samenvattingen" >Uitreksels en inhoudsopgaven</a></li>
+<li class="menu"><a href="index.php/handleidingen" >Handleidingen</a></li>
+<li class="menu"><a href="index.php/opinies_over_elektronisch_geld">Opinies</a></li>
+<li class="menu"><a href="index.php/communicatie">Communicatie en links</a></li>
+</ul>

@@ -1,0 +1,23 @@
+index_verantwoording
+Hernieuwde kennismaking
+<p>De eerste campagne van de Foundation is bedoeld als een hernieuwde kennismaking met de e-Gulden. 
+De stichting is op 3 juli 2014 opgericht, omdat dit de enige mogelijkheid was om onze e-Gulden te redden. 
+Het technische protocol van e-Gulden is gelukkig robuust en betrouwbaar gebleken en wij zijn er dan ook van overtuigd dat de e-Gulden met inzet van ons allen een (groot) succes kan worden.
+
+<p>“Wij doen wat wij beloven, maar we beloven niets dat we niet kunnen waarmaken”
+
+<p>De kern van deze campagne is dat wij alle aanvragen voor gratis e-Guldens, die via de oude website (e-gulden.com) zijn ingediend zullen honoreren door het overmaken van 22,0371 EFL naar de bij ons bekende wallets, ongeacht of aan de, op de oude website, gestelde voorwaarden is voldaan, uitgezonderd dubbele of meervoudige aanvragen.
+
+<p>Dat de oorspronkelijke initiatiefnemers het niet gemakkelijk hebben gehad bij hun eerste poging tot distributie moge uit de volgende tabel blijken. Zij werden geconfronteerd met het volgende
+<p>
+Paspoortaanvragen : 70<br>
+1 cent aanvragen : 5929<br>
+Dubbele mailadressen : 209<br>
+Dubbele wallets : 269<br>
+Dubbele internet-adressen : 591<br>
+Valide unieke mails : 3840<br>
+Valide unieke wallets : 3780<br>
+Valide combinaties : 3755
+<p>Wat wij niet kunnen controleren is hoeveel aanvragers daadwerkelijk 1 cent hebben overgemaakt. De oorspronkelijke ontwikkelaars hebben uiteindelijk slechts 1500 uitbetalingen verricht. Wij zullen iedere aanmelding met een valide combinatie van een mailadres en een e-Guldenadres honoreren met een transfer van 22,0371 EFL. Het is onze bedoeling om de transfers binnen enkele dagen na de mailing afgerond te hebben.</p>
+<p>
+Wij roepen iedereen op andere mensen ook met de e-Gulden kennis te laten maken.
