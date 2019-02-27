@@ -33,6 +33,11 @@ cryptogeldproject als voorzet aan de Nederlanse gemeenschap ter beschikking word
 
 3. Aanbevelingen voor wijzigingen
 
+4. Project navigate
+
+5. Licentie 
+
+
 ## 1. Een korte geschiedenis van de website
 
 De oorspronkelijke oprichters van de e-Gulden blockchain hanteerden een website gebaseerd op het Joomla CMS - Content Management Systeem.
@@ -81,7 +86,17 @@ Het "oude" websiteproject is een laagdrempelige insteek, omdat alleen al het ver
     In je eigen omgeving kun je ongestoord aan dat doel werken en de resultaten testen. Alle wijzigingen zijn precies te zien en kunnen met zogenaamde "commits" worden gegroepeerd en van commentaar voorzien.
   * Het [e-Gulden forum](https://forum.e-gulden.org) is bij uitstek geschikt om hulp bij dit proces te zoeken en te bieden
   
-## 4. Licentie
+## 4. Project navigatie
+
+* Iedere webpagina wordt opgebouwd met de centrale PHP-routine "index.php"
+* index.php laadt een aantal templates uit de template directory
+* De eerste parameter achter index.php verwijst naar een bronbestand op de directory "blg"
+* De eerste regel van ieder bronbestand bevat een aantal componenten die tevens ingeladen moeten worden en die zich ook op de blg directory bevinden.
+* De tweede regel van ieder bronbestand fungeert als pagina-titel. Deze kan worden onderdrukt met een 'h1' element in de verdere code.
+* Als het bronbestand op de blg-directory de extensie .txt heeft, wordt dit eenmalig gecompileerd ("parseblog.php") naar de obj-directory
+* .txt bestanden kunnen uitsluitend tekst en een beperkte verzameling kale html-elementen bevatten (zie "parseblog.php").
+
+## 5. Licentie
 
 The MIT License (MIT)
 
