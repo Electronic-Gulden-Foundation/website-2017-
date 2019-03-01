@@ -251,21 +251,5 @@ function sane_title($txt) {
 	return(preg_replace('/\s/', '_',$x));
 }
 
-/* TODO
-- mailadressen overhevelen van server19 naar e-gulden.org
-> komen in- en uitschrijvingen aan op e-gulden.org?
-> compile laatste mailing
-> test nieuwe inschrijvingen en voeg toe aan compile
-> Wis alles van e-gulden.org dat niet voorkomt in compile
-> Voeg alles dat voorkomt in compile toe aan e-gulden.org
-- cookie baseren op inlog (key+sign)
-- op server: - login-dir = cookie>key
-- op server: - mail-dir = mail>key
-- op server: - inschrijving-dir = key>mail
-- bepaal op basis van key:
->ambassadeur of nieuw
->saldo
->if ambassadeur: gekoppelde keys + saldo gekoppelde keys
-*/
 ?>
 

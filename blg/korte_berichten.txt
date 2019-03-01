@@ -1,6 +1,12 @@
 index_kort;index_dialoog
 Korte berichten
 <br>
+#1-maart-2019 Tweede doe mee bijdrage: woordenlijst cryptogeld
+Een dag na onze opensource voorzet rolt de tweede bijdrage binnen op onze doe-mee oproep: [index.php/woordenlijst_cryptogeld,woordenlijst cryptogeld]
+<p>Voor degenen die zich afvragen wat dan de eerste voorzet was: De kwam gespreid binnen op het e-gulden forum; Ze hebben dit samengepakt en integraal op een [http://doemee.e-gulden.org/,todolijst] gezet.
+Dat is niet bedoeld als uitstel/afstel, want iedereen kan hem immers lezen, maar we zijn aan het nadenken hoe we dit het best kunnen coördineren.
+#28-februari-2019 Open source; twee nieuwe voorzetten
+Lees meer hierover op pagina [index.php/open_source,open source]
 #1-februari-2019 Cryptopia gehacked. Novaexchange versoepelt e-Gulden markt.  Coinmarketcap accepteerd novaexchange EFL-BTC markt.
 Door de inbraak op cryptopia werd de mogelijkheid van aan-en verkoop van e-Gulden beperkt. 
 e-Gulden was wel verhandelbaar op [https://novaexchange.com,novaexchange], maar deposits hadden een vertraging van twee dagen. 

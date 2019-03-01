@@ -1,0 +1,448 @@
+index_kort
+Woordenlijst cryptogeld
+<p>Onderstaand een lijst met woorden die vaak in de cryptowereld worden gebruikt. Met de functietoets CTRL-F kan hierbinnen worden gezocht. Een klik op een woord opent de uitleg.
+
+<p>Een (*) achter een woord betekent dat het elders in de woordenlijst wordt uitgelegd.
+#Alfanumeriek
+Een code of tekst is alfnumeriek als deze uit zowel letters als cijfers kan bestaan maar geen tekens die daarvan afwijken. Is soms wat vaag omdat het niet duidelijk is of bijvoorbeeld een ë of een ñ nu een geldige letter is of niet.  
+
+#All time high
+We spreken bij financiële waarden zoals valuta, effecten en dergelijke van een All Time High op het moment dat de koers ervan op een hoogte komt waar deze eerder in het bestaan van de waarde nog nooit geweest was. Bijvoorbeeld Bitcoin(*) bereikte in december 2017 een All Time High van $20000, de hoogste waarde uit het bestaan sinds 2009.  
+
+#Altcoin
+Cryptomunt die op de markt is gezet als alternatief van of als uitbreiding op Bitcoin. Er zijn duizenden altcoins, van nauwelijks opgemerkt tot zeer succesvol. Voorbeelden van altcoins zijn de Nederlandse munten Gulden en e-Gulden. Over de toekomst van altcoins zijn de meningen zeer verdeeld en vrijwel altijd extreem wat invoering bemoeilijkt tot onmogelijk maakt.
+
+#Asic
+Asic is een afkorting van Application Specific Integrated Circuit. Toen de ASIC technologie zijn intrede deed verdween FPGA(*) naar het tweede plan. ASIC is een computerchip die uitsluitend is bedoeld voor mining(*) van cryptomunten(*).
+In tegenstelling tot andere hardware kun je ASIC?s verder voor niets anders gebruiken. Je kunt er Bitcoin(*) mee minen. Verder niets. Op dit moment zweren de bezitters van miners bij deze chips. ASIC?s  zijn snel en verbruiken relatief weinig elektriciteit.
+
+#ATH
+Een afkorting voor All Time High(*), ofwel de hoogste koers die ooit door de betreffende financiële waarde bereikt is. De term ?All Time High? wordt ook buiten de cryptowereld toegepast, die afkorting ATH is daar echter wel wat minder bekend.
+
+#Authenticiteit (van een transactie)
+Aan een financiële transactie worden allerlei waarborgen toegevoegd om er voor te zorgen dat de ontvanger zeker kan weten dat de transactie echt is en daadwerkelijk bij de verzender vandaan komt. We zeggen dan dat de authenticiteit vastgesteld is. Meestal merk je daar als gebruiker verder niets van.
+
+#Averaging
+Averaging is een geschikte techniek om bijvoorbeeld cryptogeld(*) te kopen en te verkopen. Door het met vaste regelmaat kopen of verkopen van een vast bedrag in Euro wordt het effect van de grote beweeglijkheid  van de cryptomunten geminimaliseerd.  
+
+#Backup
+Een exacte kopie die op een bepaald moment van een stuk geheugen (harde schijf, USB-stick, cryptogeld wallet) is gemaakt en die elders wordt opgeslagen. Mocht het originele stuk geheugen beschadigd zijn geraakt dan is het mogelijk het beschadigde deel te herstellen door de backup weer terug te zetten en het origineel te overschrijven. Voor optimale veiligheid wordt het bewaren van twee backups aangeraden die op verschillende locaties worden bewaard. 
+
+#Beheerloon
+Het beheerloon werd vroeger door banken in rekening gebracht voor het beheren van effecten. Dat was in de tijd dat er nog regelmatig echte dividend- en rentecoupons afgeknipt en ingeleverd moesten worden. Hoewel al deze handelingen allang geschiedenis zijn hebben banken nog altijd moeite met het afschaffen van dit beheerloon. Het is nu een inkomstenpost waar eigenlijk geen kosten meer tegenover staan. 
+
+#Bitcoin
+Bitcoin is de eerste en meest bekende cryptomunt(*). Ontworpen in 2007 en voor het eerst daadwerkelijk gebruikt in 2009. Er zijn wel eerdere pogingen gedaan om een digitale munt(*) op te zetten maar dat was geen succes omdat men het probleem van de double spend(*) niet onder de knie kreeg. Het decentraal(*) opgezette Bitcoin(*) kende dat probleem niet. 
+
+#Bitcoin cliënt
+Ook wel Bitcoin core cliënt genoemd. Dit is de standaard wallet(*) van Bitcoin(*) die inclusief een kopie van de blockchain op de eigen computer wordt geplaatst bij de installatie van Bitcoin.
+
+#Bitcoin terminal
+Een apparaat te vergelijken met een pinautomaat dat echter werkt met een Bitcoinrekening op de achtergrond. Aangezien er niet zoiets als Bitcoinmuntjes of bankbiljetten bestaat vindt uitbetaling plaats in het locate fiatgeld. 
+
+#Block (of blok)
+De gegevens van een transactie worden bij cryptogeld(*)  opgeslagen in een hoeveelheid computergeheugen. Dat wordt een ?block? genoemd. Of ?blok? in het Nederlands. Dit block bevindt zich op de harde schijf van de computer van iedereen die deelneemt aan het Bitcoinnetwerk. Hoewel blockchain door velen ook wel als een zogenaamde cloudapplicatie(*) wordt gezien is dit strikt genomen niet helemaal waar, tenzij we stellen dat elke computer van elke deelnemer onderdeel van ?de cloud(*)? is. Zodra een block gereed is, is het ter beschikking voor alle deelnemers van het netwerk 
+
+#Blockchain
+Relatief nieuwe technische opslagtechniek waar ondermeer Bitcoin(*) gebruik van maakt en waarbij blokken gegevens aan elkaar worden verbonden tot een soort ketting. Eerdere blokken in die ketting kunnen niet meer veranderd worden. Dit is zeer kenmerkend voor deze manier van opslag. Blokken worden aangemaakt door Miners(*) met een proces dat Mining(*) wordt genoemd en deze miners zorgen dan ook voor het aan elkaar verbinden van de blokken tot een ketting.(Engels: chain)  
+
+#Blockreward
+Als een miner(*) een block af mag sluiten omdat hij als eerste de bij het blok(*) behorende puzzel heeft opgelost dan krijgt hij daarvoor een beloning. Oorspronkelijk bedroeg deze 50 Bitcoin(*) maar regelmatig halveert deze beloning. Op dit moment bedraagt deze 12,50 Bitcoin. Omdat deze beloning wel bij de miner(*) wordt bijgeschreven maar bij niemand afgeschreven ontstaat er op deze manier nieuwe Bitcoin.  
+
+#Blok
+Zie bij block(*)
+
+#Blokbeloning
+Minder gebruikte Nederlandse vertaling van blockreward(*)  
+
+#Break even 
+We spreken van break even als kosten en opbrengsten gelijk zijn. Vaak is dat bij een bepaalde omzet om we komen het begrip ook elders tegen. 
+
+#Blokhalvering boek 4
+De blokbeloning of blockreward halveert regelmatig. Het tempo van halveren is bij de opzet van cryptomunt(*) vastgelegd.
+
+#BTC
+Veel gebruikte afkorting voor Bitcoin(*) 
+
+#Bubble / bubbel
+We spreken van een bubbel ofwel van een bubble als voor iets een extreem hoge prijs wordt gevraagd waarbij de relatie met de werkelijke waarde volkomen zoek is. 
+
+#Cash exchange
+Een Cash exchange is een faciliteit die het mogelijk maakt dat twee partijen onderling een cryptomunt kunnen verhandelen. 
+
+#Captcha
+Stukje software dat bedoeld is om te voorkomen dat internetformulieren ingevuld worden door robots. Vaak in de vorm van het selecteren van een aantal afbeeldingen van pizza?s, verkeersborden, auto?s en allerlei andere zaken. Soms moet er ook een tekst ontcijferd worden uit een hoeveelheid lijnen. 
+
+#Chargeback
+Het verschijnsel dat mensen die met een creditcard betalen de betaling weer terug laten draaien. Omdat dit niet betekent dat ze ook de producten die ermee gekocht zijn terugsturen kan het een hoop rompslomp voor de leverancier betekenen. Bitcoin(*) heeft hier geen last van omdat het technisch onmogelijk is om een betaling terug te draaien. . 
+
+#Chart
+Ander, veel gebruikt woord van Engelse oorsprong voor een grafiek. Dergelijke charts kunnen voor de mensen die er mee om kunnen gaan veel informatie leveren. 
+
+#Cloud
+De cloud is een verzamelnaam voor opslag van computergegevens in grote datacenters op het internet. Als je daar gegevens neerzet heb je geen idee waar het ergens daadwerkelijk opgeslagen is. 
+
+#Cloudapplicatie
+Een cloudapplicatie is in het algemeen een computerprogramma dat gegevens niet op de eigen computer opslaat maar ?in de cloud(*)?
+
+#Cloud mining 
+Bij cloud mining besteed je in feite je mining(*) uit aan een derde partij die zich ? ergens in de cloud(*) bevindt. Cloud mining kan goed werken maar het wordt nogwel eens misbruikt door criminelen. 
+
+#Cold storage
+We spreken van cold storage als cryptogeld(*)  wordt opgeborgen met behulp van uitsluitend cold wallets. 
+
+#Cold wallet
+Zie verder bij Wallet, cold
+
+#Community
+Een groep mensen die bijvoorbeeld een bepaalde cryptomunt(*) ondersteunt en actief promoot. Er zijn nog niet veel voorbeelden van een echt effectieve community,met een doortastende aanpak. Meestal blijft het bij passief toekijken wat een ander doet. Een groot probleem van het concept is dat niemand ergens verantwoordelijk voor is. Er is dus ook niemand aanspreekbaar bij problemen. Het doorhakken van knopen en het nemen van beslissingen is zo goed als onmogelijk. Het bestaan van deze communities is waarschijnkijk één van de voornaamste oorzaken van het niet (kunnen) doorbreken van cryptogeld(*)  als betaalmiddel. 
+
+#Conversie
+In de cryptogeld(*)  wereld wordt het ruime begrip conversie gebruikt om aan te geven dat cryptogeld(*) wordt omgewisseld in fiatgeld(*).
+
+#Corewallet
+De corewallet(*) is een portemonnee ofwel een wallet(*) voor cryptogeld(*) die ook taken als node(*) uit kan voeren zoals de controle van transacties en het doorzenden van transacties naar andere corewallets 
+
+#CPU (Computer Processing Unit) 
+In de beginperiode van Bitcoinmining was mining(*) nog eenvoudig en kon mining(*) gewoon gedaan worden op een desktopcomputer. De CPU van de computer zorgde wel voor de rekenkracht. Maar naarmate er meer en sterkere miners verschenen werd deze vorm van mining(*) op de eigen computer steeds minder rendabel Het werd namelijk uiteindelijk zeer lastig om nog een block te vinden door de grotere geworden difficulty die de berekeningen steeds moeilijker maakte.  
+
+#Cryptocommunity
+Veel cryptogeld(*) wordt niet opgezet door een bedrijf maar door een groep verder niet georganiseerde enthousiaste mensen. We spreken dan van de community van dit cryptogeld(*). Het is een soort bedrijfsmodel dat een grote vrijheid geeft maar dat normaal gesproken een zeer geringe effectiviteit heeft. Voorbeelden van grote successen zijn zeer schaars. Het werk wordt meestal door slechts enkele enthousiaste personen gedaan. 
+
+#Cryptogeld 
+Cryptogeld (Engels: Cryptocurrency) is een vorm van digitaal geld. Dus geld dat alleen bestaat in digitale vorm en niet als munt of bankbiljet. Cryptogeld kent in de zuiverste vorm geen enkele soort beheer en is decentraal(*) opgezet waarbij alle deelnemers direct met elkaar communiceren via een peer-to-peer(*) netwerk, met cryptogeld betalen en cryptogeld ontvangen. 
+
+#Cryptocurrency
+Zie cryptogeld(*). 
+
+#Cryptogemeenschap
+Nederlandse vertaling van cryptocommunity(*). Zie daar. 
+
+#Cryptograaf (afen)
+Iemand die zich bezig houdt met het coderen en decoderen van gegevens zodat deze voor onbevoegden onlees baar worden maar waarbij een wél bevoegd persoon zonder problemen over alle gegevens kan beschikken. 
+
+#Cryptografie
+Het vak en/of de wetenschap die zich bezig houdt met het versleutelen en ontsleutelen van gegevens om te voorkomen dat deze door onbevoegden worden gelezen. 
+
+#Crypto hedgefonds
+Een soort beleggingsfonds dat het mogelijk maakt om in een cryptomunt(*) te beleggen zonder dat je die zelf hoeft te bezitten. 
+
+#Cryptomunt
+De term cryptomunt wordt vrij willekeurig gebruikt als alternatief voor cryptogeld(*) . Het gaat om hetzelfde begrip. Vaak wordt het gebruikt in combinatie met een bepaalde munt, bijvoorbeeld ?de cryptomunt EFL is weer fors gestegen vandaag?. 
+
+#Daytrading
+Een manier van handelen op financiële markten zoals ook die van cryptogeld (*) waarbij er geen posities van de ene handelsdag op de andere worden doorgegeven maar waarbij elke positie aan het einde van de dag wordt afgesloten/
+
+#Decentraal
+We spreken van een decentrale opzet als de uitvoering van taken niet meer in opdracht van een centrale organisatie gebeurt maar als iedereen zelf initiatieven kan ontpooien, anderen aan kan sturen, door anderen aangestuurd kan worden etc. en waarbij geen centrale controle plaatsvindt. Bijvoorbeeld cryptogeld(*)  is decentraal omdat de deelnemers onderling betalingen uitwisselen zonder dat er een bank op een centrale plaats aan te pas komt om alles te regelen en te controleren.
+
+#Decentralisatie
+Het omzetten van een organisatie op een zodanige manier dat er decentraal(*) gewerkt kan worden. Dus zonder de noodzaak van een centrale organisatie Boek 1,2
+
+#Decryptie
+Zie encrypty(*). 
+
+#Delven
+Delven is de Nederlandse variant van ?Minen(*)? Het begrip wordt relatief weinig gebruikt. 
+
+#Demo Account
+Een cryptogeld (of fiatgeld-) rekening waarop alle transacties gesimuleerd worden zodat de bezitter er mee kan oefenen. Vaak op basis van niet bestaand geld. 
+
+#Depositiegarantiestelsel
+Het zogenaamde depositiegarantiestelsel is een regeling van de overheid waarbij deze garantie staat voor terugbetaling voor het geld dat u aan de bank hebt toevertrouwd met een maximum van €100.000. 
+
+#Difficulty  
+Er komen steeds meer miners bij. Daardoor zouden de blokken steeds sneller gevonden worden. Het Bitcoinnetwerk verwacht dat er elke 10 minuten een block(*) gevonden kan worden. Om te voorkomen dat het vinden van een nieuw block(*) te snel gaat door deze groei van het aantal miners(*) wordt de difficulty verhoogd. De op te lossen som wordt ingewikkelder gemaakt zou je kunnen zeggen. Omdat de som moeilijker is gemaakt duurt het langer voor de oplossing gevonden wordt. Zo blijft de tijd tussen twee nieuwe blokken min of meer constant. Zouden blokken te langzaam gevonden worden dan kan er een opstopping van transacties ontstaan. Gaat het te snel dan staan er vrij weinig transacties in een blok(*) en gaat het ten koste van de efficiency van het netwerk. In Nederland spreken we ook wel van de moeilijkheidsgraad
+
+#Digitale munt
+De term digitale munt komt overeen met cryptogeld(*). 
+
+#Double spend
+Een double spend is de mogelijkheid om met name digitaal geld meermalen uit te geven. Bij bankbiljetten of munten is dat onmogelijk omdat die fysiek naar een andere eigenaar overgaan. Bij digitaal geld(*) is er geen vorm van een overdracht en dat kun je dan rustig meermalen uitgeven. 
+
+#Double spend (technisch)
+In cryptogeld(*)  zit een systeemfout die het iemand met heel veel miningcomputers mogelijk maakt om een frauduleuze transactie uit te voeren waarbij betalingen gesimuleerd worden maar niet uitgevoerd. De ontvanger denkt zijn betaling ontvangen te hebben maar deze is bij de verzender niet afgeschreven.. Dit staat ook bekend onder de naam 51% aanval. 
+
+#EFL
+Veel gebruikte afkorting voor de e-Gulden, de Nederlandse Bitcoin. 
+
+#e-Gulden
+De e-Gulden is een Nederlandse variant van Bitcoin(*) die wordt beheerd door de stichting ?electronic gulden foundation?. De op 19 maart 2014 opgerichte munt is bedoeld voor de Nederlandse markt. Het is een kloon van Bitcoin(*) of liever gezegd Litecoin dat het dan ook op de voet volgt. Uniek aan de e-Gulden is dat deze niet gevoelig is voor technische doublespends(*) en voor cryptobegrippen extreem weinig energieverbruik(*) kent. Het grootste probleem is de weigering van de beherende stichting om enige ruchtbaarheid aan het bestaan te geven anders dan er permanent een soort politieke karikatuur van te maken  Ondanks de aantoonbare technische kwaliteit is de kans op doorbraak daardoor nihil. Met een omschakeling naar een serieuze aanpak zou e-Gulden tot een toonaangevende munt door kunnen groeien en zou het een goede investering zijn. Hier is met de huidige bezetting geen kans op.
+
+#Electricity Rate
+Om te berekenen wat je nu echt verdient met het minen van Bitcoin(*) zul je de elektriciteitsrekening erbij moeten halen. Dan kun je berekenen wat het verbruik van je miner(*) is. En dus is te berekenen wat het minen van de Bitcoin(*) die je ontvangt je nu eigenlijk kost.  Maakt ik winst? Zit ik ergens rond mijn break even (het punt waar kosten en opbrengst in evenwicht zijn)? Of verlies ik zelfs en kan ik mijn Bitcoins beter kopen? Dat zijn belangrijke vragen die de bezitters van miners zichzelf regelmatig moeten stellen.  
+
+#Encryptie 
+Onder encryptie verstaan we het proces waarmee leesbare tekst of herkenbare afbeeldingen onleesbaar dan wel onherkenbaar wordt gemaakt. Met behulp van een proces dat decryptie wordt genoemd kan de originele tekst of afbeelding weer in de originele staat worden hersteld.  
+
+#Energieverbruik: 
+Niet elke miner(*) gebruikt evenveel elektriciteit. Omdat dit energieverbruik een flink deel van de kosten bepaalt is het zinvol om de gunstigste combinatie van aanschafprijs en verbruik te berekenen. Een dure miningcomputer die echter weinig stroom verbruikt kan op den duur voordeliger zijn dan een goedkope miningcomputer  die weer meer stroom verbruikt. 
+
+#Escrow 
+Escrow is een dienst bij een handelstransactie waarbij een tussenpersoon controleert of beide partijen hun verplichtingen zijn nagekomen voordat er daadwerkelijk overdracht plaatsvindt. 
+
+#Exchanges
+Exchanges zijn beurzen waar cryptogeld(*) onderling verhandeld wordt. Soms zijn er extra mogelijkheden om ook geld om te wisselen naar fiatgeld(*). Voorbeelden zijn Kraken, Bittrex etc . 
+
+#Faucet
+Een faucet is een website waar periodiek een klein bedrag aan cryptogeld(*)  opgehaald kan worden zonder dat hier een handeling of verplichting tegenover staat. 
+
+#Fiatgeld
+Fiatgeld is het geld dat we dagelijks gebruiken zoals de Euro. Het komt aan de naam omdat de gebruikers het feit accepteren dat de Euro ons gezamenlijke betaalmiddel is. We hebben er ons vertrouwen, onze fiat, aan gegeven. 
+
+#Fomo 
+Afkorting uit de cryptowereld die staat voor Fear Of Missing Out ofwel de grote angst van veel mensen dat ze de boot gaan missen bij een kans om snel rijk te worden en vooral dat een ander die kans wellicht wel zal weten te pakken. 
+
+#FPGA (Field-Programmable Gate Array)
+Een FPGA is een microchip die speciaal is ontworpen om Bitcoin(*) te minen. Met name de hogere elektriciteitskosten van mining(*) met een GPU(*) gingen een rol spelen. FPGA was ontworpen om minder stroom te verbruiken en dus gingen bezitters van miners over van GPU(*) naar FPGA?s. 
+
+#FUD
+Deze afkorting staat voor Fear, Uncertainty,Doubt is wordt gebruikt om nieuws aan te duiden dat duidelijk negatief voor de cryptowereld bedoeld is. Met name de media en de overheid bedienen zich veelvuldig van FUD
+
+#FUDSTER
+Een persoon of organisatie die zich met de verspreiding van FUD(*) bezig houdt
+
+#Genesis blok
+Als er een nieuwe cryptomunt wordt opgezet moet er een eerste blok(*) gemined worden om de keten van blokken mee te beginnen. Dit blok(*) wordt het genesis blok(*) genoemd naar het Bijbelboek datt het ontstaan van  de wereld beschrijft. 
+
+#Gigahash 
+Eenheid die aangeeft hoe snel een miner(*) een hash op kan lossen. Zie Hashrate(*)
+
+#GPU (Graphical Processing Unit) 
+De volgende stap was het gebruik van zogenaamde GPU?s. Een GPU is  een onderdeel van de videokaart van een computer De videokaart zorgt ervoor dat u beeld krijgt op uw beeldscherm. Omdat een beeldscherm bestaat uit minimale puntjes,  die allemaal berekend moeten worden,  is een videokaart goed in rekenen. En die berekening lijkt op die van een miningcomputer. 
+
+<p>Een krachtige GPU kon 50 tot 100 keer effectiever zijn in vergelijking tot mining(*) met de CPU(*) van de computer Met name de videokaarten van de merken Nvidia en ATI werden buitengewoon veel gevraagd. Ook dit minen met een videokaart is intussen achterhaald. 
+
+#Greater fool theorie 
+Bij de zogenaamde ?greater fool theorie? gaan we uit van het feit dat mensen geld steken in een beleggingsinstrument in de stellige verwachting dat er binnenkort iemand (een ?grotere gek?) meer voor dat instrument wil betalen zodat wij er weer met winst uit kunnen stappen. Met enige binding met bijvoorbeeld een intrinsieke waarde(*) is dan totaal geen sprake meer. Volgens velen is dit de basis van cryptogeld.
+
+#Guldencoin
+Ook wel Gulden. Nederlandse cryptomunt (altcoin(*))  die ook geen kans ziet om in Nederland door te breken. Is ook vrijwel onbekend buiten een kleine kringetje intimi. Liep ooit duidelijk achter op e-Gulden(*) maar lijkt inmiddels toch een voorsprong te gaan nemen.
+
+#Hacker
+Een hacker is in deze context een persoon die zich toegang tot uw computer of telefoon weet te verschaffen en de daarop geplaatste wallet(*) leeg weet te halen door de inhoud naar een eigen rekening over te boeken
+
+#Hash
+In de wereld van de mining(*) is een hash een soort wiskundig probleem. Zeg maar een rekensom. De miningcomputer dient deze hash op te lossen om in aanmerking te komen van de blockreward(*) omdat hij een block aan de blokketen toe heeft weten te voegen. Een hash wordt opgelost door steeds mogelijkheden uit te proberen totdat de juiste gevonden is. 
+
+#Hash rate
+Dit is de tijd die nodig is om een hash op te lossen (zeg maar om de som te berekenen) wordt de Hash rate genoemd. Hoe meer miners er op het netwerk zitten, hoe hoger de Hash rate wordt. 
+Gangbare eenheden voor de Hash rate zijn (cijfers ter illustratie)
+MH/s (Mega) 1.000.000 hash per seconde),  
+GH/s (Giga)   1.000.000.000 (1 miljard) hash per seconde),     
+TH/s (Terra)  1.000.000.000.000 hash per seconde en  
+PH/s (Peta).   1.000.000.000.000.000 hash per seconde 
+
+#HODL
+Term die wordt gebruikt om aan te geven dat het verstandig zou zijn om een bepaalde cryptomunt voor lange tijd vast te houden. Is een verbastering van ?Hold? 
+
+#Hot wallet
+Zie bij wallet, hot
+
+#ICO
+Veel gebruikte afkorting van Initial Coin Offering  
+
+#Initial Coin Offering
+Een manier om geld op te halen voor een bedrijf waarbij de geldschieter in ruil een nieuwe cryptomunt ontvang die vaak toegang geeft tot toekomstige diensten of producten van het bedrijf. Staat onder nauwlettend toezicht vanwege de grote fraudemogelijkheden die deze techniek biedt. Desondanks groeit het aantal van dit soort munten als kool.  
+
+#Indicering 
+We spreken van indicering als prijzen worden aangepast aan de inflatie. We zien dat bijvoorbeeld bij huren en verzekeringen die vaak jaarlijks met het inflatiepercentage worden verhoogd.  
+
+#Intrinsieke waarde
+De intrinsieke waarde is de waarde van een goed zelf. Neem als voorbeeld een gouden munt. Die heeft de waarde van het goud waarmee deze is vervaardigd. En niet de waarde die iemand erop gezet heeft. Zo heeft een bankbiljet van 500 euro dus eigenlijk geen intrinsieke waarde want de waarde van het papier is te verwaarlozen.  
+
+#Ledger
+De ledger is de boekhouding van Bitcoin(*) en andere cryptomunten(*). Hier is uit te halen hoeveel Bitcoin(*) iedereen bezit. Transacties worden in de ledger verwerkt die is opgeslagen op de blockchain(*).
+
+#Luchtbel
+We spreken bij een luchtbel als de prijs van iets heel ver af is komen te staan van de werkelijke waarde. We hebben luchtbellen gezien in aandelen waarbij feitelijk waardeloze aandelen voor grote bedragen op de beurs verhandeld werden. Omdat bij cryptogeld(*) waarde en prijs vaak uit de pas lopen duiken vooral in de media regelmatig verhalen over luchtbellen op. De engelse term Bubble wordt ook veel gebruikt. 
+
+#Keyboardlogger
+Een keyboardlogger is een stukje kwaadaardige software dat illegaal op uw computer wordt geplaatst. Daarna registreert het elke toetsaanslag en dus ook het intikken van een password. Daarna wordt dit doorgegeven naar een centraal punt. Daarmee wordt ook het doel duidelijk. Overigens weten de meeste virusscanners deze keyboardloggers wel te signaleren en onschadelijk te maken. 
+
+#Malware
+Malware is een verzamelnaam voor allerlei schadelijke software die op uw computer geplaatst wordt. Denk aan virussen, zogenaamde trojaanse paarden en keyboardloggers(*)
+
+#Megahash 
+Eenheid die aangeeft hoe snel een miner(*) een hash op kan lossen. Zie Hashrate(*)
+
+#Minen / Miner / Mining
+Mining(*) is het proces van het opnemen van transacties in blokken waarna één specifieke miner(*) het blok(*) af mag sluiten nadat hij met succes een som heeft opgelost. Voor deze actie ontvangt de miner(*) geld waardoor nieuw cryptogeld(*)  ontstaat. Hier komt dan ook de term mining(*) (delven) vandaan. Let op! Er kan verwarring ontstaan omdat het begrip ?miner? zowel voor het apparaat, de speciale computer gebruikt wordt als voor de eigenaar van dat apparaat.  Zeg maar ?de persoon die zich met mining(*) bezig houdt?. Waar het verwarring kan geven is aangegeven wat er bedoeld wordt. 
+
+#Mining farm
+Speciaal opgezet bedrijf dat zich met mining(*) bezig houdt en meestal capaciteit verhuurt aan derden. 
+Zie cloud mining(*)
+
+#Miningpool
+Een miningpool is een groep miners(persoon) (*)  die samenwerken om een blok(*) te vinden door de rekenkracht van de afzonderlijke miners(apparaat) (*) samen te voegen. Als er een blok(*) wordt gevonden dan wordt de blokbeloning(*) over de leden van de miningpool verdeeld, meestal naar rato van de geleverde rekenkracht. 
+
+#MLM
+Marketingtechniek waarbij iemand rechten kan kopen om producten door te verkopen aan derden waarbij iedereen in de keten een bedrag aan provisie vangt. Meestal loopt het snel dood omdat buiten de familie van de verkoper meestal geen koper te vinden is, als was het maar omdat het maken van reclame in de meeste gevallen niet wordt toegestaan. 
+
+#Moeilijkheidsgraad
+Zie difficulty (*)  
+
+#Monetaire financiering
+Landen hebben meestal indrukwekkende schulden aan elkaar die niet meer af te betalen zijn. Als er sprake is van inflatie ofwel geldontwaarding dan worden deze schulden minder groot. Men lost af via de geldontwaarding en dat wordt monetaire financiering genoemd. Bij cryptogeld(*)  kan dit niet en dat is één van de voornaamste redenen waarom overheden fel tegen cryptogeld(*)  zijn. 
+
+#Moneymanagement
+Verzameling van technieken die gebruikt worden in (met name) de professionele handel in financiële waarden. De technieken zitten vooral op het gebied van risicobeheersing, optimalisatie van rendementen en herbelegging van gewonnen bedragen. Goed moneymanagement bepaalt ongeveer 40% van je resultaten.
+
+#Mooning
+Het verschijnsel dat koersen van cryptomunten plotseling enorm gaan stijgen zonder dat daar een echte zichtbare verklaring voor te vinden is maar vaak moet deze worden gezocht in geknoei en kuddediereffecten.
+
+#Open source
+Open source software is programmatuur die iedereen in kan zien en in theorie ook aan kan passen aan eigen doeleinden. Voorwaarde is dan wel dat die aanpassingen ook weet door iedereen gebruikt kunnen worden. Cryptogeld(*) is bijna altijd open source. 
+
+#Node
+Een node is een stukje computersoftware dat terug te vinden is op de computer van iedereen die een zogenaamde Corewallet(*) op die computer heeft staan. De node zorgt voor de controle van de de transacties en geeft deze door richting de miners(*) om ze in de blockchain(*) op te bergen. 
+
+#Paymentprocessor
+Tussenpartij die betalingen in cryptogeld(*)  int en uitbetaalt aan de rechthebbende waarbij meestal uitbetaling in verschillende valuta mogelijk is. 
+
+#Peer to peer
+We spreken van een peer to peer verbinding als twee computers via internet direct gegevens uit kunnen wisselen. Dat kan cryptogeld(*) zijn maar bijvoorbeeld ook muziek, video?s of software. 
+
+#Petahash 
+Eenheid die aangeeft hoe snel een miner(*) een hash op kan lossen. Zie Hashrate(*) 
+
+#Phishing
+Techniek waarbij aan nietsvermoedende mensen zeer echt lijkende emails worden gestuurd waarbij gevraagd wordt op een link te klikken. Bijvoorbeeld om iets te bevestigen. In plaats daarvan zorgt de klik echter voor heel andere effecten zoals het besmetten van de computer met malware(*) of een virus.
+
+#Piramidespel
+Bij een piramidespel kan iemand lid worden door een deelnamebewijs te kopen van een andere deelnemer. Daarbij krijgt de nieuwe deelnemer het recht om zelf ook weer deelnamebewijzen te verkopen. Iedereen in de keten ontvangt er provisie van. Het benodigde aantal deelnemers groeit echter extreem en al snel moet de gehele wereldbevolking meedoen om nog voldoende deelnemers te hebben. Op dat moment loopt het ?spel? vast. De deelnemers van het eerste uur hebben er dik aan verdiend, ten koste van de grote groep die er later bijgekomen is en die hun geld kwijt zijn. 
+
+#Plugin
+Stukje software dat later toegevoegd kan worden aan bestaande software zonder dat deze software aangepast behoeft te worden. Vaak verricht een plugin een specifieke taak die niet voor alle gebruikers van de oorspronkelijke software interessant is. 
+
+#Pool fee 
+Miners nemen deel aan een samenwerkingsverband dat ?pool? wordt genoemd. Het doel daarvan is om gezamenlijk te ?minen?. De miners werken hierbij samen, omdat op die manier een hash sneller op te lossen valt. Een deel van de opbrengst is voor de pool om de kosten te dekken en wordt de pool fee genoemd. De verdere opbrengst wordt naar rato van de ingebrachte rekenkracht verdeeld onder de miners. 
+
+#Ponzischema
+Vorm van oplichting waarbij extreme rendementen voorgespiegeld worden aan de deelnemers. Deze krijgen ook daadwerkelijk uitbetaald en wel van de inleg van latere deelnemers. Enthousiast geworden gaan zij reclame maken waardoor het ponzischema zeer snel zal gaan groeien. Op een gegeven moment is niet genoeg geld meer en klapt het systeem. Het is ergens te vergelijken met het piramidespel. 
+
+#POS  
+Veel gebruikte afkorting van Proof Of Stake(*) 
+
+#POW  
+Veel gebruikte afkorting van Proof Of Work(*) 
+
+#Private key
+De private key is te vergelijken met onze pincode bij een geldrekening of een password dat we opgeven om onze email te benaderen. De private key zit opgenomen in onze wallet(*) waardoor we er weinig van merken. De wallet(*)software regelt alles voor ons. 
+
+#Probeergeld
+Vaak kun je bij een beurs of vergelijkbaar een proefaccount openen met probeergeld. Hierbij kun je oefenen alsof het handelen met echt geld betreft. Het kan handig zijn om de techniek te leren maar behaalde resultaten zeggen helemaal niets over de mogelijkheden voor de toekomst. 
+
+#Processor
+Het hart van elke computer dat de eigenlijke digitale bewerkingen uit kan voeren. 
+
+#Proof Of Stake 
+Techniek om blokken aan de blockchain(*) toe te voegen waarbij de miner(*) zijn bevoegdheid krijgt door aan te tonen eigenaar te zijn van een bepaald deel van de betreffende munt. 
+
+#Proof Of Work 
+Techniek om blokken aan de blockchain(*) toe te voegen waarbij de miner(*) zijn bevoegdheid krijgt door een hash(*) op te lossen. 
+
+#Public key
+De public key is een code die we rustig ergens kunnen vermelden omdat deze zonder private key(*) niet te gebruiken is. Vergelijk het met een emailadres dat we rustig op een visitekaartje mogen zetten. Zonder wachtwoord is de email niet te lezen. Of een rekeningnummer dat we rustig op een factuur kunnen zetten maar dat zonder de goede pincode niet te benaderen is. 
+
+#Pump & Dump
+Techniek die sommigen toepassen om een cryptomunt gedurende korte tijd sterk in waarde te laten stijgen door een grote koopdruk uit te oefenen in de hoop dat anderen meegaan en gaan kopen. Als dat dan gebeurt wordt de cryptomunt verkocht wat een scherpe koersval tot gevolg heeft en zitten de laat ingestapte personen met de brokken. Buiten de cryptowereld is dit strafbaar. Binnen de cryptowereld wordt het als ?slim handelen? gezien. 
+
+#QE
+Afkorting van Quantitative Easing(*) Zie daar. 
+
+#Quantitative Easing
+Dit is de politiek gemakkelijk te verkopen term voor een aanpak van de ECB, de Europese Centrale Bank om door het bijdrukken van grote hoeveelheid Euro?s een lichte vorm van inflatie te forceren. Het project moet als vrijwel mislukt worden beschouwd. 
+
+#Recovery seed words
+Een serie recovery seed words maakt het mogelijk om een Bitcoin(*) wallet(*) terug te krijgen als de toegang op de een of andere manier onmogelijk is geworden. Of het 100% veilig is, is onderwerp van hevige discussie op het internet. 
+
+#Satoshi 
+Een Satoshi is een hondermiljoenste deel van een Bitcoin. Ofwel 1 Bitcoin(*) is 100.000.000 Satoshi.
+
+#Satoshi Nakamoto
+Satoshi Nakamoto is de uitvinder / ontwerper van Bitcoin. Het is een verder totaal onbekend persoon of mogelijk zelfs een groep personen.
+
+#Script
+Een scripts is een stukje uitvoerbare computercode. Vaak onderdeel van een website. 
+
+<p>Daarnaast is "script" een techniek die bij mining(*) wordt gebruikt. 
+
+#SEPA
+SEPA is de afkorting van Singe Euro Payments Area waar betalingen in Euro op dezelfde wijze worden afgewerkt. Één van de bekendste activiteiten is het invoeren van de IBANcode voor overschrijvingen geweest. 
+
+#SHA256 
+Algoritme (rekentechniek) voor het oplossen van een hash(*) 
+
+#Sourceforge
+Sourceforge is een website waar zogenaamde open source(*) software op geplaatst kan worden zodat anderen daar kennis van kunnen nemen. 
+
+#SPV
+Afkorting van Simple Payment Verfication , zie daar
+
+#Simple Payment Verfication
+Dit is een techniek om te zien of een bepaalde transactie in een blok(*) is opgenomen zonder dat het block zelf volledig geladen behoeft te worden. Het wordt gebruikt in bepaalde meer simpele wallets(*)
+
+#Storneren
+Onder storneren verstaan we het terug laten boeken van een gedane betaling bij onze bank. Meestal is dat tot enkele weken na de datum van betalen mogelijk. 
+
+#Technische analyse
+Een techniek om sentiment op beurzen zichtbaar te maken. Velen denken echter  te maken te hebben met een techniek om voorspellingen van beurzen of koersen te doen maar voorspellen op de beurs is volslagen onmogelijk. Dat komt door de tienduizenden variabele factoren die daar een rol bij spelen. Het sentiment dat Technische Analyse ofwel TA zichtbaar maakt duurt enkele dagen tot maximaal een dag of veertien maar dat is ruim voldoende voor een trader om een leuke winst te kunnen realiseren.  Een goede technische analist kan daar zeer ruim zijn brood mee verdienen.
+
+#Terahash 
+Eenheid die aangeeft hoe snel een miner(*) een hash op kan lossen. Zie Hashrate(*)
+
+#Time Frame
+Dit is de tijd die u stelt om te berekenen of mining(*) effectief is of niet. U neemt bijvoorbeeld een time frame van twee maanden. Dan berekent u de opbrengst in Bitcoin(*) over deze periode én de gemaakte energiekosten. Nu krijgt u een gevoel of uw mining(*) werkt of dat er geld bij moet. Want dat komt ook nog wel eens voor.  
+
+#Trader
+Handelaar in financiële waarden die zijn posities in het algemeen kortstondig aanhoudt. Een trader werkt in het algemeen op basis van technische analyse omdat bij fundamentele analyse een tijdsfactor ontbreekt waardoor het niet mogelijk is om op het juiste moment in- of uit te stappen. 
+
+#Tradingrobot
+Software die zelfstandig kan handelen op de beurs zonder enige menselijke tussenkomst. Naar schatting vindt al een significant deel van de handel in cryptogeld via dit soort robots plaats.
+
+#Tradingstrategie
+Techniek waarmee een trader een voorsprong hoopt te krijgen op andere traders (een zogenaamde edge). Meestal is deze strategie gebaseerd op technische analyse(*).
+
+#Virtueel
+Iets wat virtueel is bestaat alleen in de computer en niet daarbuiten. 
+
+#Virtuele munt 
+Één van de vele synoniemen van cryptogeld(*) boek 4
+
+#Wallet
+Een wallet(*) is een portemonnee voor cryptogeld(*). Hier bewaren we ons cryptogeld(*) in. We kunnen betalingen vanuit de wallet(*) doen en je kunt geld in je wallet(*) ontvangen. Sommige wallets werken daarnaast op de achtergrond ook als node(*).
+
+#Wallet, cold
+Een cold wallet(*) is een wallet(*) die niet  direct verbonden is met het internet zodat het voor onbevoegden als hackers(*)  lastig tot onmogelijk wordt om er toegang toe te krijgen
+
+#Wallet, desktop
+Een desktop wallet(*) is een wallet(*) die draait op een personal computer en vrijwel altijd ook als node(*) dienst doet. 
+
+#Wallet, hardware
+Een hardware wallet(*) is een soort USB stick waarop een wallet(*) staat, vaak voorzien van de nodige extra beveiligingen. 
+
+#Wallet, hot
+Een hot wallet is een wallet(*) die een directe verbinding met internet kent, als zullen daar de nodige drempels als een firewall(*) en een virusscanner(*) tussen zitten. Het grote gevaar van een hot wallet is hackers(*) zich toegang tot de wallet(*) weten te verschaffen en uw cryptogeld(*)  overboeken naar een eigen wallet. 
+
+#Wallet, mobiele
+Een mobiele wallet(*) is een wallet(*) die draait op een smartphone of iphone. Meestal zijn er geen mogelijkheden om de wallet(*) als node te gebruiken. 
+
+#Wallet, online
+Een online wallet(*) is direct vanaf internet te benaderen omdat deze onderdeel is van een website. Vaak zijn het wallets(*) van exchanges(*) waar we cryptogeld(*) om te handelen direct ter beschikking moeten hebben. 
+
+#Wallet, papier
+Een papieren wallet(*) is niet meer dan een private key(*) waar we geld naar toe kunnen storten. Een papieren wallet(*) wordt met een speciaal programma aangemaakt. Terughalen van geld naar een normale wallet(*) is een lastig proces dat voor leken zeker niet aan te raden is. 
+
+#Wallet, web
+Een webwallet is een wallet(*) die uitgevoerd is als een webpagina. De EFL.NL wallet(*) van de e-Gulden is er een voorbeeld van 
+
+#Wallet.dat
+Bestandje op een computer dat de private key bevat. Het is eenvoudig te versleutelen en met een wachtwoord te beveiligen. Een simpele kopie van het kleine bestand is voldoende om uw wallet(*) te kunnen herstellen bij problemen. 
+
+#Whale
+Een whale is een bezitter van grote hoeveelheden van een bepaalde cryptomunt. Ze kunnen deze munten vaak volledig naar hun hand zetten wat ze als betaalmiddel onbruikbaar maakt door het veel te grote gevaar van allerlei manipulaties. . 
+
+#White paper
+In een white paper beschrijven we een idee omdat met anderen te kunnen delen of om een beslissing te kunnen nemen. Het is een globale beschrijving zonder al te veel technische diepgang. 
+#-
