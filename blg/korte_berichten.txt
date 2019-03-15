@@ -1,6 +1,8 @@
 index_kort;index_dialoog
 Korte berichten
 <br>
+#1-maart-2019 Een nieuwe marktplaats: Altilly
+[https://e-gulden.org/index.php/altilly__een_nieuwe_marktplaats, Lees meer...]
 #1-maart-2019 Tweede doe mee bijdrage: woordenlijst cryptogeld
 Een dag na onze opensource voorzet rolt de tweede bijdrage binnen op onze doe-mee oproep: [index.php/woordenlijst_cryptogeld,woordenlijst cryptogeld]
 <p>Voor degenen die zich afvragen wat dan de eerste voorzet was: De kwam gespreid binnen op het e-gulden forum; Ze hebben dit samengepakt en integraal op een [http://doemee.e-gulden.org/,todolijst] gezet.
