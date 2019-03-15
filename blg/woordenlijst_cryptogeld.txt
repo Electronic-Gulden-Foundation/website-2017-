@@ -2,7 +2,10 @@ index_kort
 Woordenlijst cryptogeld
 <p>Onderstaand een lijst met woorden die vaak in de cryptowereld worden gebruikt. Met de functietoets CTRL-F kan hierbinnen worden gezocht. Een klik op een woord opent de uitleg.
 
-<p>Een (*) achter een woord betekent dat het elders in de woordenlijst wordt uitgelegd.
+<p>Een (*) achter een woord binnen de beschrijving betekent dat het elders in de woordenlijst wordt uitgelegd.
+
+<p>Hoe doe je mee? Ga naar [https://gitlab.com/electronic-gulden-foundation/website-2017-/blob/Woordenlijst-cryptogeld/blg/woordenlijst_cryptogeld.txt,Gitlab, zijtak woordenlijst], en pas de woordenlijst aan.
+
 #Alfanumeriek
 Een code of tekst is alfnumeriek als deze uit zowel letters als cijfers kan bestaan maar geen tekens die daarvan afwijken. Is soms wat vaag omdat het niet duidelijk is of bijvoorbeeld een ë of een ñ nu een geldige letter is of niet.  
 
