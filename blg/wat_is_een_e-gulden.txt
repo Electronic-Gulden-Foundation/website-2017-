@@ -7,6 +7,7 @@ De ontwikkelaars van EFL beschouwen de EFL als een verlengstuk en steunpilaar va
 <p><br>Tip: In onderstaande video wordt capaciteit als argument voor een Nederlandse cryptogeldvariant getoond.
 <br>
 module_dewereldisgroot
+<br><b>Opmerking</b>: markten zijn wispelturig en de markten die in de video worden genoemd zijn mogelijk al weer vervangen of aangevuld. In [https://e-gulden.org/index.php/het_e-gulden_circuit,het e-gulden-circuit] staat de actuele stand van zaken.
 
 <h2>De toegevoegde waarde van EFL</h2>
 Omdat EFL functioneel gelijk is aan Bitcoin volstaat het, wat functionaliteit en perspectief betreft, om te verwijzen naar Bitcoin. 
@@ -41,7 +42,8 @@ De belangrijkste verdienste van [coinmarketcap.com,coinmarketcap.com] is dat het
 <ul><li>Muntsoorten met een hogere oplage worden hoger gewaardeerd dan muntsoorten met een kleine oplage. Zelfs als de dagomzet laag is bepaalt de actuele prijs de prijs van alle munten in omloop. 
 <li>Een hogere muntoplage heeft geen enkele toegevoegde waarde omdat cryptogeld oneindig deelbaar is. Momenteel wordt de waarde van iedere cryptomunt ten opzichte van Bitcoin uitgedrukt met acht cijfers achter de komma. Een hogere muntoplage is een overduidelijk middel om onwetende beleggers te manipuleren. Een eenvoudige oplossing om dit te corrigeren is door de marktcapitalisatie te delen door een <BLAUW>oplagefactor = bitcoinoplage / altcoinoplage</BLAUW>. 
 <li>Omdat marktcapitulatie momenteel de belangrijkste waardering is krijgen veel muntsoorten met een hoge oplage ten onrechte een toppositie. 
-Als beleggers een hoge positie beschouwen als een hoge waardering, dan is hun investering gebaseerd op die muntoplage en dus op een eigenschap zonder waarde. EFL heeft een vergelijkbare oplage als Bitcoin. De oprichters van EFL hebben zich niet door deze manipulatiemogelijkheid laten leiden. Het getuigt van visie van newsbit.nl dat zij EFL, met een relatief lage marktcapitalisatie, toch aan het woord laten. 
+Als beleggers een hoge positie beschouwen als een hoge waardering, dan is hun investering gebaseerd op die muntoplage en dus op een eigenschap zonder waarde. EFL heeft een vergelijkbare oplage als Bitcoin. De oprichters van EFL hebben zich niet door deze manipulatiemogelijkheid laten leiden.
+Het getuigt daarom van visie als media de e-Gulden toch aan bod laten komen.
 </ul>
 <p>Een populair argument tegen cryptogeld is de sterke schommeling van de prijs. Het motief is dat de waarde van geld stabiel zou moeten zijn. De prijs op dit moment is echter pure speculatie en heeft weinig te maken met de potentiële waarde. De actuele prijs is meer een afspiegeling van de marketingcapaciteit en het financiële vermogen van Altcoinstichters en early adopters. 
 <p>Zolang cryptogeld niet definitief is doorgebroken is het inderdaad minder geschikt als een betaalmiddel en beter geschikt als een belegging. Bij een definitieve doorbraak van cryptogeld is de prijs een afspiegeling van de waarde die de community eraan heeft toevertrouwd. Op het moment dat cryptogeld het fiatgeld vervangt (Euro, Dollar,...) wordt cryptogeld zelf de waardereferentie. Als cryptomunten nauw met elkaar in verband staan (door het bestaan van een vrije markt) zullen de economische verhoudingen tussen de verschillende communities erin worden weerspiegeld. Omdat cryptogeld nog vrijwel onbekend is bij het grote publiek, laat staan de techniek en de mogelijkheden van cryptogeld, heeft de prijs van nu weinig betekenis. 

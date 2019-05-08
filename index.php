@@ -88,7 +88,7 @@ $blogplus=str_replace("#",$lines[1],$blogplus);
 if (($blog=="veel_gestelde_vragen")||($blog=="geldkip")) {
 	$disqus=file_get_contents("templates/sm_disqus.txt");
 	$disqus=str_replace("PAGE_IDENTIFIER","'$title'",$disqus);
-	$disqus=str_replace("PAGE_URL","'https://e-gulden.org/index.php/$q'",$disqus);
+	$disqus=str_replace("PAGE_URL","'disqus://e-gulden.org/index.php/$q'",$disqus);
 	$body.=$disqus;
 }
 $frame=str_replace("#2#"," $body\n$blogplus",$frame);
@@ -195,6 +195,8 @@ if ($blog=="de_e-gulden") {
 $frame=str_replace("https://e-gulden.org/index.php","index.php",$frame);
 $frame=str_replace("https://e-gulden.org/images/","images/",$frame);
 $frame=str_replace("src='/images/","src='images/",$frame);
+// disqus uitzondering
+$frame=str_replace("disqus://e-gulden.org","https://e-gulden.org",$frame);
 
 echo $frame;
 
