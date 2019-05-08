@@ -18,6 +18,8 @@ Voor trouwe lezers zullen de Journaals te herkennen zijn aan de kleurige voorpag
 Voor samenvattingen en leesselecties is het praktischer om de [https://e-gulden.org/index.php/Journaal_samenvattingen,index met samenvattingen] te raadplegen.<br><br>
 <p>
 
+{/nieuws/25/journaal0025_bestanden/cover25.jpg,index.php/nieuwsbrief_25,200}
+{/nieuws/24/journaal0024_bestanden/cover24.jpg,index.php/nieuwsbrief_24,200}
 {/nieuws/23/journaal0023_bestanden/image001.jpg,index.php/nieuwsbrief_23,200}
 {/images/j22.jpg,index.php/nieuwsbrief_22,200}
 {/images/j21.jpg,http://egulden.org/flip/efljournaal21.html,200}
