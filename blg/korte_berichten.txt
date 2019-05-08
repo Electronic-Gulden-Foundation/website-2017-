@@ -1,6 +1,8 @@
 index_kort;index_dialoog
 Korte berichten
 <br>
+#8-mei-2019 Geldkip ontdekt e-Guldens
+Het initiatief van Bianca van geldkip.nl verdient ieders aandacht en dat van ons met [index.php/geldkip,een begeidend artikel]
 #1-april-2019 Nog een nieuwe marktplaats: Altmarkets.io
 [https://e-gulden.org/index.php/altmarkets, Lees meer...]
 #15-maart-2019 Een nieuwe marktplaats: Altilly

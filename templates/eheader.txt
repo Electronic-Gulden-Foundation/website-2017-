@@ -60,7 +60,7 @@
 	<a href="/index.php/de_portemonnee" >Aan de slag</a>
 	<a href="/index.php/het_e-gulden_circuit" >Het e-Gulden circuit</a>
 	<a href="/index.php/communicatie" >Communicatie</a>
-	<a href="/index.php/nieuwsbrief_24" >Nieuwsbrief 24</a>
+	<a href="/index.php/nieuwsbrief_25" >Nieuwsbrief 25</a>
 	<!--<a href="/index.php/campagnes" >Campagnes</a>-->
 	<!--<a href="/index.php/geld" >Wat kun je doen met geld</a>-->
 	<!--<a href="/index.php/initiatief" >Ons initiatief</a>-->

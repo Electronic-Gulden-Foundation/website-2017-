@@ -85,7 +85,7 @@ for ($i=2;$i<count($lines);$i++) {$body.=$lines[$i]."\n";}
 $blogplus=@file_get_contents("templates/blog.txt");
 $lines[1]=strtolower($lines[1]);
 $blogplus=str_replace("#",$lines[1],$blogplus);
-if ($blog=="veel_gestelde_vragen") {
+if (($blog=="veel_gestelde_vragen")||($blog=="geldkip")) {
 	$disqus=file_get_contents("templates/sm_disqus.txt");
 	$disqus=str_replace("PAGE_IDENTIFIER","'$title'",$disqus);
 	$disqus=str_replace("PAGE_URL","'https://e-gulden.org/index.php/$q'",$disqus);
