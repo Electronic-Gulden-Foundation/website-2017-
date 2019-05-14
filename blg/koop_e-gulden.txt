@@ -3,18 +3,19 @@ koop e-gulden
 <h1>e-Gulden kopen en verkopen</h1>
 <br><br>
 EFL vertegenwoordigt waarde op de vrije markt en kan dus in euro's worden uitgedrukt. 
-Cryptobeurzen waar EFL gekocht en verkocht kan worden met Bitcoin komen en gaan :
+Cryptobeurzen waar EFL gekocht en verkocht kan worden met Bitcoin komen en gaan. Momenteel is e-Gulden te verkrijgen op:
 <ul>
 <li>[https://www.altilly.com/market/EFL_BTC, Altilly]</li>
 <li>[https://novaexchange.com/market/BTC_EFL/,Novaexchange]</li>
 <li>[https://altmarkets.io/trading/eflbtc, Altmarkets]</li>
 <li>[https://www.cryptopia.co.nz/Exchange/?market=EFL_BTC,cryptopia], staat tijdelijk geen stortingen toe
 </ul>
-<br><br>
-Beurzen zijn handelsomgevingen en vergen enige ervaring. De eenvoudigste instap op dit moment biedt [https://wallet.efl.nl,wallet.efl.nl].
-<br><br>
 Een onpartijdig overzicht van beurzen staat op [https://www.coingecko.com/en/coins/electronicgulden/trading_exchanges#panel, Coingecko.com]
+<br><br>
+Beurzen zijn handelsomgevingen en vergen enige ervaring. De eenvoudigste instap op dit moment biedt [https://wallet.efl.nl,wallet.efl.nl]. Hier neemt een robot dit werk van u over.
+Onderstaande video geeft een impressie.
+<br><br>
 <b><u>Attentie:</b></u>
 Cryptobeurzen bieden de mogelijkheid om uw EFL aldaar op te slaan. Daar is cryptogeld uiteindelijk niet voor bedoeld. Zorg ervoor dat u het zichzelf eigen maakt om cryptogeld in eigen beheer te houden. Lees daarvoor onze aanwijzingen op de [https://e-gulden.org/index.php/de_portemonnee, portemonnee pagina] en vergeet vooral niet om te zorgen voor een goede backup!
-
+<p><br>
 module_koop-eguldenvideo
