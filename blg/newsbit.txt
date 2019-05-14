@@ -60,9 +60,8 @@ EFL is opgericht door een groep Nederlandse studenten die verder anoniem zijn ge
 Wil jij EFL kopen? EFl kan rechtstreeks worden gekocht op de volgende beursen:
 <ul><li>[https://www.bittrex.com/Market/Index?MarketName=BTC-efl,Bittrex]<li>[https://cryptopia.co.nz/Exchange/?market=EFL_BTC,cryptopia]</ul>
 Voor het gemak kan EFL ook worden gekocht via tussenpartijen:<ul>
-<li>[https://bitcoinmeester.nl,bitcoinmeester]
 <li>[https://coinswitch.co/,coinswitch]
-<li>[https://1.efl.nl,efl]
+<li>[https://wallet.efl.nl,efl]
 </ul>
 
 <h2>Wat zijn de voordelen van EFL</h2>
