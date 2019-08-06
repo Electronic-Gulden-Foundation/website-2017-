@@ -1,5 +1,8 @@
 index_kort
 altmarkets
+<intro>
+5-8-2019: Helaas bleek een ALtmarkt-beurs wat teveel op dit moment. Er kon geen volume op ontstaan, zodat EFL weer is afgedreven.
+</intro>
 <p>De vierde beurs van dit moment die we hebben weten te overtuigen van de toekomst van een communitycoin als EFL heeft <b>[https://altmarkets.io/trading/eflbtc,Altmarkets.io]</b>.
 <p>Altmarkets is een relatief jonge beurs op het moment van schrijven. Dat het marktvolume nog beperkt is zegt dus niets over de inspiratie van het team achter de schermen.
 

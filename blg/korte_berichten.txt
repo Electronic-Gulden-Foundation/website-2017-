@@ -1,6 +1,10 @@
 index_kort;index_dialoog
 Korte berichten
 <br>
+#6-8-2019 Cryptoplichters
+Een onafhankelijk onderzoek naar e-Gulden. [https://e-gulden.org/index.php/cryptoplichters, Lees meer...]
+#5-augustus-2019 Altmarkets.io heeft geen lange adem
+[https://e-gulden.org/index.php/altmarkets, Lees meer...]
 #8-mei-2019 Geldkip ontdekt e-Guldens
 Het initiatief van Bianca van geldkip.nl verdient ieders aandacht en dat van ons met [index.php/geldkip,een begeidend artikel]
 #1-april-2019 Nog een nieuwe marktplaats: Altmarkets.io
