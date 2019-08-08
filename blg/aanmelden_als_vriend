@@ -9,9 +9,13 @@ Vrienden van de e-Gulden: aanmelden
 	Nog geen portemonnee? Maak je keuze op de <a href='index.php/portemonnee'>downloadpagina</a> of ga naar <a href='https://efl.nl'>efl.nl</a></td></tr>
 	<tr valign='top'><td><h4>Vriendadres (e-Gulden)</h4><input name='vriend' type='text' id='fld_vriend' size='60'><br>Optioneel ! Dit moet dan wel het e-Gulden adres zijn van een bestaande e-Gulden-vriend. Je krijgt dan 3,75 EFL <b>extra</b> en de bestaande vriend krijgt 2,20371 EFL</td></tr>
 	<tr valign='top'><td><h4>Woonplaats</h4><input sname='plaats' type='text' id='fld_plaats' size='60'><br>Komt in de vriendenlijst (maar is niet verplicht)</td></tr>
-	<tr valign='top'><td><h4>Links</h4>
-	<textarea id='fld_links' cols='60' rows='5' wrap='VIRTUAL' ></textarea><br>Komen als klikbaar symbool in de vriendenlijst. Voorbeelden zijn : <li>lid van de e-Gulden facebookgroep</li><li>twittervolger van de foundation</li><li>een webpagina met een link naar e-gulden.org</li><li>TIP: <a href='https://support.twitter.com/entries/80586-how-to-link-directly-to-an-individual-tweet'>Link naar een tweet</a></td></tr>
-	<tr valign='top'><td><input type='button' id=submit_faq onclick=verzend() value='verzend' style='cursor:pointer'><div id=id_progress></div>Attentie :<br><li>Gebruik bij een link de volledige verwijzing, dus inclusief http://</li><li>Uit alle links moet duidelijk zijn jij daarbij betrokken bent. Dus bijvoorbeeld niet http://facebook.com, maar http://facebook.com/JOUW_PAGINA</li><li>Uit alle links moet duidelijk blijken dat je melding maakt van de e-Gulden.</li></tr>
+	<tr valign='top'><td><h4>Link(s) naar jezelf</h4>
+	<textarea id='fld_links' cols='60' rows='5' wrap='VIRTUAL' ></textarea><br>
+	<span style='color:red'>Attentie: We vragen geen link naar e-gulden.org of coinmarketcap, maar naar je eigen website, webpagina of sociale medium. Feitelijk maak je zo wat reclame voor jezelf.
+	We zouden het ook op prijs stellen als je op die pagina e-Gulden positief naar voren laat komen, maar dat is niet verplicht.
+	<br>Gebruik bij verder bij een link de volledige verwijzing, dus inclusief http://
+	</td></tr>
+	<tr valign='top'><td><input type='button' id=submit_faq onclick=verzend() value='verzend' style='cursor:pointer'><div id=id_progress></div></tr>
 	<tr valign='top'><td><div align='center'></div></td></tr>
 </td></tr></table>
 </div>

@@ -1,0 +1,7 @@
+index_kort
+guldentrader
+<p>Eindelijk komt er eens duidelijkheid in de markt: <ROOD>Gulden (NLG) is niet hetzelfde als e-Gulden (EFL).</ROOD>
+<p>Een nieuw beursinitiatief van [https://exchange.guldentrader.com,exchange.guldentrader.com] schept daar duidelijkheid in door de mogelijkheid te bieden om beide munten tegen elkaar om te wisselen.
+<p>Zelf hebben we de verschillen (niet alleen technisch, maar ook het verschil in inzicht) zo duidelijk mogelijk gepresenteerd op de aankondigingspagina van e-Gulden op [https://bitcointalk.org/index.php?topic=843017.0,bitcointalk]. Van de zijde van Gulden wordt e-Gulden vooralsnog doodgezwegen.
+<p>Let er bij guldentrader vooral op dat de wisselkeurs wordt uitgedrukt in het aantal NLG dat je koopt voor 1 EFL. Op dit moment (8 augustus 2019) bedraagt dat omstreeks 10. Als je kijkt naar het aantal van beide munten dat er ooit op de markt komt is dat een verhouding van 80. De huidige prijsverhouding is misschien meer een maat voor stampij. Het is maar waar je waarde aan hecht, maar laat er in elk geval duidelijkheid zijn.
+
