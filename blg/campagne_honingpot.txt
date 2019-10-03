@@ -1,0 +1,29 @@
+index_kort;module_honingpot1;module_honingpot2
+Campagne honingpot
+<h1>Operatie honingpot</h1>
+<h2>De aanzet tot operatie honingpot</h2>
+Op de [https://t.me/joinchat/Hbt5YFB9HFHPYEH-njb_vA,e-Gulden telegramgroep], een initiatief van Yoshi Livo, kwam de volgende oproep van imker Bart:
+<intro>
+Beste leden van de e-Gulden EFL telegramgroep. Ik ben imker en om de e-Gulden te promoten kun je een verse pot honing verdienen als je in Nederland woont! Daarom heb ik de volgende uitdaging voor jullie bedacht... De eerste die het voor elkaar krijgt, vanaf nu dat 10 vrienden van jouw zich aanmelden via vrienden van de e-Gulden en jouw e-guldenadres gebruiken, krijgt de pot honing!
+</intro>
+Een fantastisch initiatief en op de [https://e-gulden.org/index.php/vrienden_van_de_e-gulden,vriendenpagina] kan het verloop eenvoudig worden gecontroleerd.
+
+<h2>Reaktie op operatie honingpot</h2>
+Op de honingpot aanbieding volgde al snel een Moonlander e-Gulden-miner en een EFL telefoonhoesje zodat er een heel nieuwe dimensie ontstaat:
+<br><center><b>Iedereen die iets in de strijd wil werpen kan dat.</b></center>
+<p>Stuur een mailtje maar support@e-gulden.org met je inbreng zodat we deze kunnen opnemen en zodat we je kunnen bereiken als er een winnaar bekend is.
+Als er een winnaar bekend is sturen we een mailtje terug met het ontvangstadres van de winnaar. 
+
+<h2>De prijzenpot</h2>
+Ga de uitdaging aan en kom in actie voor de e-Gulden dan wordt je driedubbel beloond:
+<ul>
+<li>Je krijgt al, voor iedere vriend die zich aanmeldt en jouw e-gulden adres invult, 2,20371 e-Guldens dus dat is totaal  22,0371 e-Guldens
+<li>Je krijgt een verse pot honing en al het overige dat is ingelegd in de prijzenpot
+<li>Je draagt bij aan het succes van ons gemeenschappelijke cryptogeldproject:  de e-Gulden
+</ul>
+<p>
+De prijzenpot bestaat momenteel uit<br>
+module_honingpot1
+<br><br>
+<h2>De tussenstand</h2>
+module_honingpot2

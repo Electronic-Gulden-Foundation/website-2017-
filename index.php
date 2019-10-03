@@ -1,4 +1,12 @@
 <?php
+
+$x=strpos($_SERVER['REQUEST_URI'],"/index.php");
+$q=strtolower(substr($_SERVER['REQUEST_URI'],$x+11)); // skip /index.php/
+if ($q=="") {
+	header("location: https://electronic-gulden-foundation.gitlab.io/");
+	die();
+}
+
 header("Content-Type: text/html; charset=ISO-8859-1");
 
 $lang=" ".strtolower(@$_SERVER['HTTP_ACCEPT_LANGUAGE']);
@@ -15,7 +23,10 @@ $x=strpos($_SERVER['REQUEST_URI'],"/index.php");
 $q=strtolower(substr($_SERVER['REQUEST_URI'],$x+11)); // skip /index.php/
 
 if (strpos($q,"#")>0) {$q=substr($q,0,strpos($q,"#"));}
-if (strpos($q,"?")>0) {$q=substr($q,0,strpos($q,"?"));}
+if (strpos($q,"?")>0) {
+	$param=explode("&",substr($q,strpos($q,"?")+1));
+	$q=substr($q,0,strpos($q,"?"));
+}
 if ($q=="home") {$q="";}
 if ($q=="") {$q="de_e-gulden";}
 if ($q=="campagne_oeruschild") {$q.="_vijfde_etappe";} 
@@ -117,6 +128,7 @@ foreach ($menus as $sidemenu) {
 $test="";
 foreach ($menus as $sidemenu) {
 	if (substr($sidemenu,0,6)=="module") {
+		$test.="$sidemenu,";
 		if (file_exists("blg/$sidemenu")) {
 			$frame=str_replace($sidemenu,file_get_contents("blg/$sidemenu"),$frame);
 		} elseif (file_exists("feed/".substr($sidemenu,6))) {
@@ -165,6 +177,15 @@ if ($blog=="de_e-gulden") {
 	}
 
 	$frame=str_replace("feed_vrienden",file_get_contents("feed/vrienden"),$frame);
+}elseif ($blog=="aanmelden_als_vriend") {
+	$feed="";
+	foreach ($param as $p) {
+		@list($veld,$inhoud)=explode("=",$p);
+		if ($veld=="vriendadres") {$feed.="document.getElementById('fld_vriend').value='$inhoud';";}
+	}
+	if ($feed!="") {$frame.="\n<script>$feed</script>\n";}
+}elseif ($blog=="campagne_honingpot") {
+	file_put_contents("feed/_honingpot2",file_get_contents("http://calc.egulden.org/feed_vrienden2.php"));
 }elseif ($blog=="nieuwsbrieven") {
 	if ($doelgroep) {
 		$module_nieuwsbriefaanmelden=file_get_contents("blg/module_nieuwsbriefaanmelden");
@@ -252,6 +273,8 @@ function sane_title($txt) {
 	$first=substr(preg_replace('/\s+/', ' ',$x),0,60);
 	return(preg_replace('/\s/', '_',$x));
 }
+
+echo "<br>###$test";
 
 ?>
 

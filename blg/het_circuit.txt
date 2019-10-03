@@ -8,7 +8,7 @@ Binnen de wereld van elektronisch geld zijn twee krachten actief: globalisering 
 Met "Wie zijn wij" willen we tot uitdrukking brengen dat elektronisch geld decentraal functioneert. Het is een open netwerk dat door de meerderheid wordt gecontroleerd en niet door een centrale vertegenwoordiging. Voor zover de stichting Electronic Gulden Foundation toch een centrale positie heeft voert zij een zeer conservatief beleid door de uitgangspunten te bewaken. 
 
 _Beurzen
-Ook beurzen kunnen worden gezien als een punt van samenkomst. Mensen die e-Guldens willen verkopen of verkopen kunnen hier terecht en onderling bepalen zij de werkelijke prijs van de e-Gulden. Aarzel niet om eens een kijkje op met name Bittrex te nemen. Handelen in valuta is erg laagdrempelig, serieus en anoniem.
+Ook beurzen kunnen worden gezien als een punt van samenkomst. Mensen die e-Guldens willen verkopen of verkopen kunnen hier terecht en onderling bepalen zij de werkelijke prijs van de e-Gulden. Aarzel niet om eens een kijkje op met name Altilly te nemen. Handelen in valuta is erg laagdrempelig, serieus en anoniem.
 _Explorers
 De echte interactie met betrekking tot de e-Gulden vindt natuurlijk plaats door middel van openbare betaaltransacties. Door middel van explorers kun je precies volgen wat de e-Gulden nu echt beweegt.
 _Betaalcircuits
