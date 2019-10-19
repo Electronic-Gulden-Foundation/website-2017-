@@ -66,9 +66,9 @@ Parallel daaraan ontstaat op Gitlab de bron voor een nieuwe website. We hopen da
   
 * PHP: Alleen nodig als je de website op je eigen computer wilt draaien
   * Installeer [PHP](http://php.net/downloads.php)
-  Â° Activeer de ingebouwde PHP webserver op een vrije internetpoort:
-    php -S 127.0.0.1:1337 -t <rootdirectory>
-  * Browse naar http://serveradres:internetpoort
+  * Activeer de ingebouwde PHP webserver op een vrije internetpoort:
+    `php -S 127.0.0.1:1337 -t <rootdirectory>`
+  * Browse naar http://localhost:1337/index.php/de_egulden
 
 * Ervaring met HTML: alleen nodig als bestaande inhoud wilt aanpassen of nieuwe artikels wilt plaatsen
 
