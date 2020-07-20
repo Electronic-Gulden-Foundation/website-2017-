@@ -4,7 +4,7 @@
 <li class="menu"><a href="https://e-gulden.org/download/index.php?corewallet" >Laatste versie corewallet</a></li>
 <li class="menu"><a href="https://e-gulden.org/index.php/raspberry_pi" >Raspberry-Pi kit</a></li>
 </ul>
-<h4>Broncode en bètaversies</h4>
+<h4>Broncode en btaversies</h4>
 <ul class="latestnews">
 <li class="menu"><a href="https://github.com/Electronic-Gulden-Foundation/egulden/releases" >Github</a></li>
 </ul>
@@ -18,9 +18,10 @@
 </ul>
 <h4>Beurs portemonnees</h4>
 <ul class="latestnews">
-<li class="menu"><a href="https://exchange.guldentrader.com" >Guldentrader</a></li>
-<li class="menu"><a href="https://novaexchange.com" >Novaexchange</a></li>
-<li class="menu"><a href="https://www.altilly.com" >Cryptopia</a></li>
+<li class="menu"><a href="https://www.altilly.com/market/EFL_BTC"><b>altilly.com</b></a></li>
+<li class="menu"><a href="https://folgory.com/trade-crypto/EFL_BTC"><b>folgory.com</b></a></li>
+<li class="menu"><a href="https://trade.tradecoinx.com/trading/eflbtc"><b>tradecoinx.com</b></a></li>
+<li class="menu"><a href="https://www.unnamed.exchange/Exchange?market=EFL_BTC"><b>Unnamed</b></a></li>
 </ul>
 <h4>Opslag op papieren</h4>
 <ul class="latestnews">
